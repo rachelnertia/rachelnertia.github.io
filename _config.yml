@@ -8,8 +8,8 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               rachelnertia
-tagline:             a game programming blog
+title:               moments of inertia
+tagline:             tech, toast and tea
 url:                 http://rachelnertia.github.io
 paginate:            5
 baseurl:             ""
