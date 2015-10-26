@@ -4,7 +4,11 @@ title: Flappy Word v1
 comments: true
 ---
 
-Here's a little game I've been making over the last few weeks because the name popped into my head one day. Type the words that come up to flap.
+Here's a little game I've been making over the last few weeks because the name popped into my head one day. I've put it behind a break because otherwise it autoplays.
+
+<!--more-->
+
+Type the words that come up to flap.
 
 <iframe src="{{site.baseurl}}/builds/flappy_word/v1/index.html" width="650" height="490" scrolling="no" frameborder="0"></iframe>
 
