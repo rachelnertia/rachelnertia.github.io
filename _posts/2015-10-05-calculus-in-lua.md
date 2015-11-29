@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Calculus in Lua
+categories: [programming]
+tags: [Lua]
 comments: true
-tags: Maths, Lua
 ---
 
 Lately I unearthed a file named 'maths.lua' which I've had sitting around on my hard drives for about two years. It contains a very small library of maths functions, most of which are to do with calculus. I remember writing these functions after learning numerical methods for <a href="https://en.wikipedia.org/wiki/Numerical_integration">integration</a> and <a href="https://en.wikipedia.org/wiki/Numerical_differentiation">differentiation</a> and while I was enthusiastically getting to grips with the <a href="http://www.lua.org/">Lua</a> programming language[^1]. It was satisfying to translate the knowledge I had picked up into code rather than just having it sit in my head waiting to be remembered badly when the exam came around, assuming there even was a question involving them, which there probably wasn't.
