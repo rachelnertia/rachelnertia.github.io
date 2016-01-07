@@ -2,9 +2,37 @@
 layout: default
 ---
 
+{% comment %}
+Makes a string containing the post's category/categories.
+{% endcomment %}
+{% assign post = page %}
+{% if post.categories.size > 0 %}
+    {% capture categories_content %}
+        Filed Under:
+        {% for post_cat in post.categories %}{% if post_cat != post.categories[0] %}, {% endif %}<a href="/category_index#{{post_cat}}">{{ post_cat }}</a>{% endfor %}
+    {% endcapture %}
+{% else %}
+    {% assign categories_content = '' %}
+{% endif %}
+
+{% comment %}
+Makes a string containing the post's tags.
+{% endcomment %}
+{% assign post = page %}
+{% if post.tags.size > 0 %}
+    {% capture tags_content %}
+        Tagged:
+        {% for post_tag in post.tags %}{% if post_tag != post.tags[0] %}, {% endif %}<a href="/tag_index#{{post_tag}}">{{ post_tag }}</a>{% endfor %}
+    {% endcapture %}
+{% else %}
+    {% assign tags_content = '' %}
+{% endif %}
+
 <article class="post">
   <h1 class="post-title">{{ page.title }}</h1>
   <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date_to_string }}</time>
+  <p id="post-meta">{{ categories_content }}</p>
+  <p id="post-meta">{{ tags_content }}</p>
   {{ content }}
 </article>
 {% include comments.html %}
