@@ -9,8 +9,8 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               moments of inertia
-tagline:             tech, toast and tea
+title:               Moments of Inertia
+tagline:             
 url:                 http://rachelnertia.github.io
 paginate:            5
 baseurl:             ""
