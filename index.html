@@ -14,6 +14,28 @@ title: Home
 
     <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
 
+    {% if post.categories.size > 0 %}
+        {% capture categories_content %}
+            Filed Under:
+            {% for post_cat in post.categories %}{% if post_cat != post.categories[0] %}, {% endif %}<a href="/category_index#{{post_cat}}">{{ post_cat }}</a>{% endfor %}
+        {% endcapture %}
+    {% else %}
+        {% assign categories_content = '' %}
+    {% endif %}
+
+    <p id="post-category-list">{{ categories_content }}</p>
+
+    {% if post.tags.size > 0 %}
+        {% capture tags_content %}
+            Tagged:
+            {% for post_tag in post.tags %}{% if post_tag != post.tags[0] %}, {% endif %}<a href="/tag_index#{{post_tag}}">{{ post_tag }}</a>{% endfor %}
+        {% endcapture %}
+    {% else %}
+        {% assign tags_content = '' %}
+    {% endif %}
+
+    <p id="post-tag-list">{{ tags_content }}</p>
+
     {% if post.content contains '<!--more-->' %}
       {{ post.content | split:'<!--more-->' | first }}
       <a href="{{ post.url }}">Read more...</a>
