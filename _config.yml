@@ -38,6 +38,8 @@ github:
 pages_list:       
   About: '/about'
   Archive: '/archive'
-  Tag Index: '/tag_index'
   Category Index: '/category_index'
+  Tag Index: '/tag_index'
   Feed: '/atom.xml'
+  Projects: '/projects'
+  Portfolio: '/portfolio'

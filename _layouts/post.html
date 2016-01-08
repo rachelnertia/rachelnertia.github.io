@@ -31,8 +31,8 @@ Makes a string containing the post's tags.
 <article class="post">
   <h1 class="post-title">{{ page.title }}</h1>
   <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date_to_string }}</time>
-  <p id="post-category-list">{{ categories_content }}</p>
-  <p id="post-tag-list">{{ tags_content }}</p>
+  <p class="post-category-list">{{ categories_content }}</p>
+  <p class="post-tag-list">{{ tags_content }}</p>
   {{ content }}
 </article>
 {% include comments.html %}

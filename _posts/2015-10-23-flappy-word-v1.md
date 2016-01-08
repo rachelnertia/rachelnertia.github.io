@@ -2,6 +2,7 @@
 layout: post
 title: Flappy Word v1
 comments: true
+tags: [Flappy Word]
 ---
 
 Here's a little game I've been making over the last few weeks because the name popped into my head one day. I've put it behind a break because otherwise it autoplays.

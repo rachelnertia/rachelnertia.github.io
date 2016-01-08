@@ -23,7 +23,7 @@ title: Home
         {% assign categories_content = '' %}
     {% endif %}
 
-    <p id="post-category-list">{{ categories_content }}</p>
+    <p class="post-category-list">{{ categories_content }}</p>
 
     {% if post.tags.size > 0 %}
         {% capture tags_content %}
@@ -34,7 +34,7 @@ title: Home
         {% assign tags_content = '' %}
     {% endif %}
 
-    <p id="post-tag-list">{{ tags_content }}</p>
+    <p class="post-tag-list">{{ tags_content }}</p>
 
     {% if post.content contains '<!--more-->' %}
       {{ post.content | split:'<!--more-->' | first }}

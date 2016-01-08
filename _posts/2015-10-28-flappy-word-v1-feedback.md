@@ -2,6 +2,7 @@
 layout: post
 title: Flappy Word v1 Feedback
 comments: true
+tags: [Flappy Word]
 ---
 
 People seem to like [*Flappy Word*]({% post_url 2015-10-23-flappy-word-v1 %}). According to one person it is "officially more addicting than Flappy Bird!" 
