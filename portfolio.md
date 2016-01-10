@@ -24,7 +24,7 @@ Neon musical platformer in which objects in the world move to the beat of the mu
 - Platforms: Windows (requires DirectX 11), PS4
 - Visit the [itch.io page](http://pack-of-wolves.itch.io/amps) for more information and to download.
 
-### Flappy Word (October 2015 - present)
+### Flappy Word (October - December 2015)
 
 <img style="float: right;" src="/images/flappy_word_v1_0.gif">
 
