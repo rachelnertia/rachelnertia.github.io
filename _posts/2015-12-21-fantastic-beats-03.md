@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fantastic Beats and Where to Find Them 3
-categories: [music]
+categories: [Music]
 tags: [C418, Lifeformed, Jess Glynne, hxle, Soltero]
 comments: true
 ---

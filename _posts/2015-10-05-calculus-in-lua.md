@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Calculus in Lua
-categories: [programming]
+categories: [Programming]
 tags: [Lua]
 comments: true
 ---

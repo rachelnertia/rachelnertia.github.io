@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fantastic Beats and Where to Find Them 2
-categories: [music] 
+categories: [Music] 
 tags: [Chvrches, Fallout 4, Over the Garden Wall, The Space Lady]
 comments: true
 ---

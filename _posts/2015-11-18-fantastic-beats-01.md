@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fantastic Beats and Where to Find Them 1
-categories: [music]
+categories: [Music]
 tags: [Molly Nilsson, Cindy Lee, Ben Babbit, Bob Ross]
 comments: true
 ---

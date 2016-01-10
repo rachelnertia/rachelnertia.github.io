@@ -36,10 +36,10 @@ github:
 
 # Navigation bar
 pages_list:       
-  About: '/about'
-  Archive: '/archive'
-  Category Index: '/category_index'
-  Tag Index: '/tag_index'
-  Feed: '/atom.xml'
-  Projects: '/projects'
-  Portfolio: '/portfolio'
+  About:             '/about'
+  Archive:           '/archive'
+  Categories:        '/category_index'
+  Tags:              '/tag_index'
+  Feed:              '/atom.xml'
+  Portfolio:         '/portfolio'
+  Projects:          '/projects'
