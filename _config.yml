@@ -43,3 +43,4 @@ pages_list:
   Feed:              '/atom.xml'
   Portfolio:         '/portfolio'
   Projects:          '/projects'
+  CV:                '/cv'
