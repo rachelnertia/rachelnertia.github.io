@@ -45,7 +45,7 @@ Typing-based *Flappy Bird* clone
 
 Endless runner with world-shifting mechanic.
 
-- A team effort made in 72 hours for Ludum Dare 30 (theme: *Connected Worlds*). Connor Halford](www.codetrip.weebly.com) and myself took the role of programmers while [Tobias Cook](http://tobiascook.tumblr.com/) and [Cameron Moore](http://www.illucam.com/) made the art.
+- A team effort made in 72 hours for Ludum Dare 30 (theme: *Connected Worlds*). [Connor Halford](http://www.codetrip.weebly.com) and myself took the role of programmers while [Tobias Cook](http://tobiascook.tumblr.com/) and [Cameron Moore](http://www.illucam.com/) made the art.
 - Engine: [Game Maker](http://www.yoyogames.com/studio)
 - Platform: Windows
 - [Ludum Dare page](http://ludumdare.com/compo/ludum-dare-30/?action=preview&uid=39966)
