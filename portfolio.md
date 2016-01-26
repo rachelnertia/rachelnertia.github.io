@@ -31,9 +31,11 @@ Neon musical platformer in which objects in the world move to the beat of the mu
 Typing-based *Flappy Bird* clone
 
 - Unity using C#
-- Platforms: Windows, Web
+- Platforms: Windows, Web, Mac, Linux(?)
 - Download/Play on [itch.io](http://inertia.itch.io/flappy-word)
 - [Blog posts tagged 'Flappy Word'](/tag_index#Flappy Word)
+- [Full source](https://www.dropbox.com/s/72k769m5jr741sc/flappy-word-v1-0-src.zip?dl=0) 
+- [Repository](https://bitbucket.org/r_crawford/flappy-word)
 
 <br>
 
