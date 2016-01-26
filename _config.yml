@@ -10,7 +10,7 @@ relative_permalinks: true
 
 # Setup
 title:               Moments of Inertia
-tagline:             
+tagline:             The Webhome of Rachel Crawford
 url:                 http://rachelnertia.github.io
 paginate:            5
 baseurl:             ""
