@@ -7,13 +7,25 @@ Here is a list of basically every project I've taken the time to document somewh
 
 ## Games
 
+### Interstellar Soirée (Global Game Jam 2016)
+
+<img style="width: 100%" src="/images/interstellar_soiree_01.png">
+
+Space diplomacy. Jam theme: 'Ritual'. Made with Dziek Dyes-Bolt (programmer), Tone Persson, Callum Fowler (artists), Chris D'Arcy (audio).
+
+- Unity, C#
+- Platform: Windows
+- Xbox 360 controller required
+- [Blog post]({% post_url 2016-02-02-global-game-jam %})
+- [Global Game Jam page](http://globalgamejam.org/2016/games/interstellar-soir%C3%A9e)
+
 ### Nomad (unfinished prototype) (2015)
 
 <img style="float:right; width:280px;" src="/images/nomad_01.gif">
 
 Space exploration with an unconventional movement system. 
 
-- Unity using C#
+- Unity, C#
 - Platforms: Windows, Mac (and Linux?)
 - [Blog post]({% post_url 2016-01-10-nomad-prototype %})
 - Download on [itch.io](http://inertia.itch.io/nomad)
@@ -27,7 +39,7 @@ Space exploration with an unconventional movement system.
 Typing-based *Flappy Bird* clone
 
 - Unity using C#
-- Platforms: Windows, Web
+- Platforms: Windows, Web, Mac, Linux(?)
 - Download/Play on [itch.io](http://inertia.itch.io/flappy-word)
 - [Blog posts tagged 'Flappy Word'](/tag_index#Flappy Word)
 - [Full source](https://www.dropbox.com/s/72k769m5jr741sc/flappy-word-v1-0-src.zip?dl=0) 
@@ -46,7 +58,7 @@ Neon musical platformer in which objects in the world move to the beat of the mu
 - 7 team members: 3 programmers, 2 sound designers, 1 level designer, 1 artist
 - Contributed to engine, gameplay and audio-handling code; implemented synchronisation of game objects with the music, which can be sped up and slowed down; managed the audio asset pipeline.
 - Demoed to the public for 4 days at our own booth at the Dare Indie Showcase.
-- Engine: Sony's PhyreEngine
+- C++, Sony's [PhyreEngine](http://develop.scee.net/research-technology/phyreengine/)
 - Platforms: Windows (requires DirectX 11), PS4
 - Visit the [itch.io page](http://pack-of-wolves.itch.io/amps) for more information and to download.
 

@@ -24,6 +24,21 @@ Neon musical platformer in which objects in the world move to the beat of the mu
 - Platforms: Windows (requires DirectX 11), PS4
 - Visit the [itch.io page](http://pack-of-wolves.itch.io/amps) for more information and to download.
 
+### Interstellar Soirée (Global Game Jam 2016)
+
+<img style="float: right; width: 50%" src="/images/interstellar_soiree_01.png">
+
+Space diplomacy.
+
+- Jam theme: 'Ritual'
+- Unity, C#
+- Platform: Windows
+- Xbox 360 controller required
+- [Blog post]({% post_url 2016-02-02-global-game-jam %})
+- [Global Game Jam page](http://globalgamejam.org/2016/games/interstellar-soir%C3%A9e)
+
+<br>
+
 ### Flappy Word (October - December 2015)
 
 <img style="float: right;" src="/images/flappy_word_v1_0.gif">
@@ -38,18 +53,6 @@ Typing-based *Flappy Bird* clone
 - [Repository](https://bitbucket.org/r_crawford/flappy-word)
 
 <br>
-
-### Spirit Shift (August 2014)
-
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/g1h_YVwMcj0" frameborder="0" allowfullscreen></iframe>
-
-Endless runner with world-shifting mechanic.
-
-- A team effort made in 72 hours for Ludum Dare 30 (theme: *Connected Worlds*). [Connor Halford](http://www.codetrip.weebly.com) and myself took the role of programmers while [Tobias Cook](http://tobiascook.tumblr.com/) and [Cameron Moore](http://www.illucam.com/) made the art.
-- Engine: [Game Maker](http://www.yoyogames.com/studio)
-- Platform: Windows
-- [Ludum Dare page](http://ludumdare.com/compo/ludum-dare-30/?action=preview&uid=39966)
-- [itch.io page](http://rhythmlynx.itch.io/spirit-shift)
 
 ## Graphics Programming
 
