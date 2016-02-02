@@ -15,6 +15,7 @@ url:                 http://rachelnertia.github.io
 paginate:            5
 baseurl:             ""
 future:              false
+gems:                [jekyll-paginate]
 
 # Assets
 #
