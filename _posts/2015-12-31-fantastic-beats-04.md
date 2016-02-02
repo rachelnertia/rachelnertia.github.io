@@ -2,7 +2,7 @@
 layout: post
 title: Fantastic Beats and Where to Find Them 4
 comments: true
-categories: [music]
+categories: [Music]
 tags: [Skating Polly, Amanda Palmer, twenty one pilots, Shamir, David Bowie, Sleater-Kinney, Gone Home]
 ---
 

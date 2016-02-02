@@ -2,7 +2,7 @@
 layout: post
 title: Nomad
 comments: true
-category: GameDev
+category: Game Dev
 tags: [Unity, Nomad]
 ---
 

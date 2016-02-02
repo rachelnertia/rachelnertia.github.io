@@ -2,7 +2,7 @@
 layout: post
 title: Flappy Word 'Released'
 comments: true
-category: GameDev
+category: Game Dev
 tags: [Flappy Word, Unity, C#]
 ---
 

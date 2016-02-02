@@ -14,7 +14,7 @@ title: Categories
   {% endfor %}
   </ul>
 {% endfor %}
-<h3 id="uncategorised">uncategorised</h3>
+<h3 id="uncategorised">Uncategorised</h3>
 <ul>
   {% for post in site.posts %}
   	{% if post.categories.size == 0 %}

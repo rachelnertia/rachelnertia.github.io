@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: Shaking Hands with Aliens - Global Game Jam 2016 at Abertay
-category: GameDev
+category: Game Dev
 tags: [game jams, Global Game Jam, Interstellar Soirée, Unity]
 ---
 
