@@ -3,7 +3,11 @@ layout: page
 title: Projects
 ---
 
-Here is a list of basically every project I've taken the time to document somewhat on this site. For highlights, go look at my [Portfolio](/portfolio).
+Here is a list of basically every project I've taken the time to document somewhat on this site. Includes personal projects, collaborative efforts and uni work. For highlights, go look at my [Portfolio](/portfolio).
+
+```
+To do: Contents/Index 
+```
 
 ## Games
 
@@ -78,15 +82,37 @@ Endless runner with world-shifting mechanic.
 
 ### Water (2014)
 
-- DirectX 11
-- Made as part of my Graphics Programming with Shaders coursework
-- To do...
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/lz3jgA7NtzI" frameborder="0" allowfullscreen></iframe>
+
+- DirectX 11, C++
+- Part 1 of my Graphics Programming with Shaders coursework ([Download](https://www.dropbox.com/s/ug39wrjzturemor/graphics%20programming%20with%20shaders.zip?dl=0))
+- Water plane is tessellated. Waves formed by manipulating vertices in the domain shader. Normal map used to add some noisiness to the surface.
+- Water reflects the skybox cubemap
+- Bonus: full-screen pixelation effect (the easiest full-screen effect to write!)
 
 ### Compute Shader Voxel Space (2014)
 
-- DirectX 11
-- Made as another part of my Graphics Programming with Shaders coursework
-- To do...
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/u0yw8IjxA6Q" frameborder="0" allowfullscreen></iframe>
+
+More deets in the video description. Also [this](https://www.youtube.com/watch?v=c27ULJLitV8).
+
+- DirectX 11, C++
+- Part 2 of my Graphics Programming with Shaders coursework ([Download](https://www.dropbox.com/s/ug39wrjzturemor/graphics%20programming%20with%20shaders.zip?dl=0))
+- Compute shader port of the 'voxel space' rendering algorithm implementation on display at [Simulation Corner](http://simulationcorner.net/index.php?page=comanche)
 
 ## Other Programming
-To do: this page.
+
+### Procedural Walker (2015)
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/v0bhCky_jpM" frameborder="0" allowfullscreen></iframe>
+
+More notes in the video description.
+
+- Autodesk Maya. Plugin written using the C++ API, which I learned by myself because it wasn't covered in the module. A sprinkling of Python and MEL.
+- Made for the Scripting and Dynamics coursework
+
+### Leg Auto-Rigger (2014)
+
+- Autodesk Maya. Python script.
+- Chose to build this for my Tech Art coursework
+- [Demo video](https://www.youtube.com/watch?v=7Fw2v4L9av4)
