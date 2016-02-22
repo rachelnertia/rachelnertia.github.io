@@ -3,10 +3,10 @@ layout: page
 title: Projects
 ---
 
-Here is a list of basically every project I've taken the time to document somewhat on this site. Includes personal projects, collaborative efforts and uni work. For highlights, go look at my [Portfolio](/portfolio).
+Here is a list of basically every project I've taken the time to document somewhat on this site. Includes personal projects, collaborative efforts and uni work. 
 
 ```
-To do: Contents/Index 
+To do: Highlights, Contents/Index 
 ```
 
 ## Games

@@ -42,6 +42,5 @@ pages_list:
   Categories:        '/category_index'
   Tags:              '/tag_index'
   Feed:              '/atom.xml'
-  Portfolio:         '/portfolio'
   Projects:          '/projects'
   CV:                '/cv'
