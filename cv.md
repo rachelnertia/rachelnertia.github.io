@@ -3,7 +3,7 @@ layout: page
 title: My CV
 ---
 
-I'm currently on a quest to find employment in the games industry once I graduate. It's a pain in the butt! Here's my current CV in PDF form:
+I'm currently on a quest to find employment in the games industry once I graduate. It's stressful! Here's my current CV in PDF form:
 
 <object data="/Rachel Crawford Current General CV.pdf" type="application/pdf" width="100%" height="1000">
  
