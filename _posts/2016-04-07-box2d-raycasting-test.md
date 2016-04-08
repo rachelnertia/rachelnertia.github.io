@@ -3,6 +3,7 @@ layout: post
 category: Programming
 title: Raycasting in Box2D
 tags: [Box2D, Wolfenstein 3D, SFML, Raycasting]
+comments: true
 ---
 
 <img src="/images/b2dray/02.png" width="45%" style="display:inline;" title="Box2D debug draw output, with the camera represented as the big circle." alt="Box2D debug draw output"/>
