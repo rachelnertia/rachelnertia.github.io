@@ -8,7 +8,7 @@ comments: true
 
 [I've been working]({% post_url 2016-04-07-box2d-raycasting-test %}) on an old-fashioned raycast-rendering system that uses Box2D's ``b2World::RayCast`` method to draw the world instead of casting rays against a grid the way *Wolfenstein 3D* does it.
 
-Where I left off I'd just managed to get a limited generic system up and running. Every fixture (shape) in the ``b2World`` was rendered as a wall.  Nothing could be partially transparent, nothing could appear behind anything else, there was no support for differently-coloured walls, and there were no sprites. In the intervening time I've enabled all of these.
+Where I left off I'd just managed to get a limited generic system up and running. Every fixture (shape) in the ``b2World`` was rendered as a wall.  Nothing could be partially transparent, nothing could appear behind anything else, there was no support for differently-coloured walls, and there were no sprites. In the intervening time I've enabled these capabilities.
 
 ![](/images/b2dray/05.png "I get a lot of test-sprite mileage out of this dwarf.")
 
