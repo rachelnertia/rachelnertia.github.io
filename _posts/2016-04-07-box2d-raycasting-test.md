@@ -6,8 +6,8 @@ tags: [Box2D, Wolfenstein 3D, SFML, Raycasting]
 comments: true
 ---
 
-<img src="/images/b2dray/02.png" width="45%" style="display:inline;" title="Box2D debug draw output, with the camera represented as the big circle." alt="Box2D debug draw output"/>
-<img src="/images/b2dray/01.png" width="45%" style="display:inline;" title="Raycast-render function output from the camera's perspective." alt="Raycast-render function output"/>
+<img src="/images/b2dray/02.png" width="49%" style="display:inline;" title="Box2D debug draw output, with the camera represented as the big circle." alt="Box2D debug draw output"/>
+<img src="/images/b2dray/01.png" width="49%" style="display:inline;" title="Raycast-render function output from the camera's perspective." alt="Raycast-render function output"/>
 
 In this case, 'raycasting' refers to an old-school rendering algorithm used in early 'pseudo-3D' games such as *Wolfenstein 3D*. [This tutorial](http://lodev.org/cgtutor/raycasting.html) provides a good overview of how it's normally implemented in its simplest form: for each column of pixels on the screen. The world is represented as a 2D grid of integers in which the number 0 is empty space and anything else is a wall. Each ray iterates over the grid until it intersects a wall, whereupon you use the distance from the camera to the wall to draw a vertical line of pixels on the screen. Simple! Then you can add more on top, like texturing the walls and floor, 'sprites' which aren't on the grid and always face the camera, etc.
 
@@ -27,8 +27,8 @@ Texturing the walls is going to take more time to solve. On a grid it's easy to 
 
 The images below demonstrate the difference made by calculating the ray direction and intersection-point distance in different ways. If I were going to explain this here I'd want to use some diagrams. Maybe later, huh?
 
-<img src="/images/b2dray/03.png" width="45%" style="display:inline;" title="Perpendicular distance and view plane."/>
-<img src="/images/b2dray/04.png" width="45%" style="display:inline;" title="Euclidean distance and rotated forward vector."/>
+<img src="/images/b2dray/03.png" width="49%" style="display:inline;" title="Perpendicular distance and view plane."/>
+<img src="/images/b2dray/04.png" width="49%" style="display:inline;" title="Euclidean distance and rotated forward vector."/>
 
 **Further reading:**
 
