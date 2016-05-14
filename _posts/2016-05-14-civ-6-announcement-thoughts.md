@@ -34,7 +34,7 @@ There are other details but I've less strong thoughts about them, like overhauls
 
 ![Civ 6 screenshot 1](/images/civ_6_03.png)
 
-Finally, I dig the bright, colourful and simple art direction they're going for this time around. For some reason *Civ V* makes my eyes hurt after even a short time playing. If *VI* is as easy on the eyes as the screenshots are, I might be inclined to judge it more fairly.
+Finally, I dig the bright, colourful and simple art direction they're going for this time around. For some reason *Civ V* makes my eyes hurt after even a short time playing. If *VI* is as easy on the eyes as the screenshots are, I might be inclined to judge it more fairly. (EDIT: [This article on IGN](http://uk.ign.com/articles/2016/05/13/how-firaxis-will-redefine-civilizations-art-style-in-civ-6-ign-first) about the art direction is very encouraging.)
 
 I have so many questions I want answered, though: Will there be global warming and climate change[^1]? Pollution, engaged with? The Internet, meaningfully included? A satisfying endgame to make everything preceding it fully worthwhile?
 
