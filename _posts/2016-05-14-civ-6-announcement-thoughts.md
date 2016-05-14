@@ -3,6 +3,7 @@ layout: post
 title: The Next Civilization Game Sounds Okay
 category: Gaming
 tags: [ Civilization, Civilization VI, 4X games, strategy games, Firaxis ]
+comments: true
 ---
 
 I tend to complain about the *Civilization* games whenever they come up. I really want to love them (and other [4X games](https://en.wikipedia.org/wiki/4X)), but every installment has some elements that just feel *wrong*, making the overall experience long, boring, frustrating and unfulfilling.
