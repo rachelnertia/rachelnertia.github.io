@@ -99,18 +99,18 @@ Below, the images on the left were rendered with (View Plane + Perpendicular Dis
 <img src="/images/b2dray/07.png" width="49%" style="display:inline;"/>
 <img src="/images/b2dray/08.png" width="49%" style="display:inline;"/>
 
-As you can see on the left, the first mode gives nice, straight edges on nice, straight-edged things, while on the right the second gives a fisheye effect. The first method distorts curved objects badly towards the edge of the screen while the second renders them as they should appear. Swings and roundabouts.
+As you can see on the left, the first mode gives nice, straight edges on nice, straight-edged things, while on the right the second gives a fisheye effect. The first method distorts curved objects badly towards the edge of the screen if you're not looking at them dead-on while the second renders them as they should appear. Swings and roundabouts.
 
 What's my point with all this? It affects sprite rendering. To the raycaster,  sprites are circles, so in (View Plane + Perpendicular Distance) mode, sprites get distorted if you're not facing them dead on, like this particularly bad example:
 
 <img src="/images/b2dray/11.png" width="49%" style="display:inline;"/>
 <img src="/images/b2dray/12.png" width="49%" style="display:inline;"/>
 
-In both screenshots the camera is the same distance from the sprite. In the next image the second mode (Rotated Forward Vector + Actual Distance) is used, and the sprite isn't distorted:
+In both screenshots the camera is the same distance from the sprite. In the next image the second mode (Rotated Forward Vector + Actual Distance) is used. The sprite is still distorted, but in a less extreme way. The remaining distortion is there because the camera is WAY up close. (The sprite's pixels are taller than they are wide for a completely different reason.)
 
 ![](/images/b2dray/13.png)
 
-The distortion of curved objects (and hence sprites) caused by using mode 1 is less obvious when the camera is further away and the field of view (the length of the viewing plane vector) is decreased, but it'd be nice to find a proper fix for it.
+The distortion of curves and sprites is less obvious when the camera is further away and the field of view is decreased, but it'd be nice to find a proper fix for it.
 
 ## Transparency / Drawing Things Behind Other Things
 
