@@ -134,3 +134,5 @@ Yeah, screw that. Now I just have a custom configuration in Visual Studio called
 I think I'm going to wait a bit before I push any changes to the [GitHub repository](https://github.com/rachelnertia/Box2D-Raycasting-Test), in the hope that I can iron out some things and maybe find a better solution for sprites. I've been planning a game using this system, so I have a big To Do list. Up top is stuff like adding support for sprites of different heights and sizes, which will definitely go into the next version of the example on GitHub. After that is things I need for the game, like animated sprites, moving things around, some kind of level-editing tool... I'll probably be writing about that stuff too as I go through it.
 
 That's all for now, I think. This post ended up WAY longer than I expected it to be. Good grief.
+
+UPDATE 17/05/2016: I've put this stuff on the 'experimental' branch of the GitHub repo.
