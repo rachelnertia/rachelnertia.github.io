@@ -3,6 +3,8 @@ layout: post
 title: Endless Legend
 ---
 
+*I am many things,* begins the voiceover of *Endless Legend*'s intro movie.
+
 Do I like this game?
 
 I cannot tell. There are so many things to like.
@@ -16,3 +18,5 @@ There's so much information that's simply *missing* from the interface. I can fi
 Management of the research queue is a chore, with no option to reshuffle the position of technologies within it. Instead, changing the order means removing everything from the queue and then re-queuing them up. I've ended up not using the research queue at all.
 
 You have a 'main quest' through which you can eventually win the game.
+
+It's disappointing that when you take a rival's city, it is immediately re-skinned from their faction's style to your own. This is disappointing. It's like, thematically, city capturing isn't meant to happen.
