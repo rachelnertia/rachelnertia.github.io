@@ -20,3 +20,5 @@ Management of the research queue is a chore, with no option to reshuffle the pos
 You have a 'main quest' through which you can eventually win the game.
 
 It's disappointing that when you take a rival's city, it is immediately re-skinned from their faction's style to your own. This is disappointing. It's like, thematically, city capturing isn't meant to happen.
+
+Winter comes and goes, becoming ever more frequent and longer-lasting. This lends an apocalyptic feel to the game, but... Winter *sucks*. It's meant to suck. I get it. It drags the game to near-standstill sometimes, as your economy crashes and your armies' movement slows to a crawl. You can become somewhat winter-proof through doing the right things (quests, technologies, hero skills, etc.).
