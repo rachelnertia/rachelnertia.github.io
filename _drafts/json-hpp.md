@@ -1,14 +1,14 @@
 ---
-title: Handling JSON with jsonhpp
+title: Handling JSON with json.hpp
 comments: true
 layout: post
 category: Programming
 tags: [ JSON, C++ ]
 ---
 
-json.hpp is a single-header C++ library for handling JSON. It provides easy, clean ways to read from and write to JSON files.
+[json.hpp](https://github.com/nlohmann/json) is a single-header C++ library for handling [JSON](https://en.wikipedia.org/wiki/JSON). It provides easy, clean ways to read from and write to JSON files.
 
-Reading in JSON from a file is easy. Let's say we've got a file called 'data.json' which looks like this:
+Reading in JSON from a file is easy. Let's say you've got a file called 'data.json' which looks like this:
 
 ```json
 {
@@ -20,7 +20,7 @@ Reading in JSON from a file is easy. Let's say we've got a file called 'data.jso
 }
 ```
 
-We use a `std::ifstream` to feed the data to an instance of `nlohmann::json`:
+To read it into a C++ application, you use a `std::ifstream` to feed the data to an instance of `nlohmann::json`:
 
 ```cpp
 using json = nlohmann::json;
@@ -32,3 +32,26 @@ if (!ifs.is_open()) {
 ifs >> j;
 ifs.close();
 ```
+
+Next, you operate on `j` using a variety of syntax options to extract the data you want. `json::find` is a safe way to search the JSON for a particular attribute (field). Standard square-brackets syntax can be used to extract the value of an attribute, which can itself be another group of attributes. To make accessing the sub-attributes of an attribute easier you can just create another `json` object, like so:
+
+```cpp
+Person person;
+
+// verify that "info" attribute exists in j
+if (j.find("info") != j.end()) {
+  json info = j["info"];
+
+  // verify that "name" attribute exists in info
+  if (info.find("name") != info.end()) {
+    person.name = info["name"]; // person.name == "Rachel"
+  }
+
+}
+```
+
+And that's how simple it is to extract data from a .json file and use it in an application.
+
+Outputting to a file is easy, too. You just fill up a `json` object and then stream it out to an `std::ofstream` or something of the sort.
+
+I really like this little library, although I've only scratched the surface of what you can do with it here. I wanted to make others aware of it for the next time they need to handle JSON in C++. There's no standard library support for JSON in C++ like there is in other languages like Python and there's not really a go-to non-standard option out there, so recommendations are useful. I'm using it to create an import system for [Aseprite](http://www.aseprite.org/), which can export .json files to accompany sprite-sheets. More on that later.
