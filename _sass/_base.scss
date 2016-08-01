@@ -49,8 +49,12 @@ a {
 
 img {
   display: block;
+  // Prevent image from spilling over the edge of the column.
   max-width: 100%;
-  margin: 0 0 1rem;
+  // This bit centres the image in the column.
+  margin-left: auto;
+  margin-right: auto;
+  // Round off the corners.
   border-radius: 5px;
 }
 
