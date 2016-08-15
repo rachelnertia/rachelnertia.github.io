@@ -3,7 +3,7 @@ layout: post
 title: Fantastic Beats and Where to Find Them
 category: Music
 comments: true
-tags: [ Chris Zabriskie, Mass Effect, Vaporwave ]
+tags: [ Chris Zabriskie, Mass Effect, Sam Hulick, Vaporwave ]
 ---
 
 It happened to you too, didn't it? It'll be okay. Grab a beverage and relax. Listen to some music you might have missed.
