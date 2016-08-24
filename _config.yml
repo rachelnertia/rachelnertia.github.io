@@ -10,7 +10,7 @@ relative_permalinks: false
 
 # Setup
 title:               Moments of Inertia
-tagline:             The Web Abode of Rachel Crawford
+tagline:             
 url:                 http://rachelnertia.github.io
 paginate:            5
 baseurl:             ""
@@ -43,4 +43,3 @@ pages_list:
   Tags:              '/tag_index'
   Feed:              '/atom.xml'
   Projects:          '/projects'
-  CV:                '/cv'
