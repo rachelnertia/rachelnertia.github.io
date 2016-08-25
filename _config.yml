@@ -16,6 +16,7 @@ paginate:            5
 baseurl:             ""
 future:              false
 gems:                [jekyll-paginate]
+theme:               minima
 
 # Assets
 #
