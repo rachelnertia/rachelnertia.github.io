@@ -10,7 +10,7 @@ relative_permalinks: false
 
 # Setup
 title:               Moments of Inertia
-tagline:             The Webhome of Rachel Crawford
+tagline:             The Weblog of Rachel Crawford
 url:                 http://rachelnertia.github.io
 paginate:            5
 baseurl:             ""
@@ -36,11 +36,10 @@ github:
   repo:              https://github.com/rachelnertia/rachelnertia.github.io
 
 # Navigation bar
-pages_list:       
+pages_list:
   About:             '/about'
   Archive:           '/archive'
   Categories:        '/category_index'
   Tags:              '/tag_index'
   Feed:              '/atom.xml'
   Projects:          '/projects'
-  CV:                '/cv'
