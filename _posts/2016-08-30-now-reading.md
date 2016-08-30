@@ -13,8 +13,8 @@ I'm now reading a book I found on the charity exchange bookshelf at my GP practi
 
 <!--more-->
 
-<img src="/images/now-reading/history-of-the-middle-ages-cover.jpg" width="49%" alt="The Cover of the History of the Middle Ages" style="display:inline;"/>
-<img src="/images/now-reading/history-of-the-middle-ages-02.jpg" width="49%" style="display:inline;"/>
+<img src="/images/now-reading/history-of-the-middle-ages-cover.JPG" width="49%" alt="The Cover of the History of the Middle Ages" style="display:inline;"/>
+<img src="/images/now-reading/history-of-the-middle-ages-02.JPG" width="49%" style="display:inline;"/>
 
 ***History of the Middle Ages*** is a Soviet Russian school textbook translated into English, and it's rather different from the history textbooks I had in school. Not just because it's a beautifully illustrated hardcover and sort of old-timey compared to the school textbooks of today, but because (so far) it has a whole different slant in terms of the specific history it's trying to tell. Instead of focusing on the deeds of different kings and who they married and who fought who, it's much more interested in class politics, running a thread through time and trying to show how the feudal system formed, what things were like before and how it led into the future of class oppression. It's not just "There were knights who were loyal to the king and had land," it's, "...and peasants were subjugated by the ruling class in these specific ways..." If that makes sense. Like, these are the names of the three parts the book is broken into: "Establishment of the Feudal System," "The Development of the Feudal System" and "The Feudal System Begins to Decline. Capitalist Relations Take Shape."
 
@@ -24,7 +24,7 @@ Here's a quote:
 
 I'll let you know how it shapes up as I read further. I'm pretty excited.
 
-![](/images/now-reading/history-of-the-middle-ages-01.jpg)
+![](/images/now-reading/history-of-the-middle-ages-01.JPG)
 
 I might see if I can find a copy of the first book in the series, *History of the Ancient World*. Probably difficult to find! Although, hey, I found less-nice-looking a copy of this one on [Amazon](https://www.amazon.co.uk/History-Middle-Ages-Y-Agibalova/dp/0828539197), so there may yet be hope.
 
