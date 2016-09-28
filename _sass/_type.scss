@@ -42,8 +42,17 @@ ul, ol, dl {
   margin-top: 0;
   margin-bottom: 1rem;
   margin-left: 0;
-  padding-left: 1rem; // Align left of bullet with start of column. 
+  padding-left: 1rem; // Align left of bullet with start of column.
   list-style: square; // Use square bullets.
+  list-style-position: outside; // Bullets separate from list item text.
+}
+
+ol {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  margin-left: 0;
+  padding-left: 1rem; // Align left of bullet with start of column.
+  list-style: decimal;
   list-style-position: outside; // Bullets separate from list item text.
 }
 
