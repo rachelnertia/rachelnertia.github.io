@@ -63,10 +63,8 @@ static ObjectFactory PlayerFactory(
 );
 ```
 
-It's not quite as compact as <code>REGISTER_TYPE(Player)</code>, but you gain a lot of flexibility this way without having to go to the bother of writing out a big ObjectFactory subclass. You can bind more than just lambdas to std::functions: you can bind ordinary functions, member functions, any 'callable object'. One could use an alternative to std::function, as there are tradeoffs to consider, but this works for me, for now.
+It's not quite as compact as <code>REGISTER_TYPE(Player)</code>, but you gain a lot of flexibility this way without having to go to the bother of writing out a big ObjectFactory subclass. You can bind more than just lambdas to std::functions: you can bind ordinary functions, member functions, any 'callable object'. One could use an alternative to std::function, like regular old function pointers, or roll your own callback wrapper, and maybe there's a performance gain to be made there. Compared to the way Guillaume does it, it's always going to be a tradeoff between virtual method calls and a slightly different kind of pointer-following.
 
-If you wanna argue about performance: I am not likely to be using my object factory thousands of times per frame, and I bet the overhead of finding the necessary ObjectFactory from the map outweighs the overhead of the function call. The Object Factory pattern is never meant to be used in performance-critical situations, but for flexibility and decoupling. At any rate, this is a tradeoff between virtual method calls and a slightly different kind of pointer-following.
+On the other hand, I am not likely to be using my object factory thousands of times per frame, and the overhead of the map lookup outweighs the overhead of the function call. The Object Factory pattern is not for performance-critical situations, but for flexibility and decoupling.
 
 As a final note: I'm using a std::unordered_map instead of a regular std::map because lookup is faster with an unordered_map. Iteration over the values is slower, but that is not what I'm going to be doing more of.
-
-[^1]: I feel a bit weird about calling things 'side projects' but I guess it's accurate for as long as my 'main' project is what I'm developing at my day job.
