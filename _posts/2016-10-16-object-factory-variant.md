@@ -1,5 +1,5 @@
 ---
-title: Object Factory but with a Lambda
+title: Object Factory with std::function
 layout: post
 category: Programming
 tags: [ C++ ]
