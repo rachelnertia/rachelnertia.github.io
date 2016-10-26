@@ -20,4 +20,18 @@ There's an [article](http://www.abertay.ac.uk/discover/news/news-archive/2016/na
 
 ## Games Are For Everyone, Thursday 20th October
 
-I hadn't been to one of these before. I decided to volunteer to help out.
+Through a mixture of bad luck and incompetence on my part, this was the first Games Are For Everyone I've managed to attend, and oh boy do I feel sad about missing out on all the previous events.
+
+The venue was The Caves, a massive cellar-turned-club in the bowels of the Edinburgh old town (it's just off Cowgate, to be exact). What a weird, cool space to be in! The whole place was open for the event, I think, with a loud central chamber full of music and noisy games and quieter antechambers off to the side, rooms of all different sizes and shapes that filled up with attendees fast.
+
+There were a lot of games there. Some were running on television screens or monitors, while others were set up in these cool faux-arcade cabinets that We Throw Switches have. Among the lineup was:
+
+-
+-
+-
+
+I got to show off my *Devil Daggers* skills. I can only make it up to about 150 seconds, so they're not that impressive, but the observers for whom this was their first encounter with the game were a incredulous. The game had a room all to itself -- a cellar to the side of the main one, a little smaller but with just as high-vaulted a ceiling -- in which red candles had been lit. The game was being projected onto the bare stones of the wall so everyone could get a good view of the action.
+
+That's the really great thing about events like GAFE -- putting individual games on their own pedestals, valuing them, bringing people together around them, and introducing them to fresh eyes. Good stuff.
+
+I got to meet lots of new people and chat with existing games friends, which is something I seem to thrive on. I also got to help out a little with running the event, which was really rewarding. Nonetheless, dragging myself home at 1 in the morning, on a workday, is not something to be repeated that often.
