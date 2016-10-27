@@ -3,9 +3,10 @@ layout: post
 title: Adventures in the Real World
 category: Gaming
 tags: [ We Throw Switches, Mantra Collective, Dear Esther, Devil Daggers, Lieve Oma, Florian Veltman, Inchcolm Project, Games Are For Everyone, Abertay University, Manifold Garden ]
+comments: true
 ---
 
-I had two new experiences last week that were eye-opening and inspiring: a journey to an island, and a journey underground...
+I had two new experiences last week that were fresh, eye-opening and inspiring: a journey to an island, and a journey underground...
 
 ## Inchcolm Project
 
