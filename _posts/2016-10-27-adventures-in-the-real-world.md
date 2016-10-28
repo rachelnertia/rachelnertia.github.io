@@ -6,9 +6,11 @@ tags: [ We Throw Switches, Mantra Collective, Dear Esther, Devil Daggers, Lieve 
 comments: true
 ---
 
-I had two new experiences last week that were fresh, eye-opening and inspiring: a journey to an island, and a journey underground...
+I had two new experiences last week that were fresh, eye-opening and actually quite inspiring: a journey to an island, and a journey underground...
 
-## Inchcolm Project
+![](/images/inchcolm_02.jpg)
+
+## The Inchcolm Project
 
 ### Sunday 16th October
 
@@ -22,7 +24,9 @@ While we were there the weather cleared up a little bit, and warm rays of sunshi
 
 At the end of our time on the island we went into a darkened room in the abbey to watch *Dear Esther* being played, projected onto the rough stone wall. Then we were led into another room and played several songs from the game by the whole Mantra Collective. It's [beautiful music](https://jessicacurry.bandcamp.com/album/dear-esther), some of my favourite music in all the world, and I'm intensely grateful to have been able to experience it in such a stunning setting.
 
-There's an [article](http://www.abertay.ac.uk/discover/news/news-archive/2016/name,31749,en.html) about the project on the Abertay University website, written before the fact.
+![](/images/inchcolm_01.jpg)
+
+There's an [article](http://www.abertay.ac.uk/discover/news/news-archive/2016/name,31749,en.html) about the project on the Abertay University website, written before the fact, if you're interested.
 
 ## Games Are For Everyone, Volume IV
 
@@ -45,4 +49,6 @@ I got to meet lots of new people as well as chat with existing games friends, wh
 
 All in all a good time, but I don't think dragging myself home at 1 in the morning on a workday is something I should repeat often.
 
-(I think I'll come back and add some images to this post once I've asked permission to use other people's photos, as I didn't take any of my own.)
+![](/images/gafe_01.jpg "Pathfinder")
+
+Photo credit goes to We Throw Switches and [Ellie Morag](). Thanks, folks!
