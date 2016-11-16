@@ -6,11 +6,13 @@ tags: [ C++ ]
 comments: true
 ---
 
-In my last post I talked about how I am starting to use the C++ standard library's smart pointer templates in my own code and finding it quite pleasant. But all I did was name and gave brief descriptions of the three templates - `unique_ptr`, `shared_ptr` and `weak_ptr`. I didn't give any examples of them in use.
+No, I don't know how the capitalisation should work in that title, either.
+
+[In my last post]({% post_url 2016-11-12-intro-to-smart-ptrs %}) I talked about how I'm starting to use the C++ standard library's smart pointers in my own code and finding it quite pleasant. But all I did was name and give brief descriptions of the three templates -- `unique_ptr`, `shared_ptr` and `weak_ptr`. I didn't give any examples of them in use.
 
 ### One RenderComponent, One sf::Texture
 
-In my game engine Entities are made up of Components (a common [design pattern](http://gameprogrammingpatterns.com/component.html)). The PhysicsComponent connects it to the physical world. The RenderComponent describes how to draw it. RenderComponents can have textures. For now all my rendering code makes use of SFML's graphics library, so RenderComponents make use of textures through sf::Texture objects.
+In my game engine Entities are made up of Components (a common [design pattern](http://gameprogrammingpatterns.com/component.html)). The PhysicsComponent connects it to the physical world. The RenderComponent describes how to draw it. RenderComponents can have textures. For now all my rendering code makes use of [SFML](http://www.sfml-dev.org/)'s graphics library, so RenderComponents make use of textures through [sf::Texture](http://www.sfml-dev.org/documentation/2.4.1/classsf_1_1Texture.php) objects.
 
 Initially, I'm willing to take the simplest course of action: RenderComponent has a sf::Texture member.
 
@@ -28,8 +30,8 @@ Advantages include:
 
 Disadvantages include:
 
-- Wasteful of main memory. sf::Texture has many members, most of which we will not touch, so those will make RenderComponent significantly larger.
-- Wasteful of GPU memory. If two RenderComponents use example.png, two copies of it will be sitting in memory. This would also be wasteful of main memory because the sf::Textures would be identical too.
+- It's wasteful of main memory. sf::Texture has many members. I'm probably never going to use most of them.
+- It's wasteful of GPU memory. If two RenderComponents use example.png, two copies of it will be sitting in the graphics card's memory. Why load an asset twice? This would also be wasteful of main memory because the sf::Textures would be identical too.
 
 I can solve the first disadvantage by having RenderComponent own a pointer to an sf::Texture instead.
 
@@ -39,7 +41,7 @@ class RenderComponent {
 };
 ```
 
-Nice. When I want the RenderComponent to be textured, I allocate a `new sf::Texture` and call `loadFromFile` with it. Now I have to remember to call `delete` at some point, and I might screw up by exposing the pointer to outside bits of code, who might deallocate the memory or modify the pointer. Hence:
+Nice. When I want the RenderComponent to be textured, I allocate a `new sf::Texture` and call `loadFromFile` with it. Unfortunately I now have to remember to call `delete` at some point, and I might screw up by exposing the pointer to outside bits of code, who might deallocate the memory or modify the pointer. Hence:
 
 ```cpp
 class RenderComponent {
@@ -59,9 +61,11 @@ class RenderComponent {
 };
 ```
 
-When I want to set the texture to example.png, I need a way of knowing if there is already a dynamically-allocated sf::Texture somewhere out there that's been loaded with example.png. Enter the TextureLibrary class. The TextureLibrary, which all RenderComponents share an instance of, keeps track of all that for me. Setting the RenderComponent's texture is a matter of writing `mTexture = sTextureLibrary.LoadTexture("example.png")`, and I'm guaranteed not to be creating a duplicate. When no RenderComponents are using example.png, it will be automatically deallocated.
+When I want to set the texture to example.png, I need a way of knowing if there is already a dynamically-allocated sf::Texture somewhere out there that's been loaded with example.png.
 
-TextureLibrary needs to know about the reference counts of the sf::Textures it oversees without modifying them. A perfect fit for `std::weak_ptr`.
+Enter the TextureLibrary class. It keeps track of all that for me. Setting the RenderComponent's texture is a matter of writing `mTexture = sTextureLibrary.LoadTexture("example.png")`, and I'm guaranteed not to be creating a duplicate. When no RenderComponents are using example.png, it will be automatically cleaned up.
+
+TextureLibrary needs to know about the reference count of each sf::Texture it oversees without actually modifying it. A perfect fit for `std::weak_ptr`.
 
 ```cpp
 class TextureLibrary
@@ -100,4 +104,4 @@ public:
 };
 ```
 
-Elegant, concise and safe. There are definitely drawbacks - a little reference-counting overhead here and there - but for now I think the benefits of this system outweigh the costs. I'll continue to redesign  systems to make use of standard library smart pointers, and reap the benefits.
+Concise and safe. There are definitely drawbacks -- a little reference-counting overhead here and there -- but for now I'm willing to believe the benefits outweigh the costs.
