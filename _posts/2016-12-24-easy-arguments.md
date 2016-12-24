@@ -28,27 +28,27 @@ So let's write a function that knows about the types of its varargs. First, we n
 ```cpp
 struct Arg
 {
-	enum class Type
-	{
-		Int,
-		Float,
-		Double,
-		String
-	};
+  enum class Type
+  {
+    Int,
+    Float,
+    Double,
+    String
+  };
 
-	Arg(const int value) : m_Type(Type::Int), m_IntValue(value){};
-	Arg(const float value) : m_Type(Type::Float), m_FloatValue(value){};
-	Arg(const double value) : m_Type(Type::Double), m_DoubleValue(value){};
-	Arg(const char* value) : m_Type(Type::String), m_StringValue(value){};
+  Arg(const int value) : m_Type(Type::Int), m_IntValue(value){};
+  Arg(const float value) : m_Type(Type::Float), m_FloatValue(value){};
+  Arg(const double value) : m_Type(Type::Double), m_DoubleValue(value){};
+  Arg(const char* value) : m_Type(Type::String), m_StringValue(value){};
 
-	Type m_Type;
+  Type m_Type;
 
-	union {
-		int m_IntValue;
-		float m_FloatValue;
-		double m_DoubleValue;
-		const char* m_StringValue;
-	};
+  union {
+    int m_IntValue;
+    float m_FloatValue;
+    double m_DoubleValue;
+    const char* m_StringValue;
+  };
 };
 ```
 
@@ -56,7 +56,7 @@ We have some function that takes an array of Arg, and iterates through them, bra
 
 ```cpp
 void DoThingsWithArgs(int numArgs, Arg* args) {
-	// ...
+  // ...
 }
 ```
 
@@ -65,12 +65,12 @@ But we don't want to force the user to build their own array of Args every time 
 ```cpp
 template <typename T0, typename T1, typename T3>
 void DoThingsWithArgs(T0 a, T1 b, T2 c) {
-	// none of the constructors for Arg have been marked
-	// as explicit, so we can get away with this syntax
-	Arg argArray[] = { a, b, c };
-	// we put the non-template DoThingsWithArgs inside
-	// a new namespace 'internal' to avoid confusion
-	internal::DoThingsWithArgs(3, argArray);
+  // none of the constructors for Arg have been marked
+  // as explicit, so we can get away with this syntax
+  Arg argArray[] = { a, b, c };
+  // we put the non-template DoThingsWithArgs inside
+  // a new namespace 'internal' to avoid confusion
+  internal::DoThingsWithArgs(3, argArray);
 }
 ```
 
@@ -84,14 +84,14 @@ That is an infinite number of overloads.
 // one arg
 template <typename T0>
 void DoThingsWithArgs(T0 a) {
-	Arg argArray[] = { a };
-	internal::DoThingsWithArgs(1, argArray);
+  Arg argArray[] = { a };
+  internal::DoThingsWithArgs(1, argArray);
 }
 // two arg
 template <typename T0>
 void DoThingsWithArgs(T0 a, T1 b) {
-	Arg argArray[] = { a, b };
-	internal::DoThingsWithArgs(2, argArray);
+  Arg argArray[] = { a, b };
+  internal::DoThingsWithArgs(2, argArray);
 }
 // etc...
 ```
@@ -101,8 +101,8 @@ It doesn't have to be this way. Enter **variadic templates**!
 ```cpp
 template <typename... Args>
 void DoThingsWithArgs(Args... args) {
-	Arg argArray[] = { args... };
-	internal::DoThingsWithArgs(sizeof...(Args), argArray);
+  Arg argArray[] = { args... };
+  internal::DoThingsWithArgs(sizeof...(Args), argArray);
 }
 ```
 
