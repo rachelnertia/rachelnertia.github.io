@@ -1,5 +1,5 @@
 ---
-title: Picking Easy Arguments
+title: Easy Arguments
 layout: post
 category: Programming
 tags: [ C++ ]
@@ -8,7 +8,7 @@ comments: true
 
 We've all been there. We learn about a new-ish C++ feature, we consider using it, we weigh our optimism against our wariness of falling into the "*use all the features!*" pithole. We back away nervously. Maybe another time, we say, and retreat back into the darkness -- it may be dark, but better the devil you know.
 
-The argument to adopt recently-added C++ features can be quite difficult, and often this is the way it ought to be. Other times, however, the argument can be won in minutes.
+The argument to adopt recently-added C++ features can be quite difficult, and often this is the way it ought to be. Other times, however, the argument can be won in minutes with a simple, concise example.
 
 ### Variadic Functions ###
 
@@ -67,10 +67,10 @@ void DoThingsWithArgs(T0 a, T1 b, T2 c)
 {
 	// none of the constructors for Arg have been marked as explicit, so we can
 	// get away with this
-	Arg args[] = { a, b, c };
+	Arg argArray[] = { a, b, c };
 	// we put the non-template DoThingsWithArgs inside namespace internal to avoid
 	// confusion
-	internal::DoThingsWithArgs(3, args);
+	internal::DoThingsWithArgs(3, argArray);
 }
 ```
 
@@ -83,20 +83,20 @@ But we have a problem. We need to write one overload of `DoThingsWithArgs`, one 
 template <typename T0>
 void DoThingsWithArgs(T0 a)
 {
-	Arg args[] = { a };
-	internal::DoThingsWithArgs(1, args);
+	Arg argArray[] = { a };
+	internal::DoThingsWithArgs(1, argArray);
 }
 // two arg
 template <typename T0>
 void DoThingsWithArgs(T0 a, T1 b)
 {
-	Arg args[] = { a, b };
-	internal::DoThingsWithArgs(2, args);
+	Arg argArray[] = { a, b };
+	internal::DoThingsWithArgs(2, argArray);
 }
 // etc...
 ```
 
-It doesn't have to be this way. Enter variadic templates.
+It doesn't have to be this way. Enter **variadic templates**!
 
 ```cpp
 template <typename... Args>
@@ -107,7 +107,7 @@ void DoThingsWithArgs(Args... args)
 }
 ```
 
-`typename... Args` lets us specify an arbitrary number of types to a template. The list of types will be referred to as `Args`. We unroll this 'parameter pack' to form the argument list of the function with `Args... args`.
+`typename... Args` lets us specify an arbitrary number of types to a template. The list of types will be referred to as `Args`. We unroll this '[parameter pack](http://en.cppreference.com/w/cpp/language/parameter_pack)' to form the argument list of the function using `Args... args`.
 
 Inside the function, writing `args...` evaluates to the list of actual arguments. For example, if we called `DoThingsWithArgs` like so:
 
@@ -121,6 +121,10 @@ We'd get:
 Arg argArray[] = { 1, 0.5, "hello" };
 ```
 
-Finally, `sizeof...(Args)` returns the size of the parameter pack.
+Finally, `sizeof...(Args)` returns the size of the parameter pack, and therefore the size of `argArray`.
 
-This is all pretty neat, huh?
+This is all pretty neat, huh? And also hard to argue with. Once your toolchain has fully migrated to C++11, updating code that uses multiple overloads of function templates, with the only difference between them being the number of arguments, to be variadic instead, should be a total no-brainer.   
+
+I hope you've found this blog post informative. If there's anything unclear or odd about it, just ask. Can you think of other good examples of new language features that old code should be upgraded to use?
+
+Oh, and happy holidays!
