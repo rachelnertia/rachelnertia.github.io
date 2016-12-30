@@ -4,38 +4,41 @@ layout: post
 category: Personal
 ---
 
-You have to take the good with the bad. You have to take a step back and enumerate the things that made you happy in the year and avoid fixating on the awful stuff. Only the light can keep out the dark, after all.
-
-That opening would have been more appropriate for my 2015 retrospective, had I written one. Yes, the worst event in my life so far occurred in mid-2015. Yes, it overshadowed everything and almost destroyed me. But the scale of a loss is proportional to the value of what was lost, and the good times I got to have with Danielle before she died were unforgettable. And other good things happened in 2015, too, some of them related to the grief I shared with others and that bound us together closer than before, and some of them completely tangential. 2015 was the worst year, but also one in which I was amazed by love.
-
-That's enough about 2015. I just thought it would be useful to provide some context.
-
 2016, huh?
 
 ### I finished university somehow
 
-![](/images/graduation-2.jpg "Yep, that's me. You're probably wondering how I ended up in this sitation.")
+I graduated in November, but actually I was done with my time at Abertay University at the end of June when I handed in my final project. This was about two months after everyone else had handed theirs in. Final year is pretty hard, and recovering from a bereavement at the same time certainly didn't help. At a few points I was certain I was just going to throw in the towel. The staff at Abertay allowed me to push the final deadline back so that I could focus on the maths exam. It simply would not have worked out any other way -- I was pushing myself to the breaking point trying to do everything at once.
 
-I graduated in November, but actually I was done with my time at Abertay University when I handed in my final project at the end of June. This was about two months after everyone else had handed theirs in. Final year is pretty hard, and recovering from a bereavement at the same time certainly didn't help. At a few points I was certain I was just going to throw in the towel. Abertay allowed me to push the final deadline back so that I could focus on the maths exam. It simply would not have worked out any other way -- I was pushing myself to the breaking point trying to do everything at once.
-
-Anyway, in the gap between the real end of uni and my end of uni...
+I made it, and I'm glad I did. The graduation ceremony, while being nothing more than a ceremony, turned out to be a nice way to bookend my time at Abertay. I'm very grateful to my teachers and the other staff who helped me get there.  
 
 ### I got a job somehow
 
-I really lucked out here.
+During my final push to complete university I continued applying to jobs as I had been throughout the year. This was quite depressing, with most applications ignored completely by overburdened hiring departments, but when all of your friends are going through the same process there's an air of solidarity that helps to keep you going.
 
-### Lots of good games
+Eventually I applied for a junior programming role at Rockstar North, not expecting much, but found myself being offered a job less than a month later.
 
-### Good pals
+I started in August. My first few months have been great. I feel very lucky.
+
+### Living in Edinburgh again
+
+It has been very sad to leave Dundee behind after four years and everything in my life that took place there. At points I've felt very homesick for that city; I don't expect the feeling to go away.
+
+I'm more settled in Edinburgh now. After living with my mum for three months I moved into a flat on the other side of town at the end of November, and I'm starting to feel much more settled now. There was always something uncomfortable about going to work along the same route I used to take to school. My access to Edinburgh has always been through someone else -- either of my parents -- and now that I have my own place in a part of town I've never lived in before I have something like the feeling of independence I had while I was in Dundee.
+
+### I played lots of good games
+
+2016 was a good year in terms of games I played as well as games that were released.
+
+![](/images/hearts-of-stone-00.jpg)
+
+*The Witcher 3* continued to amaze me, with the *Hearts of Stone* expansion bringing more to the table in terms of storytelling and gameplay than most full games manage. It's probably my favourite variation on the classic Faustian tale and I strongly recommend it. I've yet to play *Blood and Wine*, unfortunately.
+
+I've owned [*Condottiere*](https://www.fantasyflightgames.com/en/products/condottiere/) for years but until spending some long evenings playing it with a group of friends this year, never really appreciated it for what it is -- a tightly-designed, easy to learn but difficult to master game of strategy, hidden information and bluffing. It is also very obviously the main inspiration for [*Gwent*](https://www.playgwent.com/en). I'm resistant to Gwent for its *Magic: The Gathering*-like collectible card game trappings, but they do give the game something *Condottiere* doesn't have: in *Condottiere* the occasional round will be won by sheer luck before it even begins, something that wouldn't happen in a game with pre-built, rather than randomly-generated, hands of cards. There's also a snowball effect that occurs once one or more players start pulling ahead of the pack. Despite these criticisms, *Condottiere* is one of those games that's physically small enough and cheap enough that I think every board gamer ought to own a copy.
+
+This year also introduced me to [*Codenames*](https://boardgamegeek.com/boardgame/178900/codenames). I must have played it more than fifty times so far, and it's yet to disappoint as a party game.
+
+### My friends are awesome
+
 
 ### Slainte
-
-So yeah. Despite all this I'll be glad to see the back of 2016. Lots of public figures I admire and look up to passed away this year, and while you can only allow your heart to feel grief up to a certain point about people you ultimately only know through media, it still sucks. But, you know, we're hitting the point where the 'first generation' of celebrities as we currently think of them are reaching the kind of age where death starts to become more likely -- strangers we are supposed to know and care about will continue to die at roughly the same rate in 2017. And there's nothing wrong with death, really. It happens to us all. It does not diminish the things we leave behind.
-
-2016 was also a year in which, more so than before, it felt like communication between people was breaking down and failing at alarming rates. Serious, complex issues which require long, careful discussion were boiled down or thrown out the window altogether and replaced with single yes-no decision-points. We in the United Kingdom voted by a not particularly large margin to leave the European Union, before anyone knew what this meant. Even the most vocal supporters of Leave seemed to have no idea. We now have a truly unelected government charting a course into stormy waters. It would prefer that nobody outside of its circle be allowed to know the route (or debate it), and the opposition is weak and divided. It's not a particularly good situation.
-
-Geopolitics in general has been pretty crap this year. There has been a worrying rise in nu-fascist groups sucking the air out of democracy in Europe and the USA. It will burn itself out as it always does, but the question is how much damage to the world it can do in the process.
-
-I hope 2017 can be a year in which we get better at communicating with each other, and better at understanding the lay of the land. Politics seems to be like water; it takes the path of least resistance if not held tightly.
-
-I hope this wasn't too much of a downer to end on.
