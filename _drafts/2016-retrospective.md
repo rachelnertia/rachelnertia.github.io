@@ -26,18 +26,6 @@ It has been very sad to leave Dundee behind after four years and everything in m
 
 I'm more settled in Edinburgh now. After living with my mum for three months I moved into a flat on the other side of town at the end of November, and I'm starting to feel much more settled now. There was always something uncomfortable about going to work along the same route I used to take to school. My access to Edinburgh has always been through someone else -- either of my parents -- and now that I have my own place in a part of town I've never lived in before I have something like the feeling of independence I had while I was in Dundee.
 
-### I played lots of good games
-
-2016 was a good year in terms of games I played as well as games that were released.
-
-![](/images/hearts-of-stone-00.jpg)
-
-*The Witcher 3* continued to amaze me, with the *Hearts of Stone* expansion bringing more to the table in terms of storytelling and gameplay than most full games manage. It's probably my favourite variation on the classic Faustian tale and I strongly recommend it. I've yet to play *Blood and Wine*, unfortunately.
-
-I've owned [*Condottiere*](https://www.fantasyflightgames.com/en/products/condottiere/) for years but until spending some long evenings playing it with a group of friends this year, never really appreciated it for what it is -- a tightly-designed, easy to learn but difficult to master game of strategy, hidden information and bluffing. It is also very obviously the main inspiration for [*Gwent*](https://www.playgwent.com/en). I'm resistant to Gwent for its *Magic: The Gathering*-like collectible card game trappings, but they do give the game something *Condottiere* doesn't have: in *Condottiere* the occasional round will be won by sheer luck before it even begins, something that wouldn't happen in a game with pre-built, rather than randomly-generated, hands of cards. There's also a snowball effect that occurs once one or more players start pulling ahead of the pack. Despite these criticisms, *Condottiere* is one of those games that's physically small enough and cheap enough that I think every board gamer ought to own a copy.
-
-This year also introduced me to [*Codenames*](https://boardgamegeek.com/boardgame/178900/codenames). I must have played it more than fifty times so far, and it's yet to disappoint as a party game.
-
 ### My friends are awesome
 
 
