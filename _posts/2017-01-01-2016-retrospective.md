@@ -4,7 +4,7 @@ layout: post
 category: Personal
 ---
 
-![](/images/arthurs-seat-new-years-day.jpg)
+![Me on Arthur's Seat on New Year's Day](/images/arthurs-seat-new-years-day.jpg "Natalie took this!")
 
 2016 was a pretty positive year for me, even though the world at large seemed determined to produce bad news. Here's some of the big things that changed in my life this year.
 
@@ -37,3 +37,5 @@ It sounds a bit sappy, but it's true. They have picked me up and put me back on 
 If you're reading this, you're probably one of my friends. If not, maybe you will be one day. Either way: you rock, and I wish you a happy new year!
 
 <iframe width="100%" height="360" src="https://www.youtube.com/embed/tRcPA7Fzebw" frameborder="0" allowfullscreen></iframe>
+
+(And I'm sure David would too.)
