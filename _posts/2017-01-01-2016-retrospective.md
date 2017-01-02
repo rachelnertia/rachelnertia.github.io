@@ -6,7 +6,7 @@ category: Personal
 
 ![Me on Arthur's Seat on New Year's Day](/images/arthurs-seat-new-years-day.jpg "Natalie took this!")
 
-2016 was a pretty positive year for me, even though the world at large seemed determined to produce bad news. Here's some of the big things that changed in my life this year.
+2016 was a pretty positive year for me, even though the world at large seemed determined to produce bad news. Here's some of the big things that happened in my life this year.
 
 ### I finished university
 
