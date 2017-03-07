@@ -15,6 +15,8 @@ I found I wasn't affected by jetlag at all. I woke up between 5:30 and 6am every
 
 On Wednesday we hit the Moscone Centre. The place is massive, comprising of 3 buildings - North, South and West. North and South are two massive underground expo halls, connected by a tunnel that goes beneath the road that separates them on the surface. West is a multi-storey building about the size of Dundee in which most of the talks were held. 
 
+The 'Made With Defold' booth was situated in the corner of North. It seemed like *Hook, Line and Thinker* went down really well with almost everyone who gave it a try, and it was fun to  
+
 - How I got to go to GDC
 - Travel
 - Tuesday
