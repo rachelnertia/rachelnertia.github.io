@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: *Halo Reach*
+title: Halo Reach
 category: Gaming
 tags: [ Halo, Bungie ]
 ---
