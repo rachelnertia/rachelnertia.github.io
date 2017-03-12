@@ -14,6 +14,8 @@ tags: [ GDC, "Hook, Line and Thinker"  ]
 
 However, by good fortune I got to go anyway. I was in San Francisco from Tuesday 28th February until Sunday 5th March and have spent most of my free time since I got back recovering. Here are some words about my trip.
 
+<!--more-->
+
 ### *Hook, Line and Thinker*
 
 <img src="/images/hlat_poster.jpg" width="50%" alt="Hook, Line and Thinker poster" title="Hook, Line and Thinker poster"/>

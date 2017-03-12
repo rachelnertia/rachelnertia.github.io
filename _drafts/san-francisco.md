@@ -14,3 +14,6 @@ We visited Pier 39 in Fisherman's Wharf, the touristy waterfront district, where
 It's also one of the places where you can get a boat out to Alcatraz, the famous prison island, or to explore the Bay.
 
 You can see the Golden Gate Bridge in the distance. It's called that because it bridges the Golden Gate, which is the narrow strait through which all the water in the Bay gets in and out.
+
+On one of the piers at Fisherman's Wharf is the Musee Mecanique, a museum for old arcade machines, from titles as recent as Tekken to contraptions that date back to as early as the 1930s, honky-tonk self-playing pianos, zoetropes with handles the viewer must crank, archaic shooting galleries. It's free to enter, but you have to pay about a quarter for each machine, just like a real arcade. What I was most struck by was getting to play an original version of *Asteroids* and discovering just how much I underestimated the brightness of the vector display. The bullets fired by the player and the UFO are as bright as phosphorus flares against the deep blackness of the screen.
+ 
