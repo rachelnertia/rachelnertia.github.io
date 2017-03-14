@@ -3,7 +3,7 @@ title: My First GDC
 layout: post
 category: Game Dev
 comments: true
-tags: [ GDC, "Hook, Line and Thinker"  ]
+tags: [ GDC, "Hook, Line and Thinker", PICO-8, IGF, Defold, King, "Far: Lone Sails", San Francisco  ]
 ---
 
 ![](/images/gdc_logo.jpg)
@@ -36,7 +36,7 @@ I got to attend two talks. On Thursday morning I attended Ste Curran's talk [on 
 
 ### Expo
 
-![](/images/gdc17/far.jpg)
+![Far: Lone Sails](/images/gdc17/far.jpg)
 
 The Moscone Centre consists of three enormous buildings called the North, South and West halls. The West hall was mostly dedicated to talks, containing some pretty cavernous lecture rooms, but had two relaxed areas for videogames (the [Indie Megabooth](http://indiemegabooth.com/announcing-line-gdc-2017/) and [Mild Rumpus](http://thewildrumpus.co.uk/mildrumpus)) and a corner for board games run by [Shut Up and Sit Down](https://www.shutupandsitdown.com/). The South hall was the bigger of the two expo halls, full of big players like Microsoft, Oculus/Facebook and Sony, as well as booths dedicated to national representation like the Scottish booth. The North hall contained all the wee games, the [Independent Games Festival](http://www.igf.com/) finalists, the universities and colleges, and is where we were situated.  
 
@@ -46,7 +46,7 @@ During the times I got to explore the hall I managed to see a number of interest
 
 ### IGF+GDC Awards
 
-![](/images/gdc17/igf_gdc_awards.jpg)
+![The awards hall](/images/gdc17/igf_gdc_awards.jpg)
 
 On Wednesday evening me and Connor went to watch the IGF and Game Developer's Choice awards, a glitzy event where a handful of critically successful games are held up above the rest. I have mixed feelings about awards, award ceremonies and the effects they have, but both the back-to-back shows were highly entertaining. Nina Freeman and Tim Schafer hosted the IGF and Game Developer's Choice awards respectively; both were good but Schafer's ability to crack jokes and hold attention is incredible -- they're available to watch [online](https://www.twitch.tv/videos/125754127). It was neat to attend in person because there's a vibe in the room that just doesn't come across when you're watching it over a livestream.
 
