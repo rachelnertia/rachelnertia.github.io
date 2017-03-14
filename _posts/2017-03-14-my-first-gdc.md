@@ -10,7 +10,7 @@ tags: [ GDC, "Hook, Line and Thinker", PICO-8, IGF, Defold, King, "Far: Lone Sai
 
 [Game Developers Conference](http://www.gdconf.com/) is an annual gathering of people involved in the game industry from all over the world. It takes place in and around the [Moscone Centre](https://www.google.co.uk/maps/place/Moscone+Center/@37.7838675,-122.4034264,17z) in San Francisco, California. I've always wanted to go, but it's expensive to get out there and get accommodation and *very* expensive for the kind of pass that gets you into lots of interesting talks and events, which is one of the main reasons to go.
 
-Very luckily and to my great surprise, this year I got to go for free (for reasons I'll explain). I was in San Francisco from Tuesday 28th February until Sunday 5th March and have spent most of my free time since I got back recovering. Here are some words about my trip.
+Very luckily, and to my great surprise, this year I got to go for free (for reasons I'll explain). I was in San Francisco from Tuesday 28th February until Sunday 5th March and have spent most of my free time since I got back recovering. Here are some words about my trip.
 
 <!--more-->
 
