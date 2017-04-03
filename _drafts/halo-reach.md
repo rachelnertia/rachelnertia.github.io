@@ -44,20 +44,19 @@ Speaking of audio, the soundtrack is yet another brilliant outing by Martin O'Do
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/53_CUSmf8fQ" frameborder="0" allowfullscreen></iframe>
 
-It's not quite as good as *ODST*'s soundtrack, but what is?
+It's not quite as good as [*ODST*'s soundtrack](https://www.youtube.com/watch?v=a33iI6xfld0), but what is?
 
 There's good variety in the levels in the campaign and, on the whole, the level design is the strongest in the series. You move from one well-thought-out combat arena to the next, from vehicular section to long-distance engagement to close-quarters firefight to showdown with some particularly challenging combination of enemies. There's a brief space section which leads into a fun mid-game crescendo of action. It's actually a pretty good level, and doesn't outstay its welcome.
 
-The main thing about *Halo* level design is that it is all about supporting the game's AI, which in *Reach* is the most varied and interesting it's ever been. The full array of old Covenant baddies make a return. Sections which see you fighting Brutes (big burly ape-men) lead into battles against Elites (big burly... lizard[^3]..? men?) -- who are faster and scarier to fight than they were in the first two games. Skirmishers, a new enemy type, take the place of sniper-Jackals, are more versatile and highly mobile. They are able to jump onto the roofs of buildings and cover ground really quickly, attacking from unexpected directions.   
+The main thing about *Halo* level design is that it is all about supporting the game's AI, which in *Reach* is the most varied and interesting it's ever been. The full array of old Covenant baddies make a return. Sections which see you fighting [Brutes](http://halo.wikia.com/wiki/Jiralhanae) (big burly ape-men) lead into battles against [Elites](http://halo.wikia.com/wiki/Sangheili) (big burly... lizard[^3]..? men?) -- who are faster and scarier to fight than they were in the first two games. The new [Skirmishers](http://halo.wikia.com/wiki/T%27vaoan) take the place of sniper-[Jackals](http://halo.wikia.com/wiki/Kig-Yar) but are more versatile and highly mobile, able to jump onto the roofs of buildings and cover ground really quickly, attacking from unexpected directions, which is exactly the sort of thing you want to see AI enemies do.
 
 There's also no Flood, thank god.
 
-- Xbox 360 struggling under the graphical weight.
-- Enemy AI and design is varied and good, level design mostly supports it very well
+And that's *Halo Reach*. Or *Halo: Reach* (note the colon). A good game. If you still have an Xbox 360 taking up space in your home, digging up a copy of it is definitely worth the time. At least, if you've already played the other Bungie *Halo* games. Which if you have, you probably already played *Reach* back when it came out. Re-play it, I guess?
+
+Not much of a recommendation to people who never played it before, though, is it? That's the core problem with *Reach*. It's the best *Halo* game, but it's also the last one that someone new to the series should play.
 
 ![](/images/halo-reach/Reach_Nightfall_Cinematic.jpg)
-
-*Screenshots courtesy of Bungie because who the heck has a capture card.*
 
 [^1]: Which I replayed last year, by the way. Yeah, this post has been sitting in my drafts for a while.
 
