@@ -20,11 +20,9 @@ Stories which deploy this conceit have to be prequels -- at least, I can't think
 
 ![](/images/halo-reach/Reach_TotS_FP01.jpg)
 
-Which it does, of course, in three games' time. Your character's role is to set up the events of the first game, although you'd be very confused about the whole affair if you chose *Reach* as your entry point to the story -- it's more of a whistle-stop farewell tour for Bungie than an open door to new fans. It's not so surprising that the studio's last outing with the franchise was not aiming to be bigger, better, and 'more badass' than the last. Instead, they just wanted to come up with a fitting way to say goodbye.
+Which it does, of course, in three games' time. Your character's role is to set up the events of the first game, although you'd be very confused about the whole affair if you chose *Reach* as your entry point to the story -- it's more of a whistle-stop farewell tour for Bungie than an open door to new fans. It's not so surprising that the studio's last outing with the franchise was not aiming to be bigger, better, and 'more badass' than the last. Instead, they just wanted to come up with a fitting way to say goodbye. There's really no way you could play this without having played the other games. It's too much of a love letter from Bungie to the series and its fans.
 
-In my opinion *Reach* might just be the best Halo game, if such a thing is worth arguing about, but I'll concede that it definitely isn't the most significant. Historically speaking, it didn't redefine and reinvigorate the console FPS the way the original *Halo* did. Personally speaking, I didn't spend hundreds of hours playing it with friends (and other miscreant Xbox Live denizens) like I did with *Halo 3*, and it wasn't the introduction to first-person shooters and the world of military action sci-fi that *Combat Evolved* was to me as a wee person[^2].
-
-I'll also concede some other points. For one, there's really no way you could play this without having played the other games. It's too much of a prequel, too much of a love letter from Bungie to the series and its fans as they said farewell. *Halo 3: ODST* deserves a share of the spotlight, too. It brought back a few old things, tried out a few new things, and managed to create one of the most atmospheric post-alien-invasion cities I've ever seen in a game - although *Reach* pushes the envelope pretty hard there, too.
+*Reach* is probably the best Halo game in terms of pure mechanical refinement, but it definitely isn't the most significant. Historically speaking, it didn't redefine and reinvigorate the console FPS the way the original *Halo* did. Personally speaking, I didn't spend hundreds of hours playing it with friends (and other miscreant Xbox Live denizens) like I did with *Halo 3*, and it wasn't the introduction to first-person shooters and the world of military action sci-fi that *Combat Evolved* was to me as a wee person[^2].
 
 ![](/images/halo-reach/Reach_LnoS_Sabre.jpg)
 
@@ -40,11 +38,11 @@ On the other hand, this is the game where Bungie really figured out how to make 
 
 ![](/images/halo-reach/Reach-m10_1stperson.jpg)
 
-Speaking of audio, the soundtrack is yet another brilliant outing by Martin O'Donnell and Michael Salvatori. Like in *ODST* they get to depart from the musical identity of the first three games, and they do it well, giving *Reach* a unique feel that references the older games' soundtracks but is not slavishly imitative of them. Check it out:
+Speaking of audio, the soundtrack is yet another brilliant outing by Martin O'Donnell and Michael Salvatori. Like in *ODST* they get to depart from the musical identity of the first three games, and they do it well, giving *Reach* a unique feel that references the older games' soundtracks but is not slavishly imitative of them. Where the music from the trilogy games strives to evoke a nearly religious sense of awe (and sometimes, horror), *Reach*'s music is forlorn, regretful and much more grounded.
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/53_CUSmf8fQ" frameborder="0" allowfullscreen></iframe>
+It's not quite as good as [*ODST*'s soundtrack](https://www.youtube.com/watch?v=a33iI6xfld0), but what is? Check it out:
 
-It's not quite as good as [*ODST*'s soundtrack](https://www.youtube.com/watch?v=a33iI6xfld0), but what is?
+<iframe width="100%" height="380" src="https://www.youtube.com/embed/53_CUSmf8fQ" frameborder="0" allowfullscreen></iframe>
 
 There's good variety in the levels in the campaign and, on the whole, the level design is the strongest in the series. You move from one well-thought-out combat arena to the next, from vehicular section to long-distance engagement to close-quarters firefight to showdown with some particularly challenging combination of enemies. There's a brief space section which leads into a fun mid-game crescendo of action. It's actually a pretty good level, and doesn't outstay its welcome.
 
