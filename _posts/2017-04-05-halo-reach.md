@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: Halo Reach
+title: "Halo: Reach"
 category: Gaming
 tags: [ Halo, Bungie ]
 ---
@@ -52,7 +52,7 @@ There's also no [Flood](https://www.halopedia.org/Flood), thank god. The body/co
 
 ![](/images/halo-reach/Reach_TotS_Gunning.jpg)
 
-And that's *Halo Reach*. There's more to talk about, of course. When the writing succeeds. When it fails. The skyboxes. The [Grunt](http://halo.wikia.com/wiki/Unggoy) voices, left un-translated from their original language. The health system. The option to customise your character -- and play a lady-Spartan (neat!). The multiplayer. The details. The ending. Oh god, the *ending*.
+And that's *Halo: Reach*. There's more to talk about, of course. When the writing succeeds. When it fails. The skyboxes. The [Grunt](http://halo.wikia.com/wiki/Unggoy) voices, left un-translated from their original language. The health system. The option to customise your character -- and play a lady-Spartan (neat!). The multiplayer. The details. The ending. Oh god, the *ending*.
 
 Like I said, mechanically-speaking it's the best *Halo* game. It's every element from the original game, matured and refined. If I wanted to explain the core gameplay of *Halo* to someone, I might just point to *Reach* before *Combat Evolved*. The catch is that I wouldn't actually recommend playing through it to that same person -- it may be the best, but it's also the last game someone new to the series should play. The reason is simple:
 
@@ -62,6 +62,6 @@ It's for fans.
 
 [^1]: Which I replayed last year, by the way. Yeah, this post has been sitting in my drafts for a while.
 
-[^2]: The family laptop me and my brother had to run our copy of *Halo 1* on had very limited graphics functionality. It was only years later, when we installed it on a better system, that we discovered the Master Chief's armour was in fact painted green, not white, and that there were weathered metallic (normal-mapped!) textures on things we thought were completely smooth. On that old computer I remember thinking how cool it was that the game went into slow motion when lots of things were happening all at once, which, in hindsight, was actually just the framerate dropping into single figures.
+[^2]: The family laptop me and my brother had to run our copy of *Halo: Combat Evolved* on had very limited graphics functionality. It was only years later, when we installed it on a better system, that we discovered the Master Chief's armour was in fact painted green, not white, and that there were weathered metallic (normal-mapped!) textures on things we thought were completely smooth. On that old computer I remember thinking how cool it was that the game went into slow motion when lots of things were happening all at once, which, in hindsight, was actually just the framerate dropping into single figures.
 
-[^3]: One of *Halo*'s strengths (which is visible in Bungie's other work, *Destiny* and *Marathon*), is that with the exception of the Brutes the alien design is actually *alien*.
+[^3]: One of *Halo*'s strengths (which is visible in Bungie's other work, [*Destiny*](https://en.wikipedia.org/wiki/Destiny_(video_game)) and [*Marathon*](https://en.wikipedia.org/wiki/Marathon_(video_game))), is that with the exception of the Brutes the alien design is actually *alien*.
