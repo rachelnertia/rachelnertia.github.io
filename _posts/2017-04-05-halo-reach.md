@@ -60,7 +60,7 @@ It's for fans.
 
 ![](/images/halo-reach/Reach_Nightfall_Cinematic.jpg)
 
-[^1]: Which I replayed last year, by the way. Yeah, this post has been sitting in my drafts for a while.
+[^1]: Which I replayed last year. Yeah, this post has been sitting in my drafts for a while.
 
 [^2]: The family laptop me and my brother had to run our copy of *Halo: Combat Evolved* on had very limited graphics functionality. It was only years later, when we installed it on a better system, that we discovered the Master Chief's armour was in fact painted green, not white, and that there were weathered metallic (normal-mapped!) textures on things we thought were completely smooth. On that old computer I remember thinking how cool it was that the game went into slow motion when lots of things were happening all at once, which, in hindsight, was actually just the framerate dropping into single figures.
 
