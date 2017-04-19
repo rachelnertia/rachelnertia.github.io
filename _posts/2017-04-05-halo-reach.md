@@ -18,6 +18,8 @@ Watching the latest *Star Wars* film, [*Rogue One*](https://en.wikipedia.org/wik
 
 Stories which deploy this conceit have to be prequels -- at least, I can't think of any examples which aren't -- because the only way you can get away with such a bleak ending is if the audience knows how it all works out okay in the end.
 
+<!--more-->
+
 ![](/images/halo-reach/Reach_TotS_FP01.jpg)
 
 Which it does, of course, in three games' time. Your character's role is to set up the events of the first game, although you'd be very confused about the whole affair if you chose *Reach* as your entry point to the story -- it's more of a whistle-stop farewell tour for [Bungie](https://en.wikipedia.org/wiki/Bungie) than an open door to new fans. It's not surprising that the studio's last outing with the franchise wasn't aiming to be bigger, better, and 'more badass' than the last. Instead, they just wanted to come up with a fitting way to say goodbye. There's really no way you could play this without having played the other games; it's just too much of a love letter from Bungie to the series and its fans.
