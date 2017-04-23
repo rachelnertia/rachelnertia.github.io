@@ -109,3 +109,5 @@ auto FindByAddress(
 In fact we could make it even more generic and not constrain it to only working with `std::vectors` by having it take two iterators, a *begin* and an *end*. Or, in the bright future, a [range](http://www.fluentcpp.com/2017/01/12/ranges-stl-to-the-next-level/). I'll leave that as an exercise for the reader.
 
 I'll also leave as an exercise for the reader the task of pointing out mistakes I've made, or why an array of references is a bad idea, or generally letting me know what you think of the code I've shared here either on [Twitter](http://www.twitter.com/nershly) or in the comments below. Can I really refer to my cakes and eat them?
+
+Shout out to [Elias Daler](https://twitter.com/EliasDaler/) for his recent [dev log](https://eliasdaler.github.io/re-creation-devlog-december-march/), which alerted me to the existence of reference wrappers and started all of this.
