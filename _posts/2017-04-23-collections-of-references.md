@@ -47,8 +47,8 @@ This is [(partly)](http://stackoverflow.com/questions/1164266/why-are-arrays-of-
 // invalid:
 SomeType& someTypeRef;
 // valid:
-SomeType someTypeInst(/* blah */);
-SomeType& someTypeRef = blah;
+SomeType someTypeInst;
+SomeType& someTypeRef = someTypeInst;
 ```
 
 But I *want* an array of references, because I want to represent the idea that elements can never be null. Fortunately, I can do this by writing a structure that 'wraps' a reference, and creating an array of that. I don't even have to write that wrapper myself, because it's already a template in the standard library: [`std::reference_wrapper`](http://en.cppreference.com/w/cpp/utility/functional/reference_wrapper).
