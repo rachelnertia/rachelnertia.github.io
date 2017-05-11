@@ -4,7 +4,9 @@ layout: post
 category: Programming
 ---
 
-This week I started using Premake in Quarrel, my game/engine spare-time project, and took the opportunity to generally reorganise some things.
+Recently week I started using Premake in Quarrel, my game/engine spare-time project.
+
+Premake is a tool that generates project/make files for different build systems, including Visual Studio and gmake.  
 
 At the end of all this, I have 3 projects in my solution/workspace:
 
