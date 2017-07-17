@@ -3,6 +3,7 @@ layout: post
 title: The Signal from Tölva
 category: Gaming
 tags: [ Big Robot, The Signal from Tölva, "Sir, You Are Being Hunted" ]
+comments: true
 ---
 
 ![](/images/the-signal-from-tolva/tolva_01.jpg)
