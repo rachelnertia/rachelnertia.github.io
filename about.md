@@ -7,7 +7,7 @@ Hiya! I'm a budding game developer with a focus on programming, and this is my p
 
 I currently work as a Junior Network Programmer at Rockstar North in Edinburgh, Scotland. It's going well!
 
-Previously I [Computer Games Technology](http://www.abertay.ac.uk/courses//ug/comopgamestech/) at [Abertay University](http://www.abertay.ac.uk/) in bonny Dundee. 
+Previously I studied [Computer Games Technology](http://www.abertay.ac.uk/courses//ug/comopgamestech/) at [Abertay University](http://www.abertay.ac.uk/) in bonny Dundee. 
 
 I try to use this website to document projects I'm working on, write about things I'm learning, discuss games I'm playing, share music I'm listening to and other good stuff. I hope you get something useful out of your time here.
 
