@@ -8,6 +8,9 @@ This blog post is about programming a game engine in your spare time while worki
 
 ...
 
-I think the reasons I persist are, in no particular order:
+I think the reasons I keep coming back are (in no particular order):
 
-- Programming is inherently satisfying for me. This applies, strangely enough, even when I am having a bad time of it. There is something very engaging for me about the process of iteration from rough concept in my head, to code, to a solution to a problem. It's self-expression. Craftsmanship. And my brain feeds off it.
+- It's a great way to learn.
+- It's a bit therapeutic. 
+- The dream is: I will use this to make cool games I will like and others will like. And maybe others will also use it to make things. That dream isn't showing any signs of dying, so it remains a source of motivation.
+- Programming is inherently satisfying for me. Strangely enough this is true even when I am having a bad time of it. There is something very engaging for me about the process of iteration from rough concept in my head, to code, to a solution to a problem. It's self-expression. Craftsmanship. And my brain feeds off it.
