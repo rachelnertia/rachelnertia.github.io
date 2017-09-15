@@ -10,6 +10,7 @@ This blog post is about programming a game engine in your spare time while worki
 
 I think the reasons I keep coming back are (in no particular order):
 
+- It's quite constrained. I'm not trying to make my own alternative to Unity. The things I'm trying to do haven't really been done before.
 - It's a great way to learn.
 - It's a bit therapeutic. 
 - The dream is: I will use this to make cool games I will like and others will like. And maybe others will also use it to make things. That dream isn't showing any signs of dying, so it remains a source of motivation.
