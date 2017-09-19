@@ -6,6 +6,8 @@ category: Game Development
 
 This blog post is about programming a game engine in your spare time while working full-time as a programmer in the AAA game industry, why you probably shouldn't, and why maybe you should.
 
+I've been making a game engine in my spare time for over a year now, giving it at least a couple hours each week. It all started when I had a few weeks of free time and the idea for a particular game bubbled to the surface of the cauldron of things I wanted to work on. That game required its own engine, and gradually that engine grew into what I'm now calling 'Quiver'.
+
 ...
 
 I think the reasons I keep coming back are (in no particular order):
