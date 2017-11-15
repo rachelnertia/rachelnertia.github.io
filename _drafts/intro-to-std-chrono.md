@@ -1,6 +1,6 @@
 ---
 layout: post
-category: programming
+category: Programming
 tags: [ C++ ]
 comments: true
 ---
