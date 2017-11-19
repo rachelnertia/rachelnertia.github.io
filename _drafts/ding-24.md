@@ -1,0 +1,21 @@
+---
+layout: post
+title: Ding! 24
+category: Personal
+---
+
+I turned 24 today. This weekend has been a bit busy and overwhelming -- but perfect. 
+
+On Friday I went to Dundee for some [Marioke](https://twitter.com/nershly/status/931789423062212608), which was fantastic. The event itself was amazing, but it was also nice to see some Dundee friends I hadn't met for a while. Hopefully we'll have another one of those in Scotland some time. 
+
+Last night we had some friends over for a flat party. My flatmate had decorated the whole place in birthday stuff while I was out during the day (at [edindies](http://edindi.es/), in fact). That was a lot of effort I didn't expect anyone to take, but really appreciated. She also got me a cake!
+
+Natalie made me a birthday card in short game form, which was incredibly sweet. I'm really grateful for her.
+
+Today I had lunch with my mum and I'm meeting my dad for dinner. It's nice to see them both, as usual.
+
+I've been barrelled over by all the folks who have checked in and said happy birthday, over the internet or otherwise. It's not that there's been more than usual, it's that I seem to be paying attention to it more. I think for a number of years I haven't really noticed birthdays -- in fact last year I thought I was turning 22, not 23 -- but this year has been different for some reason. Maybe it's just that some things kind of settled into place this year? Who knows.
+
+Anyway, thankyou for being along for the ride. Here's to another year of us.
+
+![](/images/john-duncan.jpg)
