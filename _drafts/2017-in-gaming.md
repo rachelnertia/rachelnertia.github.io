@@ -2,6 +2,7 @@
 title: 2017 in Gaming
 layout: post
 category: Gaming
+tags: [ The Signal from Tolva, The Witcher III, Guild Wars 2, Warcraft III, Total War, Warhammer, Shadespire ]
 comments: true
 ---
 
