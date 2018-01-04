@@ -1,4 +1,5 @@
 ---
+title: Introduction to std::chrono
 layout: post
 category: Programming
 tags: [ C++ ]
