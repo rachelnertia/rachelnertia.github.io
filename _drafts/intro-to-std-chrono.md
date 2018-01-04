@@ -8,8 +8,6 @@ comments: true
 How many times have you tried to call a function that alleges to return a time value only to realise you don't know what units the value is in? Or that takes a time value as a parameter, but doesn't specify whether the value is expected to be in milliseconds, seconds, or hours?
 
 ```cpp
-// Examples:
-
 // What is it? I guess milliseconds? Could be microseconds!
 int GetGameTime();
 
@@ -17,35 +15,75 @@ int GetGameTime();
 void TakeStep(const float deltaTime);
 ```
 
-Hopefully there are comments somewhere near the declaration of the function that can help straighten things out, but better solutions are possible.
+Hopefully there are comments somewhere near the declaration of the function that can help straighten things out, but you may not be so lucky. You may have to read through lines and lines of code to see how these functions are used before you understand what units they use. 
 
-This is the motivation behind types like C#'s [System.TimeSpan](https://msdn.microsoft.com/en-us/library/system.timespan).
-
-Many C++ libraries have their own time type. For example, [SFML](https://www.sfml-dev.org/index.php) has [`sf::Time`](https://www.sfml-dev.org/documentation/2.4.2/classsf_1_1Time.php) and [`sf::Clock`](https://www.sfml-dev.org/documentation/2.4.2/classsf_1_1Clock.php). sf::Clock::getElapsedTime returns a sf::Time, and sf::Times can be compared to each other, added to and subtracted from each other, and provide their values as seconds (float), milliseconds (int32) or microseconds (int64).
-
-Until C++11, the language didn't have a standard library time type. Enter chrono.
-
-chrono, like many things in the standard, began life outside it and was adopted into it. **TODO: History of chrono**
-
-chrono exists at a higher level of abstraction than sf::Time/Clock do. The library consists of three template types: clocks, time points and durations. **TODO: Basic explanation of what these are**
-
-**TODO: User-defined literals**
-
-You might think this is a mere quality-of-life issue, that strongly-typed time values like chrono provides are just for improving the readability of code and usability of library APIs, but here's a slide from [Bjarne Stroustrup's CppCon 2017 keynote](https://youtu.be/fX2W3nNjJIo?t=3173):
+APIs like this are hard to understand at a glance and can cause a lot of bother. Consider the potential cost of a bug that occurs when an API expects milliseconds, but is passed seconds. Here's a slide from [Bjarne Stroustrup's CppCon 2017 keynote](https://youtu.be/fX2W3nNjJIo?t=3173):
 
 ![](/images/bjarne.png)
 
-...in which he pointed out that the failure of the [Mars Climate Orbiter](https://en.wikipedia.org/wiki/Mars_Climate_Orbiter), which crashed into the surface of the red planet in 1999, due to a software bug that would have been completely avoidable had a particular API encoded the units of measurement it used (in this case, imperial instead of metric).
+...in which he pointed out that the failure of the [Mars Climate Orbiter](https://en.wikipedia.org/wiki/Mars_Climate_Orbiter) was due to a software bug that would have been completely avoidable had a particular API encoded the units of measurement it used (in this case, imperial instead of metric).
 
-This stuff matters, and can be surprisingly costly, even in games[^1]. That's what I'm going to spend the rest of this post talking about: using chrono in games.
+And so we have strongly-typed time values like C#'s [System.TimeSpan](https://msdn.microsoft.com/en-us/library/system.timespan) provides. In the world of C++, many libraries and frameworks have their own time type. For example, [SFML](https://www.sfml-dev.org/index.php) has [sf::Time](https://www.sfml-dev.org/documentation/2.4.2/classsf_1_1Time.php) and [sf::Clock](https://www.sfml-dev.org/documentation/2.4.2/classsf_1_1Clock.php). `sf::Clock::getElapsedTime` returns a `sf::Time`, which can be compared to, added to and subtracted from other instances of `sf::Time`. Then it can provide its value as seconds (float), milliseconds (int32) or microseconds (int64).
 
-First, let's get something out the way. You might be on the verge of springing from your seat to say that *surely* using a simple int or float is faster than something complicated and (boo, hiss) *modern* like a duration? Well, no.
+Until C++11, the language didn't have a standard way to represent times. Then [chrono](http://en.cppreference.com/w/cpp/chrono) was added to the standard library.
 
-Duration is a zero-cost abstraction[^2]. **TODO: Explain a bit**
+chrono exists at a higher level of abstraction than `sf::Time`/`sf::Clock`. The library consists of three concepts: clocks, time points and durations.
 
-**TODO: Defining your own clock? E.g. one whose epoch is the beginning of the game world, that ticks every time the world updates.**
+### Clocks
 
-Common idiom: the 'update method' that takes a delta time.
+[**Clocks**](http://en.cppreference.com/w/cpp/concept/Clock) are time providers, consisting of a starting point ("epoch") and a tick rate. A clock has a `now()` member function that returns how much time has passed since the starting point. The standard library provides three clocks for your basic out-the-box time-getting functionality, the main one being [`system_clock`](http://en.cppreference.com/w/cpp/chrono/system_clock). You can create your own class/thing that satisfies the Clock concept.
 
-[^1]: Quality assurance, debugging and fixing all take time, and time is money!
-[^2]: At runtime, anyway. You might incur a compile-time cost from all that template magic.
+### Time Points
+
+[time_point](http://en.cppreference.com/w/cpp/chrono/time_point) represents how much time has passed since the start of the clock it is defined in terms of. For example, a `time_point<system_clock>` would record how long since the `system_clock` started. You'd initialise it like so:
+
+```cpp
+time_point<system_clock> t = system_clock::now();
+```
+
+You won't be able to initialise it with the `now()` of a different clock because its `time_point` type isn't convertible to that of the original clock.
+
+```cpp
+time_point<system_clock> u = steady_clock::now(); // Error!
+```
+
+(Note: because [high_resolution_clock](http://en.cppreference.com/w/cpp/chrono/high_resolution_clock) may be an alias to `system_clock`, it may be possible to convert between their `time_point` types. Don't count on it, because your code may not be portable if you do.)
+
+At runtime a `time_point` is a simple arithmetic type like an int or a float, and it can be added to and subtracted from other `time_point` instances, as long as they all come from the same clock. 
+
+### Durations
+
+A [duration](http://en.cppreference.com/w/cpp/chrono/duration) is, like a `time_point`, just a puffed-up arithmetic type. Unlike `time_point`, it's not coupled to a specific clock type at compile time.
+
+**TODO**
+
+### User-defined Literals
+
+These are wonderful little things of which chrono provides a handful. The [s](http://en.cppreference.com/w/cpp/chrono/operator%22%22s) literal, for example, turns its operand into a `duration<unsigned long long>` or `duration<long double>`.
+
+```cpp
+using namespace std::chrono_literals;
+
+// integral rep of 1 second
+std::chrono::duration<int> t1 = 1s;
+
+// floating-point rep of 1 second
+std::chrono::duration<float> t2 = 1s;
+
+// floating-point rep of a fraction of a second
+std::chrono::duration<float> t2 = 1ms;
+```
+
+### Conclusion
+
+Finally, here is the API from the beginning of this article, rewritten to use chrono:
+
+```cpp
+#include <chrono>
+
+std::chrono::duration<int, std::milli> GetGameTime();
+
+void TakeStep(const std::chrono::duration<float> deltaTime);
+```
+
+And we can all sleep a little better at night.
