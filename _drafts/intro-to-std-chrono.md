@@ -32,7 +32,7 @@ chrono exists at a higher level of abstraction than `sf::Time`/`sf::Clock`. The 
 
 ### Clocks
 
-[**Clocks**](http://en.cppreference.com/w/cpp/concept/Clock) are time providers, consisting of a starting point ("epoch") and a tick rate. A clock has a `now()` member function that returns how much time has passed since the starting point. The standard library provides three clocks for your basic out-the-box time-getting functionality, the main one being [`system_clock`](http://en.cppreference.com/w/cpp/chrono/system_clock). You can create your own class/thing that satisfies the Clock concept.
+[**Clocks**](http://en.cppreference.com/w/cpp/concept/Clock) are time providers, consisting of a starting point ("epoch") and a tick rate. A clock has a `now()` member function that returns how much time has passed since the starting point. The standard library provides three clocks for your basic out-the-box time-getting functionality, the main one being [`system_clock`](http://en.cppreference.com/w/cpp/chrono/system_clock). If you need to, you can create your own class or bundle that satisfies the Clock concept.
 
 ### Time Points
 
@@ -56,7 +56,25 @@ At runtime a `time_point` is a simple arithmetic type like an int or a float, an
 
 A [duration](http://en.cppreference.com/w/cpp/chrono/duration) is, like a `time_point`, just a puffed-up arithmetic type. Unlike `time_point`, it's not coupled to a specific clock type at compile time.
 
-**TODO**
+Along with its runtime value the duration contains a compile-time *ratio* specifying the units of time that value represents. A ratio of 1:1000 means milliseconds, a ratio of 1:1,000,000 means microseconds. The default ratio is 1:1 -- that is, the default units for durations is seconds. The standard library defines some ratios for us in the `<ratio>` [header](http://en.cppreference.com/w/cpp/numeric/ratio/ratio).
+
+You declare and set durations like so:
+
+(`duration::count` returns the value of the underlying arithmetic type.)
+
+```cpp
+// integral representation of 10 milliseconds
+std::chrono::duration<int, std::milli> d(10);
+// d.count() == 10
+
+d = std::chrono::milliseconds(5);
+// d.count() == 5
+
+d = std::chrono::seconds(10);
+// d.count() == 10,000
+```
+
+Casting from seconds to milliseconds can happen implicitly, but in other cases it is necessary to use [duration_cast](http://en.cppreference.com/w/cpp/chrono/duration/duration_cast).
 
 ### User-defined Literals
 
