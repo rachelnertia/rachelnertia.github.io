@@ -46,3 +46,15 @@ If you want to hear grown men use the word "pwned" in normal conversation, look 
 It's not like there are a lot of C++ podcasts. In fact, there's really only this one, so it's a good thing that it's excellent. Each week [Rob Irving](https://twitter.com/robwirving) and [Jason Turner](https://twitter.com/lefticus) bring a guest on to talk about recent C++ news and articles, and discuss their guest's experiences with C++.
 
 - [Website](http://cppcast.com/)
+
+## Escape Artists Inc.
+
+This is a collection of podcasts in which each episode is a reading of a short speculative fiction story. **Escape Pod** handles sci-fi, **PodCastle** conjures fantasy and **PseudoPod**  horror. Each alone showcases such a diverse range of stories, authors and readers that you never know what to expect when you put your headphones on three times a week. Together the editors and producers of these three podcasts have introduced me to some of my favourite, most thought-provoking, adventurous and chilling fiction.
+
+- [Escape Artists](http://escapeartists.net/)
+- [Escape Pod](http://escapepod.org/)
+- [PodCastle](http://podcastle.org/)
+- [PseudoPod](http://pseudopod.org/)
+
+There is also [Cast of Wonders](http://www.castofwonders.org/), but I haven't checked that one out yet.
+
