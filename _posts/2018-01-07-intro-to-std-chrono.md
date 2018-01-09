@@ -24,6 +24,8 @@ APIs like this are hard to understand at a glance and can cause a lot of bother.
 
 ...in which he pointed out that the failure of the [Mars Climate Orbiter](https://en.wikipedia.org/wiki/Mars_Climate_Orbiter) was due to a software bug that would have been completely avoidable had a particular API encoded the units of measurement it used (in this case, imperial instead of metric).
 
+**UPDATE:** STL pointed out in a [Reddit comment](https://www.reddit.com/r/cpp/comments/7otsjh/introduction_to_stdchrono/dscd79y/) that Stroustrup's slide is wrong! But the sentiment is correct, anyway.
+
 And so we have strongly-typed time values like C#'s [System.TimeSpan](https://msdn.microsoft.com/en-us/library/system.timespan) provides. In the world of C++, many libraries and frameworks have their own time type. For example, [SFML](https://www.sfml-dev.org/index.php) has [sf::Time](https://www.sfml-dev.org/documentation/2.4.2/classsf_1_1Time.php) and [sf::Clock](https://www.sfml-dev.org/documentation/2.4.2/classsf_1_1Clock.php). `sf::Clock::getElapsedTime` returns a `sf::Time`, which can be compared to, added to and subtracted from other instances of `sf::Time`. Then it can provide its value as seconds (float), milliseconds (int32) or microseconds (int64).
 
 Until C++11, the language didn't have a standard way to represent times. Then [chrono](http://en.cppreference.com/w/cpp/chrono) was added to the standard library.
@@ -106,3 +108,5 @@ void TakeStep(const std::chrono::duration<float> deltaTime);
 ```
 
 And we can all sleep a little better at night.
+
+**UPDATE:** Reddit user kalmoc [mentioned](https://www.reddit.com/r/cpp/comments/7otsjh/introduction_to_stdchrono/dscvhtl/) Howard Hinnant's date [time library](https://github.com/HowardHinnant/date). I haven't used it yet but it looks like a useful extension of chrono. 
