@@ -1,0 +1,239 @@
+---
+layout: presentation
+title: C++ Edinburgh - Quiver
+permalink: /presentations/c++-edinburgh-quiver/
+---
+
+class: center, middle
+
+# Quiver
+--
+
+## A Pseudo-3D Game Engine
+--
+
+### Written in C++
+--
+
+#### In My Spare Time
+--
+
+But why
+
+---
+
+# Who is she
+
+Rachel Crawford
+
+Likes to make games and things
+
+Junior Network Programmer at Rockstar North
+
+.center[<img src="/images/who-is-she.jpg" style="width: 50%">]
+
+---
+
+# What is Quiver
+
+Quiver is a game engine
+
+It's like these:
+
+<table width="100%" border="0%">
+  <tr>
+  <td><img src="/images/unreal.png" style="width: 90%"></td>
+  <td><img src="/images/unity.png" style="width: 90%"></td>
+  <td><img src="/images/game-maker.png"></td>
+  </tr>
+</table>
+
+But WAY more scrappy! 
+--
+Also not ready. 
+--
+Also not as good.
+--
+
+
+Quiver has specific goals:
+
+- Make making games with pseudo-3D graphics easy
+- Have fun
+
+---
+
+## What is Pseudo-3D
+
+Think *Wolfenstein 3D*, *Doom*.
+
+<table width="100%" border="0%">
+  <tr>
+  <td><img src="/images/wolf3d.gif"></td>
+  <td><img src="/images/doom.jpg" style="width:100%"></td>
+  </tr>
+</table>
+
+---
+
+## What is Quarrel
+
+Quarrel is a game made with Quiver
+
+.center[<img src="/images/quarrel-0.png" style="width: 100%">]
+
+---
+
+# Let's go
+
+.center[<img src="https://i.imgur.com/Ll9KkK7.gif" style="width: 80%">]
+
+---
+
+# Are you still awake
+
+.center[<img src="/images/sad-children-0.png" style="width: 80%">]
+
+---
+
+# Things I'm Using
+--
+
+C++14
+--
+
+
+[SFML](https://www.sfml-dev.org/)
+--
+
+
+[Box2D](https://github.com/erincatto/Box2D)
+--
+
+
+[ImGui](https://github.com/ocornut/imgui) using [ImGui-SFML](https://github.com/eliasdaler/imgui-sfml)
+--
+
+
+[Catch](https://github.com/catchorg/Catch2)
+--
+
+
+[json.hpp](https://github.com/nlohmann/json)
+--
+
+
+[Premake](https://premake.github.io/)
+--
+
+
+[spdlog](https://github.com/gabime/spdlog), [fmt](https://github.com/fmtlib/fmt), [optional](https://github.com/akrzemi1/Optional)... 
+
+---
+
+# How it Works: Pseudo-3D Rendering
+
+*Please imagine cool diagrams*
+
+Raycasting like Wolfenstein 3D
+
+- For each horizontal pixel, cast a ray
+
+```cpp
+// physicsWorld is a b2World
+physicsWorld.RayCast(&callback, cameraPosition, rayEnd);
+```
+
+- From each fixture, extract render info
+
+```cpp
+const auto renderData = (FixtureRenderData*)intersection.m_fixture->GetUserData();
+```
+
+- Draw a line on the screen for the intersection 
+
+```cpp
+// Implementation details...
+```
+
+In its current iteration, this code makes judicious use of STL 
+
+---
+
+# How it Works: Entities
+
+Baby's first Entity Component System
+
+World owns Entity
+
+Entity owns Components
+
+Components interface with Systems
+
+---
+
+# Documentation
+
+<br><br><br><br><br><br><br>
+
+<img src="/images/john-travolta.gif" align="right">
+
+---
+
+# So much to do
+
+Scripting, better input handling, input recording and playback, more unit tests, benchmarks, more audio features, pathfinding, more animation features, support for local multiplayer, support for remote multiplayer (networking)...
+
+It's a lot of work!
+
+## How to Do It?
+
+---
+
+# Less like this...
+
+.center[<img src="/images/girl-genius.jpg" style="width: 40%">]
+
+---
+
+#...more like this
+
+.center[<img src="/images/makin-a-house.jpg" style="width: 90%">]
+
+---
+
+#...or this!
+
+.center[<img src="/images/gardenin.jpeg" style="width: 80%">]
+
+---
+
+# Thanks for Listening!
+
+Quiver: [github.com/rachelnertia/Quiver](https://github.com/rachelnertia/Quiver)
+
+Rachel Crawford
+
+Twitter: [@nershly](https://twitter.com/nershly)
+
+Website: [rachelnertia.github.io](https://rachelnertia.github.io)
+
+This presentation was made using [Remark.js](https://github.com/gnab/remark).
+
+## Questions?
+
+---
+
+# Promo: Edindies
+
+Co-working group for indie/hobby game development
+
+Every Saturday at 1pm - 6pm
+
+Levels, on Holyrood Road
+
+[@edindies](https://twitter.com/edindies) - [edindi.es](http://edindi.es/)
+
+<br>
+
+.center[![](/images/edindies.png)]
