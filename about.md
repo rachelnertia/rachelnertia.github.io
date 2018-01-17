@@ -5,7 +5,7 @@ title: About
 
 Hiya! I'm a budding game developer with a focus on programming, and this is my personal website. Please look around! 
 
-I currently work as a Junior Network Programmer at Rockstar North in Edinburgh, Scotland. It's going well!
+I currently work as a Network Programmer at Rockstar North in Edinburgh, Scotland. It's going well!
 
 Previously I studied [Computer Games Technology](http://www.abertay.ac.uk/courses//ug/comopgamestech/) at [Abertay University](http://www.abertay.ac.uk/) in bonny Dundee. 
 
