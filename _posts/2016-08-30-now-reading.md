@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Now Reading
-category: Books
+category: Reading
 tags: [ Michael Pye, The Edge of the World, History, History of the Middle Ages ]
 ---
 
