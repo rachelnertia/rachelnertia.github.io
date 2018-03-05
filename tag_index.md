@@ -3,7 +3,7 @@ layout: page
 title: Tag Index
 ---
 
-{% assign sorted_tags = (site.tags | sort:0) %}
+{% assign sorted_tags = site.tags | sort %}
 {% for tag in sorted_tags %}
   <h3 id="{{ tag[0] }}">{{ tag[0] }}</h3>
   <ul>

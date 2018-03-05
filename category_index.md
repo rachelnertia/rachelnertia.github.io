@@ -3,7 +3,7 @@ layout: page
 title: Categories
 ---
 
-{% assign cats = (site.categories | sort:0) %}
+{% assign cats = site.categories | sort %}
 {% for category in cats %}
   <h3 id="{{ category[0] }}">{{ category[0] }}</h3>
   <ul>
