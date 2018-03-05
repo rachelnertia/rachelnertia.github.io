@@ -8,7 +8,7 @@ comments: true
 
 ![](/images/si-the-wave.jpg)
 
-[Last year]({% post_url 2016-02-02-global-game-jam %}) I took part in [Global Game Jam](http://globalgamejam.org/) at [Abertay University](http://globalgamejam.org/2017/jam-sites/abertay-university), and I had such a good time that this year I did it again.
+[Last year]({% post_url 2016/2016-02-02-global-game-jam %}) I took part in [Global Game Jam](http://globalgamejam.org/) at [Abertay University](http://globalgamejam.org/2017/jam-sites/abertay-university), and I had such a good time that this year I did it again.
 
 The theme was 'Waves'. I teamed up with [Dziek Dyes Bolt](https://twitter.com/DziekDB), [Callum Fowlie](https://twitter.com/Fentlegen) (two members of last year's team) and [Natalie Clayton](https://twitter.com/ScarletCatalie) to make 'Si the Wave, Be the Wave', a competitive local multiplayer game in which two players, each controlling a crowd of characters, must race to complete Mexican waves. You can [check it out and download it](http://globalgamejam.org/2017/games/si-wave-be-wave) on the Global Game Jam website (Windows only). The final version is a bit broken. If you're feeling brave, the predictably turgid source code is available on [GitHub](https://github.com/rachelnertia/GGJ2017).
 

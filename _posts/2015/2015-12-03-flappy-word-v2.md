@@ -7,7 +7,7 @@ tags: [Flappy Word]
 
 Flappy Word!
 
-I've made some changes to Flappy Word since [version 1]({% post_url 2015-10-23-flappy-word-v1 %}) back in November. Tell me what you think after the break!
+I've made some changes to Flappy Word since [version 1]({% post_url 2015/2015-10-23-flappy-word-v1 %}) back in November. Tell me what you think after the break!
 
 <!--more-->
 

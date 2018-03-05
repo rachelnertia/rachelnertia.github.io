@@ -6,7 +6,7 @@ tags: [ C++, Box2D ]
 comments: true
 ---
 
-I've [written in the past]({% post_url 2016-11-12-intro-to-smart-ptrs %}) about standard-library smart pointers and how they can make management of memory allocated from the heap much easier. How useful are they when working with objects allocated from elsewhere, such as objects created by a library we use?
+I've [written in the past]({% post_url 2016/2016-11-12-intro-to-smart-ptrs %}) about standard-library smart pointers and how they can make management of memory allocated from the heap much easier. How useful are they when working with objects allocated from elsewhere, such as objects created by a library we use?
 
 [Box2D](http://box2d.org/) is a popular 2D rigid-body physics engine in which the [`b2World`](http://www.learn-cocos2d.com/api-ref/1.0/Box2D/html/classb2_world.html) is the top-level object that represents the physics 'world'. Rigid bodies are represented by instances of [`b2Body`](http://www.learn-cocos2d.com/api-ref/1.0/Box2D/html/classb2_body.html) and are created like so:
 

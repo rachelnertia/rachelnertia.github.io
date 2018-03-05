@@ -8,7 +8,7 @@ tags: [ San Francisco, GDC, USA ]
 
 ![](/images/sanfran17/1.JPG)
 
-I was recently in San Francisco for five-ish days to attend [Game Developer's Conference]({% post_url 2017-03-14-my-first-gdc %}). It was my first time in an American city -- previous trips to the US have taken me only to skiing resorts. We spent most of our time in and around the conference, and only really had time for a bit of proper sightseeing on Saturday.
+I was recently in San Francisco for five-ish days to attend [Game Developer's Conference]({% post_url 2017/2017-03-14-my-first-gdc %}). It was my first time in an American city -- previous trips to the US have taken me only to skiing resorts. We spent most of our time in and around the conference, and only really had time for a bit of proper sightseeing on Saturday.
 
 It's a nice place, but very different to what I'm used to. In Scotland we barely have any tall buildings, so when I'm surrounded on all sides by skyscrapers I felt a little bit like I was going to fall into the sky, which is the most country-bumpkin thing about myself I've ever admitted (on this blog).
 

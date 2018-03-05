@@ -6,7 +6,7 @@ tags: [Chvrches, Fallout 4, Over the Garden Wall, The Space Lady]
 comments: true
 ---
 
-Hard to believe it's only been a week since [the last]({% post_url 2015-11-18-fantastic-beats-01 %}) of these weekly music round-ups, isn't it? Incredible how time rushes by.
+Hard to believe it's only been a week since [the last]({% post_url 2015/2015-11-18-fantastic-beats-01 %}) of these weekly music round-ups, isn't it? Incredible how time rushes by.
 
 I was lucky enough to go and see Chvrches recently here in Dundee. They're an ace band. I can't really think of a single song of theirs which I don't enjoy listening to. Current favourite: the energetic 'Leave A Trace' from their most recent album:
 

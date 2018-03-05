@@ -26,4 +26,4 @@ The first six are pretty straightforward. The title screen is the work of a few 
 
 The last one -- an online high score leaderboard -- is tricky. It's something I've never done before and it will involve some kind of centralised database. It might mean integrating with some website. I just don't know. Daunting. It's a matter of what I want to do with the game. Put it up on a portal like [Kongregate](http://www.kongregate.com)? How difficult will that be? Let people download it off or play it on [itch.io](http://itch.io) and other places? Heck, could it even be a Steam game..?
 
-Let me know what you think about the changes, and what I ought to do with Flappy Word going forward! If you want you can play [version 1]({% post_url 2015-10-23-flappy-word-v1 %}) and [version 2]({% post_url 2015-12-03-flappy-word-v2 %}).
+Let me know what you think about the changes, and what I ought to do with Flappy Word going forward! If you want you can play [version 1]({% post_url 2015/2015-10-23-flappy-word-v1 %}) and [version 2]({% post_url 2015/2015-12-03-flappy-word-v2 %}).

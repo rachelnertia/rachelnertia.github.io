@@ -9,7 +9,7 @@ Here is a list of basically every project I've taken the time to document somewh
 
 ## Quiver
 
-Quiver is a cross-platform pseudo-3d game engine I'm writing in my spare time in C++. It grew out of the Box2D raycasting experiment I wrote about [here]({% post_url 2016-04-07-box2d-raycasting-test %}) and [here]({% post_url 2016-04-27-box2d-raycasting-progress %}) and has become quite a fruitful learning project. You can check out the source code at the [GitHub repository](https://github.com/rachelnertia/Quiver).
+Quiver is a cross-platform pseudo-3d game engine I'm writing in my spare time in C++. It grew out of the Box2D raycasting experiment I wrote about [here]({% post_url 2016/2016-04-07-box2d-raycasting-test %}) and [here]({% post_url 2016/2016-04-27-box2d-raycasting-progress %}) and has become quite a fruitful learning project. You can check out the source code at the [GitHub repository](https://github.com/rachelnertia/Quiver).
 
 # Abandoned
 
@@ -24,7 +24,7 @@ Space diplomacy. Jam theme: 'Ritual'. Made with Dziek Dyes-Bolt (programmer), To
 - Unity, C#
 - Platform: Windows
 - Xbox 360 controller required
-- [Blog post]({% post_url 2016-02-02-global-game-jam %})
+- [Blog post]({% post_url 2016/2016-02-02-global-game-jam %})
 - [Global Game Jam page](http://globalgamejam.org/2016/games/interstellar-soir%C3%A9e)
 
 ### Nomad (unfinished prototype) (2015)
@@ -35,7 +35,7 @@ Space exploration with an unconventional movement system.
 
 - Unity, C#
 - Platforms: Windows, Mac (and Linux?)
-- [Blog post]({% post_url 2016-01-10-nomad-prototype %})
+- [Blog post]({% post_url 2016/2016-01-10-nomad-prototype %})
 - Download on [itch.io](http://inertia.itch.io/nomad)
 
 <br>

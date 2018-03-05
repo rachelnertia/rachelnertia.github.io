@@ -8,7 +8,7 @@ comments: true
 
 No, I don't know how the capitalisation should work in that title, either.
 
-[In my last post]({% post_url 2016-11-12-intro-to-smart-ptrs %}) I talked about how I'm starting to use the C++ standard library's smart pointers in my own code and finding it quite pleasant. But all I did was name and give brief descriptions of the three templates -- `unique_ptr`, `shared_ptr` and `weak_ptr`. I didn't give any examples of them in use.
+[In my last post]({% post_url 2016/2016-11-12-intro-to-smart-ptrs %}) I talked about how I'm starting to use the C++ standard library's smart pointers in my own code and finding it quite pleasant. But all I did was name and give brief descriptions of the three templates -- `unique_ptr`, `shared_ptr` and `weak_ptr`. I didn't give any examples of them in use.
 
 ### One RenderComponent, One sf::Texture
 
