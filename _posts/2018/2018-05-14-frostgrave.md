@@ -16,7 +16,7 @@ Other designers aren't trying to make a competitive game. Players who are more i
 
 <!--more-->
 
-Over the last year or so I've been getting into [the hobby]({% post_url 2016/2017-11-21-the-hobby %}) of miniatures painting and gaming as a kind of escape (perhaps even an exodus) from videogames. It's been quite a journey, and now it's led me and a friend into the icy ruins of *Frostgrave*.
+Over the last year or so I've been getting into [the hobby]({% post_url 2017/2017-11-21-the-hobby %}) of miniatures painting and gaming as a kind of escape (perhaps even an exodus) from videogames. It's been quite a journey, and now it's led me and a friend into the icy ruins of *Frostgrave*.
 
 [*Frostgrave*](https://ospreypublishing.com/frostgrave) is a gaming system published in 2015 by Osprey Publishing and authored by [Joseph McCullough](http://therenaissancetroll.blogspot.co.uk/). It's done pretty well for itself in the harsh world of miniature wargaming, awarded with an ever-expanding range of [official miniatures](http://www.northstarfigures.com/list.php?man=195&page=1) and numerous [expansions](https://ospreypublishing.com/frostgrave-ulterior-motives) and even [tie-in novels](https://ospreypublishing.com/frostgrave-second-chances). Having bought some, I can confirm that the miniatures are just as charming as they look, but I've yet to read any of the tie-in novels. Tie-in novels can be rubbish, after all, and still mean that your setting has 'made it'.
 
