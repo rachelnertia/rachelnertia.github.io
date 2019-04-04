@@ -9,9 +9,9 @@ I currently work as a Network Programmer at Rockstar North in Edinburgh, Scotlan
 
 Previously I studied [Computer Games Technology](http://www.abertay.ac.uk/courses//ug/comopgamestech/) at [Abertay University](http://www.abertay.ac.uk/) in bonny Dundee. 
 
-I try to use this website to document projects I'm working on, write about things I'm learning, discuss games I'm playing, share music I'm listening to and other good stuff. I hope you get something useful out of your time here.
+I try to use this website to document my interests: programming, game dev, playing games in all their forms, books I'm reading, music I'm listening to, and painting tiny warriors.
 
-You can follow me on [Twitter](https://twitter.com/nershly) and I'm a semi-regular [Tumblr](http://nershly.tumblr.com/) user (when I make art, it tends to end up there).
+You can follow me on [Twitter](https://twitter.com/nershly), where I shitpost on the reg.
 
 I also have a (rather sparse) [itch.io page](http://inertia.itch.io/).
 
