@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Whatever Happened to Quarrel and Quiver?
+title: Whatever Happened to Quiver?
 comments: true
 category: Game Dev
 tags: [ Quarrel, Quiver ]
