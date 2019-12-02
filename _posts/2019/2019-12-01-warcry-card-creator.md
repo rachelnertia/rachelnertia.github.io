@@ -3,6 +3,7 @@ layout: post
 title: Warcry Card Creator
 category: Programming
 tags: [ Web Development, Warhammer, Warcry ] 
+comments: true
 ---
 
 I have been working on a little tool for making fighter cards for Warcry, GW's new skirmish game (wot is very good). Using a template, you can set how many wounds your fighter has, how far they can move, the stats of their weapons, etc. 
