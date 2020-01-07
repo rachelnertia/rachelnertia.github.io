@@ -2,6 +2,7 @@
 layout: post
 category: Hobby
 title: Sequitors
+comments: true
 ---
 
 ![](/images/hobby/2020/january-sequitors-2.jpg "The first 4")
