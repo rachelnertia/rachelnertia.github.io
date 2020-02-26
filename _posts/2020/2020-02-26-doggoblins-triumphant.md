@@ -25,6 +25,8 @@ Game 2 was more one-sided as I managed to kill Snirk early. Moonclan grots and s
 
 ### Match 2
 
+![](/images/hobby/2020/02/rippa-v-rippa-dundee.jpg)
+
 There were 2 other Rippa's Snarlfangs players at the event. For my next two matches, I had to play both of them. In a aggro-off, when you probably both have very similar decks, it really comes down to the subtle differences in those decks, card draw, and luck of the dice. Fortunately in match 2 I managed to pull ahead in both games thanks to the power of crits, plus some lucky card draw.
 
 ### Match 3
