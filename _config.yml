@@ -44,3 +44,4 @@ pages_list:
   Feed:                    '/atom.xml'
   Projects:                '/projects'
   Podcast Recommendations: '/podcast-recommendations'
+  Warcry Card Creator:     'https://rachelnertia.github.io/warcry-card-creator'
