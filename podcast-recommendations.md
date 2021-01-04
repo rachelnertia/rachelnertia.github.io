@@ -35,12 +35,6 @@ The design and architecture podcast with a seemingly limitless remit. Each week 
 
 - [Website](https://99percentinvisible.org/episodes/)
 
-## Risky Business
-
-If you want to hear grown men use the word "pwned" in normal conversation, look no further. This is a podcast about information technology security, with discussion of the week's news, interviews with industry professionals, and Australian accents. Worth listening to if you're a developer who's starting to think seriously about security, like me.
-
-- [Website](https://risky.biz/)
-
 ## CppCast
 
 It's not like there are a lot of C++ podcasts. In fact, there's really only this one, so it's a good thing that it's excellent. Each week [Rob Irving](https://twitter.com/robwirving) and [Jason Turner](https://twitter.com/lefticus) bring a guest on to talk about recent C++ news and articles, and discuss their guest's experiences with C++.
@@ -58,3 +52,21 @@ This is a collection of podcasts in which each episode is a reading of a short s
 
 There is also [Cast of Wonders](http://www.castofwonders.org/), but I haven't checked that one out yet.
 
+## Trash Future
+
+Wanna listen to some lefty commie-types discuss shitty startups? This is the podcast. The cast are consistently funny - I'd recommend it as a comedy podcast first, politics podcast second. 
+
+- [Podbean](https://trashfuturepodcast.podbean.com/)
+
+## Well There's Your Problem
+
+A podcast with slides (so watch it on YouTube) about engineering disasters. It's a mess, and I love it. There's a lot of crossover between this podcast and Trash Future. Hmm. Does this even count as a podcast?
+
+- [YouTube](https://www.youtube.com/channel/UCPxHg4192hLDpTI2w7F9rPg)
+- Recommended Episode: [The Sampoong Dept Store](https://www.youtube.com/watch?v=g9SETplgPYc&list=PL0WnwSeMxB-4ptk1VIAhVCWClJQrY2tuW&index=2)
+
+## 40k BadCast
+
+Two dudes talking about Warhammer. If you're looking for a hobby podcast, this is the *one*. Campbell and Dan are so warm and have such great chemistry that it's charming just to hear them talk about what's going on in their lives. Also, they have a segment where one of them dramatic-reads a piece of fiction and the other has to guess if it's fanfic or not. Perfection. Kinda bawdy though.
+
+- [Website](https://40kbadcast.com/)
