@@ -67,6 +67,6 @@ A podcast with slides (so watch it on YouTube) about engineering disasters. It's
 
 ## 40k BadCast
 
-Two dudes talking about Warhammer. If you're looking for a hobby podcast, this is the *one*. Campbell and Dan are so warm and have such great chemistry that it's charming just to hear them talk about what's going on in their lives. Also, they have a segment where one of them dramatic-reads a piece of fiction and the other has to guess if it's fanfic or not. Perfection. Kinda bawdy though.
+Two dudes talking about Warhammer. If you're looking for a hobby podcast, I can't recommend BadCast enough. Campbell and Dan are so warm and have such great chemistry that it's charming just to hear them talk about what's going on in their lives. They have all the right priorities about what actually matters in the hobby and the community, and I love their confidence and flare. Also, they have a segment where one of them dramatic-reads a piece of fiction and the other has to guess if it's fanfic or not. Perfection. Kinda bawdy though.
 
 - [Website](https://40kbadcast.com/)
