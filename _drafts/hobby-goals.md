@@ -42,7 +42,7 @@ Anyway, to play *Oathmark* I'll need an army, which in my case will be a big mix
 
 It goes without saying that A) I will buy or acquire new things to paint in 2022, and B) I will try to paint the things I already have before buying new things to paint in 2022. Every hobbyist makes this pact with themselves every new year. (Usually I fail, sob.)
 
-This year will probably actually be different because we're buying the flat we live in right at the beginning of it, which will take all the money, and any money left over should be put towards the home improvement projects we can finally do once we own the place. After fixing and upgrading things, I'll be trying to rebuild my savings and probably putting them towards other very important things. In conclusion, I'll be thinking more carefully about hobby purchases.
+This year will probably actually be different because we're buying the flat we live in right at the beginning of it, which will take all the money, and any money left over should be put towards the home improvement projects we can finally do once we own the place. After fixing and upgrading things, I'll be trying to rebuild my savings and probably putting them towards other very important things. In short: I'll be thinking more carefully about hobby purchases.
 
 Nonetheless, there will be things that I wanna get. Games Workshop will continue to shovel out amazing things, and so will other companies. And there are already items on my wishlist I'd like to pick up: the new Red Harvest boxset for *Warcry*, for example. Or the last two Direchasm warbands, which I want to have in my collection even though I don't plan on playing *Underworlds* in the future? And that *Oathmark* army's going to require some purchases... 
 
