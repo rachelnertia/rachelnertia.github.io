@@ -2,20 +2,20 @@
 title: 2022 Hobby Goals
 layout: post
 category: Hobby
-tags:
+tags: [ Project Magewinds, ]
 ---
 
 ## Project Magewinds
 
-*Magewinds* is the working title for the super-small, super-tight skirmish ruleset I've been working on in 2021, although really it's an evolution of ideas I've been prototyping and playing with for several years.
+*Magewinds* is the working title for a super-small, super-tight skirmish ruleset I've been working on in 2021 - although really it's the culmination of ideas I've been prototyping and playing with for several years.
 
-It's sort of like a cheapskate version of *Warhammer Underworlds*. Each player has 4 or 5 miniatures of their own choosing, representing very distinct fighter classes, and they duke it out on a tiny battlefield. Combat is speedy, punchy and interactive. There's also nifty magic system.
+It's sort of like a cheapskate version of *Warhammer Underworlds*. Each player has 4 or 5 miniatures of their own choosing, representing very distinct fighter classes, and they duke it out on a tiny battlefield. Combat is speedy, punchy and interactive. There's also nifty magic system. I am increasingly pleased with it, but I need to get back on the development horse after I fell off it when life got busy in late Autumn.
 
 In some form or another, I *will* ship this game in 2022! I will kick my ass into gear and get it out the door! And while I'm doing that, I'll build and paint a bunch of warbands for it...
 
 ## Terrain
 
-It's been a while since I made or painted any terrain/scenery. In 2021 I did a little bit of terrain work, but none of it was very ambitious: I improved the paintjob on my TTCombat MDF buildings, painted some gnarly dead trees from Mantic, and painted the various doors, bridges and objects from Warcry: Catacombs. That was about it!
+It's been a while since I made or painted any terrain/scenery. In 2021 I did a little bit of terrain work, but none of it was very ambitious: I improved the paintjob on my TTCombat MDF buildings, painted some gnarly dead trees from Mantic, and painted the various doors, bridges and objects from Warcry: Catacombs. That was about it. Pitiful!
 
 I *started* painting my Warhammer Fortress in 2021, which was ambitious, but only finished two pieces of it because I can't be bothered going outside to spray things. I'll definitely get it done in 2022. My aim is to construct some supporting pieces of scratch-built scenery to go with it once it's done: things like steps, ladders, maybe even rubble and whole collapsed sections.
 
