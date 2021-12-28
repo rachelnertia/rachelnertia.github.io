@@ -3,7 +3,6 @@ title: 2022 Hobby Goals and Resolutions
 layout: post
 comments: true
 category: Hobby
-tags: [ Magewinds, Oathmark ]
 ---
 
 Happy New Year! I'm thinking about what I want to achieve hobby-wise in 2022, so I'm making some goals and resolutions for the new year. I have three big goals, two resolutions, and some lesser goals.
