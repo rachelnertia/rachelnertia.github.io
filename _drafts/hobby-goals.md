@@ -38,13 +38,23 @@ While I'm deeply curious about several games in this subgenre, like *Kings of Wa
 
 Anyway, to play *Oathmark* I'll need an army, which in my case will be a big mixture of various models I've acquired cheaply over the years: *Lord of the Rings* elves and men, old Warhammer Fantasy dwarves, elves, goblins... a whole bunch of random crap, some of which can do double-duty in my Cities of Sigmar army for *Age of Sigmar*. I'll also need to pick up some new things for this project, like maybe a dragon? I've got to have a dragon, right?    
 
+## The Mortal Realms
+
+Got some stuff to paint for Age of Sigmar, of course. 
+
+- I'm going to 'finish' my Nighthaunt by building and painting Olynder, Kurdoss Valentian, and 10 Hexwraiths. Looking forward to those!
+- Stormcast Eternals models, various: Evokitties, Paladins, some Vanguard guys, and the Celestant Prime. Big boy himself! 
+- Things for my Living City army: some Corsairs, some old-school Empire Troops to run as Freeguild, some more dark elves. I'd like to pick up some new things too, if my money-heart will allow it. 
+- A few Gloomspite Gitz things - I really would like to make my collection into a proper army but that'll require buying stuff. I might as well just make do with what I've got and wait for a new Battletome to spur me into action.
+- Some loose ends, like some Tzaangor I have for some reason?
+
 ## Whatever I'm Tempted to Purchase
 
 It goes without saying that A) I will buy or acquire new things to paint in 2022, and B) I will try to paint the things I already have before buying new things to paint in 2022. Every hobbyist makes this pact with themselves every new year. (Usually I fail, sob.)
 
 This year will probably actually be different because we're buying the flat we live in right at the beginning of it, which will take all the money, and any money left over should be put towards the home improvement projects we can finally do once we own the place. After fixing and upgrading things, I'll be trying to rebuild my savings and probably putting them towards other very important things. In short: I'll be thinking more carefully about hobby purchases.
 
-Nonetheless, there will be things that I wanna get. Games Workshop will continue to shovel out amazing things, and so will other companies. And there are already items on my wishlist I'd like to pick up: the new Red Harvest boxset for *Warcry*, for example. Or the last two Direchasm warbands, which I want to have in my collection even though I don't plan on playing *Underworlds* in the future? And that *Oathmark* army's going to require some purchases... 
+Nonetheless, there will be things that I wanna get. Games Workshop will continue to shovel out amazing things, and so will other companies. And there are already items on my wishlist I'd like to pick up: the new Red Harvest boxset for *Warcry*, for example. Or the last two Direchasm warbands, which I want to have in my collection even though I don't plan on playing *Underworlds* in the future? Or the *Cursed City* expansions, now that those are definitely on the way. And that *Oathmark* army's going to require some purchases... 
 
 I'll only feel bad if I acquire more than I paint. No sweat.
 
