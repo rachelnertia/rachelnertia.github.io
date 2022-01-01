@@ -21,7 +21,7 @@ Goals must have reasonably well-defined completion parameters: goal posts, if yo
 
 It's sort of like a cheapskate version of *Warhammer Underworlds*. Each player has 4 or 5 miniatures of their own choosing, representing very distinct fighter classes, and they duke it out on a tiny battlefield. Combat is speedy, punchy and interactive. There's also nifty magic system. It may not be the perfect game, but I'm increasingly pleased with it.
 
-I need to get back on the development horse after I fell off it when life got busy in late Autumn. In some form or another, I *will* ship this game in 2022! 
+I need to get back on the development horse after I fell off it when life got busy in the Autumn. In some form or another, I *will* ship this game in 2022! 
 
 - [ ] Complete the Mechanical Draft.
 - [ ] Complete the Full Draft.
@@ -50,12 +50,12 @@ There are several projects, some of which are quite big, that I'm considering al
 
 - [ ] **Finish the Warhammer Fortress**: I *started* painting my Warhammer Fortress (which I got second-hand from a very generous friend) in 2021 but only finished two pieces of it because I couldn't be bothered going outside to spray sections of it. I hope to construct some supporting pieces of scratch-built scenery to go with it once it's done: things like steps, ladders, maybe even rubble and whole collapsed sections.
 - [ ] **Large LOS-blocking rocks**, a little bit grassy and foresty to go with my grasslands gaming mat.
-- [ ] **Large LOS-blocking rocks** and ice blocks to go with my frosty gaming mat.
-- [ ] **More playable hills**: I made some hills before but I think they should have shorter, steeper, more cliff-like slopes to be easy to play with, particularly for *Age of Sigmar* but for other games too. These could be grassy *or* frosty, whatever I have time for.
+- [ ] **Large LOS-blocking snowy rocks** and ice blocks to go with my frosty gaming mat.
+- [ ] **More playable hills**: I made some [hills]({% post_url 2020/2020-04-01-terrain %}) before but I think they should have shorter, steeper, more cliff-like slopes to be easy to play with, particularly for *Age of Sigmar* but for other games too. These could be grassy *or* frosty, whatever I have time for.
 - [ ] **Modular stone platforms**, appropriate for Frostgrave, that can be used to raise bits of the ruined city above the rest. Stairs to go with them.
-- [ ] **Things made from leftover sprue**: barricades, ladders,walkways... Very excited to try [this](https://www.youtube.com/watch?v=EOSjjKkCxvk).
+- [ ] **Things made from leftover sprue**: barricades, ladders, walkways... Very excited to try [this](https://www.youtube.com/watch?v=EOSjjKkCxvk).
 - [ ] **Ruins**: I have some of the defiled Azyrite Ruins released with *Warcry* that I acquired via Mortal Realms magazine and *Catacombs*. My plan for these is to build some taller buildings out of them than what I currently have.
-- [ ] **Frosty graveyard**: I have a *lot* of Garden of Morr bits (like the Fortress, courtesy of a generous benefactor) to do something with, as well as some miscellaneous tombstones. Might be cool to try to build some large LOS-blocking or stand-on-able pieces with tombs integrated into them...
+- [ ] **Frosty graveyard**: I have a *lot* of Garden of Morr bits (courtesy of the same generous benefactor as the Fortress) to do something with, as well as some miscellaneous tombstones. Might be cool to try to build some large LOS-blocking or stand-on-able pieces with tombs integrated into them...
 
 # Resolutions
 
@@ -107,7 +107,7 @@ Expansions for the latest *Warhammer Quest* are definitely on the way now that t
 - [ ] Two game!
 - [ ] Three game!!
 
-## Collect and Paint All of *Direchasm*
+## Collect and Paint the Rest of *Direchasm*
 
 I've resigned myself to the fact I'm probably not going to keep up with *Warhammer Underworlds* from now on, but I still want to finish painting up all the warbands from Season 4, *Direchasm*. 
 
