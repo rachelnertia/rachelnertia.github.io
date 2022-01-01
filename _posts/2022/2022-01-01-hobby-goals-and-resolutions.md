@@ -77,7 +77,7 @@ Some of my recent projects haven't even made it to Twitter or Instagram, let alo
 
 These are goals I'll prioritise less, but I might as well list them here.
 
-## 'Finish' the Nighthaunt
+## 'Finish' my Nighthaunt
 
 In April-ish 2021 I built and painted a [*lot*](https://twitter.com/nershly/status/1391401181319204865) of [Nighthaunt](https://ageofsigmar.lexicanum.com/wiki/Nighthaunt) and I had lots of fun playing with the army in the late Spring before Third Edition came out. Haven't played with it since, for various reasons, one of them being that I'd like to build and paint a few extraneous but very cool units:
 
