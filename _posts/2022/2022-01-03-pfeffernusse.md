@@ -13,6 +13,8 @@ To me, these dumpy wee guys are inseperable from the winter holidays. I gotta ha
 
 I was so miffed, in fact, that I decided to try making my own. Here is my own recipe, adapted from [another](https://www.daringgourmet.com/pfeffernuesse-german-iced-gingerbread-cookies/#recipe) to be dairy- and nut-free, but not completely vegan (sorry!). The ingredients are pretty easy to find in the supermarket, too [^1].
 
+<!--more-->
+
 # The Lebkuchengewürz
 
 Ingredients:
