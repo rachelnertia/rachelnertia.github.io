@@ -4,11 +4,13 @@ layout: post
 category: Food
 ---
 
+![](/images/2022/01/pfeffernusse.jpg "It's them!")
+
 I went on a Pfeffernüsse baking spree over the holidays. Pfeffernüsse are German spiced cookies made using the same spice mix as Lebkuchen (i.e. Lebkuchengewerz), with a dollop of icing sugar on top. 
 
 To me, these dumpy wee guys are inseperable from the winter holidays. I just gotta have some, or it just ain't really the Season. I was pretty miffed, therefore, when I couldn't find any in the shops - even in Lidl! 
 
-I was so miffed, in fact, that I decided to try making my own. Here is my own recipe, adapted from [another](): it's dairy-free and nut-free, but not completely vegan (sorry!). The ingredients are pretty easy to find in the supermarket, too [^1].
+I was so miffed, in fact, that I decided to try making my own. Here is my own recipe, adapted from [another]() to be dairy- and nut-free, but not completely vegan (sorry!). The ingredients are pretty easy to find in the supermarket, too [^1].
 
 # The Lebkuchengewurz
 
