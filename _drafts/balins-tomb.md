@@ -57,11 +57,7 @@ You may have noticed the One Ring model in the photos above. This comes on the F
 
 ![](/images/2022/01/hobby/balins-tomb/ring.jpg 'As Gandalf said, it's quite cool.')
 
-Here is the finished Fellowship, ready to kill lots of Moria Goblins:
-
-![](/images/2022/01/hobby/balins-tomb/the-fellowship.jpg)
-
-You can see some more photos on Instagram: the [Fellowship](https://www.instagram.com/p/CYEnPF_NYZM/) and the [Goblins](https://www.instagram.com/p/CYEnTA-N85d/).
+You can see some more photos on my Instagram of the [Fellowship](https://www.instagram.com/p/CYEnPF_NYZM/) and the [Goblins](https://www.instagram.com/p/CYEnTA-N85d/).
 
 ## Playing
 
