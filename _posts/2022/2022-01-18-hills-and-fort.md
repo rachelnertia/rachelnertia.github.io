@@ -1,7 +1,7 @@
 ---
 title: Hills and Fort
 layout: post
-category: hobby
+category: Hobby
 comments: true
 ---
 
