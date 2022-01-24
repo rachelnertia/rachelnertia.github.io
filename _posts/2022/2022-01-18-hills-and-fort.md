@@ -11,6 +11,8 @@ First of all, I finally painted the rest of the Warhammer Fortress:
 
 ![](/images/2022/01/hobby/terrain/fortress.jpg)
 
+<!--more-->
+
 While I was working my way through that I cut up some foam to make some nice flat-topped, steep-sloped hills:
 
 ![](/images/2022/01/hobby/terrain/hills.jpg)
