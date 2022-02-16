@@ -43,4 +43,4 @@ And some weird rocks:
 
 I discovered a trick when painting these. Finding the grey I'd painted them to be a bit cold and flat, I decided to try a careful drybrush of Ushabti Bone - a light khaki - on the edges of things. This really, really worked to add definition and contrast to them, even making the darker grey in the recesses appear almost blue to the eye. Very neat. It worked so well I'm tempted to try it on some of the other terrain I've built and painted...
 
-[^1]: Firstly breaking down my entire collection of empty sprues into parts that can be used for scratch-building things, and secondly deciding to make *even more* terrain (rocks, mostly) out of my remaining foam.
+[^1]: I spent a lot of time breaking down my entire collection of empty sprues into parts that can be used for scratch-building things. Don't do this - your hands will hurt.
