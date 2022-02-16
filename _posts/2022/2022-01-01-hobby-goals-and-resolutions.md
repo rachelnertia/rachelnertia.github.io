@@ -37,10 +37,10 @@ I should push myself to use materials and techniques that I haven't before. I re
 - [ ] Painting with oils.
 - [ ] Painting with heavy-body acrylics.
 - [ ] Something ambitious with the airbrush - ambitious enough to require masking.
-- [ ] Superglue accelerant. Is it really any good?
+- [x] Superglue accelerant. Is it really any good?
 - [ ] Sprue goo!
 - [ ] Resin water/goo effects.
-- [ ] Foamex sheets, for basing terrain on.
+- [x] Foamex sheets, for basing terrain on.
 
 That last one ties nicely into...
 
@@ -48,12 +48,12 @@ That last one ties nicely into...
 
 There are several projects, some of which are quite big, that I'm considering all to be part of the same goal: to make more terrain!
 
-- [ ] **Finish the Warhammer Fortress**: I *started* painting my Warhammer Fortress (which I got second-hand from a very generous friend) in 2021 but only finished two pieces of it because I couldn't be bothered going outside to spray sections of it. I hope to construct some supporting pieces of scratch-built scenery to go with it once it's done: things like steps, ladders, maybe even rubble and whole collapsed sections.
+- [x] **Finish the Warhammer Fortress**: I *started* painting my Warhammer Fortress (which I got second-hand from a very generous friend) in 2021 but only finished two pieces of it because I couldn't be bothered going outside to spray sections of it. I hope to construct some supporting pieces of scratch-built scenery to go with it once it's done: things like steps, ladders, maybe even rubble and whole collapsed sections.
 - [ ] **Large LOS-blocking rocks**, a little bit grassy and foresty to go with my grasslands gaming mat.
 - [ ] **Large LOS-blocking snowy rocks** and ice blocks to go with my frosty gaming mat.
-- [ ] **More playable hills**: I made some [hills]({% post_url 2020/2020-04-01-terrain %}) before but I think they should have shorter, steeper, more cliff-like slopes to be easy to play with, particularly for *Age of Sigmar* but for other games too. These could be grassy *or* frosty, whatever I have time for.
+- [x] **More playable hills**: I made some [hills]({% post_url 2020/2020-04-01-terrain %}) before but I think they should have shorter, steeper, more cliff-like slopes to be easy to play with, particularly for *Age of Sigmar* but for other games too. These could be grassy *or* frosty, whatever I have time for.
 - [ ] **Modular stone platforms**, appropriate for Frostgrave, that can be used to raise bits of the ruined city above the rest. Stairs to go with them.
-- [ ] **Things made from leftover sprue**: barricades, ladders, walkways... Very excited to try [this](https://www.youtube.com/watch?v=EOSjjKkCxvk).
+- [x] **Things made from leftover sprue**: barricades, ladders, walkways... Very excited to try [this](https://www.youtube.com/watch?v=EOSjjKkCxvk).
 - [ ] **Ruins**: I have some of the defiled Azyrite Ruins released with *Warcry* that I acquired via Mortal Realms magazine and *Catacombs*. My plan for these is to build some taller buildings out of them than what I currently have.
 - [ ] **Frosty graveyard**: I have a *lot* of Garden of Morr bits (courtesy of the same generous benefactor as the Fortress) to do something with, as well as some miscellaneous tombstones. Might be cool to try to build some large LOS-blocking or stand-on-able pieces with tombs integrated into them...
 
