@@ -81,9 +81,9 @@ These are goals I'll prioritise less, but I might as well list them here.
 
 In April-ish 2021 I built and painted a [*lot*](https://twitter.com/nershly/status/1391401181319204865) of [Nighthaunt](https://ageofsigmar.lexicanum.com/wiki/Nighthaunt) and I had lots of fun playing with the army in the late Spring before Third Edition came out. Haven't played with it since, for various reasons, one of them being that I'd like to build and paint a few extraneous but very cool units:
 
-- [ ] [Lady Olynder](https://www.games-workshop.com/en-GB/Nighthaunt-Lady-Olynder-2018).
-- [ ] [Kurdoss Valentian, the Craven King](https://www.games-workshop.com/en-GB/Kurdoss-Valentian-The-Craven-King-2018).
-- [ ] 10 [Hexwraiths](https://www.games-workshop.com/en-GB/Nighthaunt-Hexwraiths-2018).
+- [x] [Lady Olynder](https://www.games-workshop.com/en-GB/Nighthaunt-Lady-Olynder-2018).
+- [x] [Kurdoss Valentian, the Craven King](https://www.games-workshop.com/en-GB/Kurdoss-Valentian-The-Craven-King-2018).
+- [x] 10 [Hexwraiths](https://www.games-workshop.com/en-GB/Nighthaunt-Hexwraiths-2018).
 
 All of these are sitting wrapped up in their respective issues of Mortal Realms magazine, ready to go. There may be some other less important models kicking about, too.
 
