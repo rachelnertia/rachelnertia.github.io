@@ -6,6 +6,8 @@ category: Hobby
 
 Last year, mostly in March and April, I painted a [*lot*](https://twitter.com/nershly/status/1391401181319204865) of Nighthaunt. I was still waiting on a few more models to appear in [Mortal Realms magazine](https://hachettepartworks.com/en-en/warhammer-age-of-sigmar-mortal-realms/) so I could round out my collection - [Olynder](https://www.games-workshop.com/en-WW/Nighthaunt-Lady-Olynder-2018), [Kurdoss](https://www.games-workshop.com/en-WW/Kurdoss-Valentian-The-Craven-King-2018), and some [Hexwraiths](https://www.games-workshop.com/en-WW/Nighthaunt-Hexwraiths-2018). Finally, this March, I got around to building and painting them.
 
+<!--more-->
+
 I started off by putting together the first five of ten Hexwraiths. This kit sucks so much to build, man. Just awful. And I can imagine how bad it's gonna be to push around the table, too.
 
 ![Five Hexwraiths](/images/2022/04/hobby/hexwraiths.jpg)
