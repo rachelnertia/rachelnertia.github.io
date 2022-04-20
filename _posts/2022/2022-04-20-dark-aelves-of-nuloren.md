@@ -32,4 +32,4 @@ A unit of 20 Black Guard is quite a fun thing in the game, too, at least against
 
 *Thus reinforced, the Darkling Covens of Nuloren are eager for opponents to test their increased strength against...*
 
-[^1]: Courtesy of fellow Rollmodeller Chimp, via other fellow Rollmodeller Cronch. The great cycle of unwanted models.
+[^1]: Courtesy of fellow Rollmodeller Chimp, via other fellow Rollmodeller Cronch. The great cycle of unwanted models is real.
