@@ -11,9 +11,9 @@ Happy New Year! I'm thinking about what I want to achieve hobby-wise in 2022, so
 
 ## Goals
 
-Goals must have reasonably well-defined completion parameters: goal posts, if you will. 
+Goals must have reasonably well-defined completion parameters: goal posts, if you will.
 
-*Note: I'm using checkboxes here to indicate if I've achieved something. As the year goes on, I'll come back and edit this post to mark off the goals and sub-goals I've accomplished.* 
+*Note: I'm using checkboxes here to indicate if I've achieved something. As the year goes on, I'll come back and edit this post to mark off the goals and sub-goals I've accomplished.*
 
 ### 1. Release a Game
 
@@ -21,7 +21,7 @@ Goals must have reasonably well-defined completion parameters: goal posts, if yo
 
 It's sort of like a cheapskate version of *Warhammer Underworlds*. Each player has 4 or 5 miniatures of their own choosing, representing very distinct fighter classes, and they duke it out on a tiny battlefield. Combat is speedy, punchy and interactive. There's also nifty magic system. It may not be the perfect game, but I'm increasingly pleased with it.
 
-I need to get back on the development horse after I fell off it when life got busy in the Autumn. In some form or another, I *will* ship this game in 2022! 
+I need to get back on the development horse after I fell off it when life got busy in the Autumn. In some form or another, I *will* ship this game in 2022!
 
 - [ ] Complete the Mechanical Draft.
 - [ ] Complete the Full Draft.
@@ -55,7 +55,7 @@ There are several projects, some of which are quite big, that I'm considering al
 - [ ] **Modular stone platforms**, appropriate for Frostgrave, that can be used to raise bits of the ruined city above the rest. Stairs to go with them.
 - [x] **Things made from leftover sprue**: barricades, ladders, walkways... Very excited to try [this](https://www.youtube.com/watch?v=EOSjjKkCxvk).
 - [ ] **Ruins**: I have some of the defiled Azyrite Ruins released with *Warcry* that I acquired via Mortal Realms magazine and *Catacombs*. My plan for these is to build some taller buildings out of them than what I currently have.
-- [ ] **Frosty graveyard**: I have a *lot* of Garden of Morr bits (courtesy of the same generous benefactor as the Fortress) to do something with, as well as some miscellaneous tombstones. Might be cool to try to build some large LOS-blocking or stand-on-able pieces with tombs integrated into them...
+- [x] **Frosty graveyard**: I have a *lot* of Garden of Morr bits (courtesy of the same generous benefactor as the Fortress) to do something with, as well as some miscellaneous tombstones. Might be cool to try to build some large LOS-blocking or stand-on-able pieces with tombs integrated into them...
 
 ## Resolutions
 
@@ -118,4 +118,4 @@ I've resigned myself to the fact I'm probably not going to keep up with *Warhamm
 
 \
 
-Okay, let's see how that all goes. I wish you all the best in your own hobby (and non-hobby) endeavours in 2022!  
+Okay, let's see how that all goes. I wish you all the best in your own hobby (and non-hobby) endeavours in 2022!
