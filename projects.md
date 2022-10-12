@@ -7,13 +7,17 @@ Here is a list of basically every project I've taken the time to document somewh
 
 # Ongoing
 
-## Quiver
+## Magewinds
 
-Quiver is a cross-platform pseudo-3d game engine I'm writing in my spare time in C++. It grew out of the Box2D raycasting experiment I wrote about [here]({% post_url 2016/2016-04-07-box2d-raycasting-test %}) and [here]({% post_url 2016/2016-04-27-box2d-raycasting-progress %}) and has become quite a fruitful learning project. You can check out the source code at the [GitHub repository](https://github.com/rachelnertia/Quiver).
+A tabletop miniature skirmish wargame in which everyone is a wizard. You can check it out and get all the rules on the game's [official website](http://www.magewinds.com/).
 
 # Abandoned
 
 ## Games
+
+### Quiver
+
+Quiver is a cross-platform pseudo-3d game engine I'm writing in my spare time in C++. It grew out of the Box2D raycasting experiment I wrote about [here]({% post_url 2016/2016-04-07-box2d-raycasting-test %}) and [here]({% post_url 2016/2016-04-27-box2d-raycasting-progress %}) and has become quite a fruitful learning project. You can check out the source code at the [GitHub repository](https://github.com/rachelnertia/Quiver).
 
 ### Interstellar Soirée (Global Game Jam 2016)
 
