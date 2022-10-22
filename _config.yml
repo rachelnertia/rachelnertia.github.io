@@ -43,5 +43,5 @@ pages_list:
   Tags:                    '/tag_index'
   Feed:                    '/atom.xml'
   Projects:                '/projects'
-  Magewinds:               'http://www.magewinds.com/'
+  Magewinds:               'https://www.magewinds.com/'
   Warcry Card Creator:     'https://rachelnertia.github.io/warcry-card-creator'
