@@ -23,10 +23,10 @@ It's sort of like a cheapskate version of *Warhammer Underworlds*. Each player h
 
 I need to get back on the development horse after I fell off it when life got busy in the Autumn. In some form or another, I *will* ship this game in 2022!
 
-- [ ] Complete the Mechanical Draft.
-- [ ] Complete the Full Draft.
-- [ ] The Other 90% of Development...
-- [ ] Release the game!
+- [x] Complete the Mechanical Draft.
+- [x] Complete the Full Draft.
+- [x] The Other 90% of Development...
+- [x] Release the game!
 
 I will kick my ass into gear and get it out the door! And while I'm doing that, I'll build and paint a bunch of warbands for it...
 
@@ -38,7 +38,7 @@ I should push myself to use materials and techniques that I haven't before. I re
 - [ ] Painting with heavy-body acrylics.
 - [ ] Something ambitious with the airbrush - ambitious enough to require masking.
 - [x] Superglue accelerant. Is it really any good?
-- [ ] Sprue goo!
+- [x] Sprue goo!
 - [ ] Resin water/goo effects.
 - [x] Foamex sheets, for basing terrain on.
 
@@ -113,8 +113,8 @@ I've resigned myself to the fact I'm probably not going to keep up with *Warhamm
 
 - [x] Build and paint [Kainan's Reapers](https://www.games-workshop.com/en-GB/WH-Underworlds-Kainans-Reapers-EN-2021).
 - [x] Build and paint [Hedkrakka's Madmob](https://www.games-workshop.com/en-GB/WHU-Hedkrakkas-Madmob-EN-2021).
-- [ ] Get, build and paint [Elathain's Soulraid](https://www.games-workshop.com/en-GB/WHU-Hedkrakkas-Madmob-EN-2021).
-- [ ] Get, build and paint the [Crimson Court](https://www.games-workshop.com/en-GB/WHU-The-Crimson-Court-EN-2021).
+- [x] Get, build and paint [Elathain's Soulraid](https://www.games-workshop.com/en-GB/WHU-Hedkrakkas-Madmob-EN-2021).
+- [x] Get, build and paint the [Crimson Court](https://www.games-workshop.com/en-GB/WHU-The-Crimson-Court-EN-2021).
 
 \
 
