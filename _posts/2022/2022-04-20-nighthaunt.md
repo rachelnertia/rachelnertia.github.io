@@ -4,7 +4,7 @@ layout: post
 category: Hobby
 ---
 
-Last year, mostly in March and April, I painted a [*lot*](https://twitter.com/nershly/status/1391401181319204865) of Nighthaunt. I was still waiting on a few more models to appear in [Mortal Realms magazine](https://hachettepartworks.com/en-en/warhammer-age-of-sigmar-mortal-realms/) so I could round out my collection - [Olynder](https://www.games-workshop.com/en-WW/Nighthaunt-Lady-Olynder-2018), [Kurdoss](https://www.games-workshop.com/en-WW/Kurdoss-Valentian-The-Craven-King-2018), and some [Hexwraiths](https://www.games-workshop.com/en-WW/Nighthaunt-Hexwraiths-2018). Finally, this March, I got around to building and painting them.
+Last year, mostly in March and April, I painted a [*lot*](https://twitter.com/nershly/status/1391401181319204865) of Nighthaunt. I was still waiting on a few more models to appear in [Mortal Realms magazine](https://hachettepartworks.com/en-en/warhammer-age-of-sigmar-mortal-realms/) so I could round out my collection - [Olynder](https://www.games-workshop.com/en-WW/Nighthaunt-Lady-Olynder-2018), [Kurdoss](https://www.games-workshop.com/en-WW/Kurdoss-Valentian-The-Craven-King-2018), and some [Hexwraiths](https://www.games-workshop.com/en-WW/Nighthaunt-Hexwraiths-2018). Finally, this February, I got around to building and painting them.
 
 <!--more-->
 

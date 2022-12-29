@@ -58,6 +58,13 @@ img {
   border-radius: 5px;
 }
 
+// Image captions
+// Use *emphasised* text on the line immediately below the image. 
+img + em {
+  display: block;
+  text-align: center;
+}
+
 table {
   margin-bottom: 1rem;
   width: 100%;
