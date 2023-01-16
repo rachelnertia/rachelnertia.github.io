@@ -65,6 +65,19 @@ img + em {
   text-align: center;
 }
 
+// Correctly place emojis inline with the text instead of handling them
+// like normal images.
+img.emoji {
+  display: inline-block;
+  left: 0;
+  transform: none;
+  width: 20px;
+  height: 20px;
+  vertical-align: text-top;
+  padding: 0;
+  margin: 0;
+}
+
 table {
   margin-bottom: 1rem;
   width: 100%;
