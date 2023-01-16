@@ -1,6 +1,6 @@
 ---
 title: "ELG Age of Sigmar 2k League Game 1"
-category: Tabletop Gaming
+category: Gaming
 layout: post
 tags: [ Warhammer, Age of Sigmar, Nighthaunt, Kharadron Overlords, ELG, Red Dice Games ]
 ---
