@@ -27,7 +27,13 @@ At the end of February we're having a mini-RMRO at Knightly Games in Bathgate, a
 
 ## Upcoming Releases
 
-Stormbringer
+### Stormbringer
+
+Oh no. Another Warhammer partworks magazine. I am so fucked. 
+
+You see, the previous one, which ran from late 2019 through 2020, was stuffed full of Stormcast and Nighthaunt. It was also possible to pick up single issues via Forbidden Planet. This made for the most affordable way to collect Age of Sigmar models probably ever. I would not have a Nighthaunt army without it!
+
+
 
 Gloomspite Gitz
 

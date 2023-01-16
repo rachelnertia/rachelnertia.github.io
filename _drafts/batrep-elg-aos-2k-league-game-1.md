@@ -76,7 +76,7 @@ I was able to consistently score 3 points on my remaining turns, but not kill an
 
 ## Conclusions
 
-This was a fun game. I hadn't played against Kharadron Overlords and despite a bit of confusion and rules uncertainty they weren't quite as destructive or unpleasant as I'd been led to believe. I hope they get a good new book though, it's clear a lot of things could be done better.
+This was a fun game. I hadn't played against Kharadron Overlords before and despite a bit of confusion and rules uncertainty they weren't quite as destructive or unpleasant as I'd been led to believe. I hope they get a good new book though, it's clear a lot of things could be done better.
 
 Perhaps I should have put Olynder in reserve after deployment? Maybe? It's possible I could have screened against all the shooting a bit better as well. And I definitely could have screened better against the Purple Sun! Fortunately the painful first turn wasn't enough to lose the game for me, even if it was a shame to see my general *and* Olynder go down instantly.
 
