@@ -100,7 +100,7 @@ Perhaps I should have put Olynder in reserve after deployment? Maybe? It's possi
 
 I am bringing a battle round counter to the next game because we had a little bit of uncertainty at the end as to whether we were, in fact, at the end. Luckily we were able to figure it out -- there was no way I could have scored 21 points in only 4 battle rounds (the maximum I could have scored was 20). I think I shall look for one of those very big D6s...
 
-Salvatore was a great opponent and his army looked fantastic, I wish him all the best in his future aether-endeavours.
+Salvatore was a great opponent and his army looked fantastic. I wish him all the best in his future aether-endeavours.
 
 I'm feeling much better than I did after my first game in last year's league. It's nice to play an army that isn't horribly feeble. 
 
