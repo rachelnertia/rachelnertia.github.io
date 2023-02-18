@@ -17,7 +17,7 @@ A tabletop miniature skirmish wargame in which everyone is a wizard. You can che
 
 ### Quiver
 
-Quiver is a cross-platform pseudo-3d game engine I'm writing in my spare time in C++. It grew out of the Box2D raycasting experiment I wrote about [here]({% post_url 2016/2016-04-07-box2d-raycasting-test %}) and [here]({% post_url 2016/2016-04-27-box2d-raycasting-progress %}) and has become quite a fruitful learning project. You can check out the source code at the [GitHub repository](https://github.com/rachelnertia/Quiver).
+Quiver is a cross-platform pseudo-3d game engine I was writing in my spare time in C++. It grew out of the Box2D raycasting experiment I wrote about [here]({% post_url 2016/2016-04-07-box2d-raycasting-test %}) and [here]({% post_url 2016/2016-04-27-box2d-raycasting-progress %}) and became quite a fruitful learning project. You can check out the source code at the [GitHub repository](https://github.com/rachelnertia/Quiver).
 
 ### Interstellar Soirée (Global Game Jam 2016)
 
