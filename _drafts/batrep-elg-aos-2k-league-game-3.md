@@ -31,9 +31,11 @@ Everything was in one big Battle Regiment.
 
 I got to curse a whole 4 units, so I chose his heroes and the Chosen. 
 
-Out-dropping me, Sam made me take the first turn. I immediately yeeted the Mortalis Terminexus at him, although the distance was too great for it to do anything this turn. I think it might have been close enough to apply a mortal wound or two to the Chaos Warriors, but I think they blocked it with their special shields.
+Out-dropping me, Sam made me take the first turn. I immediately yeeted the Mortalis Terminexus at him, although the distance was too great for it to do anything this turn. I think it might have been close enough to apply a mortal wound or two to the Chaos Warriors, but they blocked it with their special shields.
 
 ![](/images/2023/02/battles/nighthaunt-vs-s2d/round-1-turn-1-hourglass.jpg)
+
+I cast Seal of Shyish (5+ Ward, same as Discorporate) and Shademist (-1 to Wound against) on the right-hand Chainrasps, making them extra tough.
 
 Following that, I advanced my army up into my usual death-star-battleline, ready to weather a charge.
 
@@ -49,17 +51,44 @@ He was really hindered by the terrain bottlenecking him into his deployment area
 
 ![](/images/2023/02/battles/nighthaunt-vs-s2d/round-1-turn-2.jpg)
 
+The Knights hit hard, but not hard enough, only managing to take out some of the Chainrasps. It was a similar story on the left side with the Chaos Warriors. My units punched back hard...
+
 ## Round 2
+
+And then I got priority, and got to punch back even harder:
 
 ![](/images/2023/02/battles/nighthaunt-vs-s2d/round-2-turn-1.jpg)
 
+In my Hero Phase, Sam managed to dispel the Terminexus before it did even more damage.
+
+The Chaos Knights and Warriors were gone. 
+
 ![](/images/2023/02/battles/nighthaunt-vs-s2d/round-2-turn-2.jpg)
+
+In his turn, Sam threw in his Chosen, who get to fight twice in the Combat Phase once per game. The Ogroids made it in too. A lot of Chainrasps died, and Kurdoss took some punishment, but ultimately I was okay.
 
 ![](/images/2023/02/battles/nighthaunt-vs-s2d/round-2-turn-2-combat.jpg)
 
 ## Round 3
 
+I got priority in Round 3 again and proceeded to wipe out the Chosen. 
+
 ![](/images/2023/02/battles/nighthaunt-vs-s2d/round-3-turn-1.jpg)
+
+On the right, I finally charged in with the Grimghast Reapers, who got stuck into the Chaos Warriors.
 
 ![](/images/2023/02/battles/nighthaunt-vs-s2d/round-3-turn-1-reapers.jpg)
 
+At this point, Sam conceded.
+
+## Denouement
+
+This was another fun game... for me at least? Sam said he had fun, but his units didn't get to do very much. I think the thing that really screwed him over was the terrain in his deployment zone, which forced him to throw units at me in waves, which is exactly what I want because it plays into my counterpunch strategy.
+
+I didn't keep track of which Battle Tactics I scored in each of my turns, but I if I remember correctly I managed to score 5 points each turn.
+
+I think my list might just be quite good! I know it has weaknesses (ranged mortal wound spam, deep strikes) but so far I seem to be good at mitigating them? Or at least have not come up against a list that can really exploit these weaknesses.
+
+I enjoyed playing against the Slaves to Darkness, and beating them did nothing to quell my desire for my own army of them.
+
+Up next in the battle report series, I take my dark aelves on their first excursion into the 1k league...
