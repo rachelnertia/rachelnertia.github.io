@@ -13,6 +13,8 @@ On Tuesday 14th February I fought my first battle in my 1k league group, playing
 
 ## The Armies
 
+
+
 ## Round 1
 
 ## Round 2
