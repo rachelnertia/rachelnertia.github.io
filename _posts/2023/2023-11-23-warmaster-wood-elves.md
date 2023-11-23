@@ -2,7 +2,7 @@
 layout: post
 title: Warmaster Wood Elves
 category: Hobby
-tags: [ Warmaster ]
+tags: [ Warmaster, Warhammer, Wood Elves ]
 ---
 
 ![](/images/2023/11/warmaster-wood-elves/whole-army.jpg "A fully-painted 1000-point Wood Elf army for *Warmaster Revolution*.")
