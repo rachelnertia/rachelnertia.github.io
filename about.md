@@ -3,15 +3,15 @@ layout: page
 title: About
 ---
 
-Hiya! I'm a budding game developer with a focus on programming, and this is my personal website. Please look around! 
+Hiya! I'm a videogame programmer and game design dabbler. This is my personal website. Please look around! 
 
-I currently work as a Network Programmer at Rockstar North in Edinburgh, Scotland. It's going well!
+I currently work as a Senior Network Programmer at Rockstar North in Edinburgh, Scotland.
 
 Previously I studied [Computer Games Technology](http://www.abertay.ac.uk/courses//ug/comopgamestech/) at [Abertay University](http://www.abertay.ac.uk/) in bonny Dundee. 
 
 I try to use this website to document my interests: programming, game dev, playing games in all their forms, books I'm reading, music I'm listening to, and painting tiny warriors.
 
-You can follow me on [Twitter](https://twitter.com/nershly), where I shitpost on the reg.
+You can follow me on [Instagram](https://www.instagram.com/rachelnertia/), where I shitpost on the reg.
 
 I also have a (rather sparse) [itch.io page](http://inertia.itch.io/).
 
