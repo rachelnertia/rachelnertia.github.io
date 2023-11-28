@@ -2,9 +2,12 @@
 title: RMRO XII
 layout: post
 category: Gaming
+tags: [ Warhammer, Warmaster, Warcry, 40k, Board in Brum, RMROs ]
 ---
 
-Last weekend I went to Walsall for yet another lovely weekend of socialising and miniature wargaming with the Discord hobby community I am a part of, Rollmodels[^1]. This time we descended upon an old favourite, [Board In Brum](), although this was my first time at their current location. It remains a great destination for wargaming, with many tables, shedloads of terrain, a well-stocked shop and a crowd of friendly regulars.
+A few days ago I went to Walsall for yet another lovely weekend of socialising and miniature wargaming with the Discord hobby community I am a part of, Rollmodels[^1]. This time for our venue we descended upon an old favourite, [Board In Brum](https://www.boardinbrum.co.uk/), although this was my first time at their current location[^2]. It remains a great destination for wargaming, with many tables, shedloads of terrain, a well-stocked shop and a crowd of friendly regulars.
+
+<!--more-->
 
 Saturday morning began with a hard landing in the world of *Warmaster* as Kara and I finally played our first 1000-point game. Yes, we travelled hundreds of miles to play a game with each other we could have played at home. We wanted it to be an exhibition match of sorts, to entice others into the warm *Warmaster* waters. 
 
@@ -13,18 +16,41 @@ After some scrambling for appropriately-scaled terrain, we got down to business.
 ![](/images/2023/11/rmro/warmaster.jpg "A Wood Elf army clashes with a Chaos army in a game of Warmaster")
 *My Eternal Guard square off against Kara's Chaos Warriors.*
 
-I had done some preparation by having watched some [tutorial videos]() and reading the rulebook on the journey down. It wasn't enough. While it does get crunchy in the combat phase, *Warmaster* is not a particularly complicated ruleset -- the problem is that every single rule is buried in paragraph upon paragraph of text, written in the most conversational and meandering way possible. This is to be expected from a game written in the early 2000s, but I hoped the *Warmaster Revolution* team had simplified the text a bit. There are helpful "at a glance" sections at the beginning of each chapter, but they usually elide many key details. Details you must then go digging for in the bloated chapter itself. 
+I had done some preparation by having watched some [tutorial videos](https://www.youtube.com/playlist?list=PLsHhQn7iT5y65Jrk9PerunBIvlHkijAsE) and reading the rulebook on the journey down. It wasn't enough. While it does get crunchy in the combat phase, *Warmaster* is not a particularly complicated ruleset -- the problem is that every single rule is buried in paragraph upon paragraph of text, written in the most conversational and meandering way possible. This is to be expected from a game written in the early 2000s, but I hoped the *Warmaster Revolution* team had simplified the text a bit. There are helpful "at a glance" sections at the beginning of each chapter, but they usually elide many key details. Details you must then go digging for in the bloated chapter itself. 
 
-Fortunately, Drew was on hand with a print-out of the *Warmaster Revolution* rulebook[^2], which made searching for rules much easier. He also brought with him his own understanding of the rules, which was far more developed than ours, so was able to chime in at key moments and answer our questions. Once she'd thoroughly crushed my Wood Elves, Kara took on his Chaos Dwarfs in a 1,500-point battle.
+Fortunately, Drew was on hand with a print-out of the *Warmaster Revolution* rulebook[^3], which made searching for rules much easier. He also brought with him his own understanding of the rules, which was far more developed than ours, so was able to chime in at key moments and answer our questions. Once she'd thoroughly crushed my Wood Elves, Kara took on his Chaos Dwarfs in a 1,500-point battle.
 
 I came away from my first game bamboozled and tired, itching to play something simpler or which I at least understood better, but nonetheless I am excited to try more *Warmaster*. I have planned my next 500 points of Wood Elves.
 
 ![](/images/2023/11/rmro/me-master.jpg "Me, thumbs up, at the end of our battle.")
 *Warmaster: Good. I was wearing a beanie because the venue was cold!*
 
-John printed out and painted a set of the super-cool [Blade Pit Arena]() terrain by Dark Fantastic Mills so he could run a special game of *Warcry*. The first bout had 6 players and took a surprisingly long time, but remained dramatic throughout and was exciting to watch.
+John printed out and painted a set of the super-cool [Blade Pit Arena](https://darkfantasticmills.com/Blade-Pit-Arena-c148242501) terrain by Dark Fantastic Mills so he could run a special game of *Warcry*. The first bout had 6 players and took a surprisingly long time, but remained dramatic throughout and was exciting to watch.
 
 ![](/images/2023/11/rmro/warcry-arena.jpg)
 
+I got to play in the 2nd match, which in the interests of time had only 3 other players. We still didn't manage to finish before the shop shut, but I got this cool photo of a fight between a Chaos Legionnaire and a Darkoath Savager:
+
+![](/images/2023/11/rmro/warcry-fight.jpg)
+
+Hopefully John will bring the arena along to future meetups and we will all get to prove our mettle some more.
+
+On Sunday I got in a short Combat Patrol game of *Warhammer 40,000* against Krona's Orks. I was very excited to get my Eldar back on the table.
+
+![](/images/2023/11/rmro/combat-patrol.jpg)
+
+Unfortunately the game was over, quickly. In my first turn I wiped out a unit of Boyz with a round of shooting from my Windriders and Guardians. In his second he deep struck with his Warboss and other unit of Boyz, but failed their charge. His Deff Dread charged the Windriders who were screening my Wraithlord and deleted them, but then consolidated into the Wraithlord, who rolled hot and cut it in half. The remaining Orks, seeing this, conceded.
+
+![](/images/2023/11/rmro/bonk.jpg "A Deff Dread picks a fight with the wrong wraith construct")
+*Bonk!*
+
+In the afternoon Alex, Kara and I spent some time learning Shatterpoint. It's a bit too Token Hell for me, and I'm not enough of a Star Wars fan to be enticed by it, but it has some cool ideas.
+
+![](/images/2023/11/rmro/shatterpoint.jpg "A squad of rogers shoot up some clones and a jedi.")
+*Roger roger!*
+
+As always I spent a lot of my time simply watching other games being played, chatting with my friends and generally hanging out. 
+
 [^1]: We are very nice. Come join us!
-[^2]: I must try to get one for myself.
+[^2]: We were originally going to visit Asgard Games, also in Walsall, but unfortunately it closed abruptly and we had to change.
+[^3]: I must try to get one for myself.
