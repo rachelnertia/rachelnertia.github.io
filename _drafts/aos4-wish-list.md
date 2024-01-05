@@ -16,6 +16,8 @@ Here are my wishes, in order of increasing unlikelihood:
 
 Ditch Heroic Actions and Monstrous Actions. Both of these are cruft as far as I am concerned. If you want to make heroes and monsters more impactful, buff their stats and/or give them more special abilities on their warscroll. If you must keep them, streamline them so that you roll to see if you can do one *before* choosing one to do. Nothing feels worse than prevaricating for a full minute over which Action to do and then failing it.
 
+Also ditch most weapon options.
+
 ## 2. Refactor Stormcast
 
 This faction has too many units.
