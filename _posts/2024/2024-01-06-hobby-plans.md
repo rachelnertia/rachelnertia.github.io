@@ -51,6 +51,10 @@ Having played a few games of *Kings of War* I'm convinced I like it and want to 
 
 I already have 1000 points of Ogres, so the question is not how to start but how to continue. I think I'll grab some of the [very](https://www.manticgames.com/kings-of-war/ogres/ogre-warlock-2021/) [characterful](https://www.manticgames.com/kings-of-war/ogres/ogre-paymaster/) [hero](https://www.manticgames.com/kings-of-war/ogres/ogre-berserker-bully/) [models](https://www.manticgames.com/kings-of-war/ogres/ogre-boomer-sergeant/) and a unit of [Siege Breakers](https://www.manticgames.com/kings-of-war/ogres/ogre-siege-breaker-horde/): heavily armoured ogres who will make a great anvil for the rest of the army to smite things upon. That can be my next few hundred points, and will let me run a few different lists at the lower point levels.
 
+## Warmaster
+
+Another few hundred points of Wood Elves, starting with some more Glade Guard. I'm excited to get to know this game more!
+
 ## Loonshrine
 
 I am now a proud owner of the frequently out-of-stock Gloomspite Gitz terrain piece. Having played a couple of games with it unpainted, it really does unlock the army and make it playable, so I'm glad I finally got one. I'm going to enjoy painting it, and may even put some LEDs inside it so there is an ominous glow visible beyond the cave mouth.
