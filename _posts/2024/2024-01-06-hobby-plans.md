@@ -53,6 +53,6 @@ I already have 1000 points of Ogres, so the question is not how to start but how
 
 ## Loonshrine
 
-I am now a proud owner of the frequently out-of-stock Gloomspite Gitz terrain piece. Having played a couple of games with it unpainted, it really does unlock the army and make it playable, so I'm glad I finally got one. I'm going to enjoy painting it, and maybe even putting some LEDs inside it so there is a ominous glow coming from within the cave mouth.
+I am now a proud owner of the frequently out-of-stock Gloomspite Gitz terrain piece. Having played a couple of games with it unpainted, it really does unlock the army and make it playable, so I'm glad I finally got one. I'm going to enjoy painting it, and may even put some LEDs inside it so there is an ominous glow visible beyond the cave mouth.
 
-This is also giving me some motivation to work on more of my Gitz backlog (and get more Gitz), but now we're getting into the un-planned world, so I must leave this post where it is.
+This is also giving me some motivation to work on more of my Gitz backlog (and get more Gitz...), but now we're getting into the un-planned world, so I must leave this post where it is.
