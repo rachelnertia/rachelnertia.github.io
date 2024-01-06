@@ -35,7 +35,7 @@ In fact, I have made a point of expressing my dislike of them on a regular basis
 Yet here I am. *Sigh*.
 
 ![](/images/2024/01/hobby/space-marine.jpg)
-*My first Space Marine.*
+*My first Space Marine. He is a reference to a Rogue Trader-era marine model who was equipped with a Shuriken Catapult, who you can see in the background.*
 
 I just want to play *Kill Team* and hang out with my friends, okay? So I am putting together a squad of [Marines Errant](https://wh40k.lexicanum.com/wiki/Marines_Errant), who appealed to me because they:
 
