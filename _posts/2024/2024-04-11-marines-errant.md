@@ -2,7 +2,7 @@
 layout: post
 title: Marines Errant
 category: Hobby
-tags: [ Warhammer, 40K, Space Marines, Marines Errant ]
+tags: [ Warhammer, 40K, Kill Team, Badab War, Space Marines, Marines Errant ]
 comments: true
 ---
 
