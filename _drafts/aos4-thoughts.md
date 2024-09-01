@@ -31,6 +31,8 @@ What was once a background stat (normal models had 1 control, heroes had 2 and m
 
 The whole game is now assembled from simple building blocks: abilities. Again this kinda makes explicit something that was implicit and/or muddy in the past.
 
+![](/images/2024/09/AoS4-abilities.png)
+
 ## Order of Operations
 
 In each phase, the active player uses their abilities. Some abilities are reactions and there's a clear core rule showing exactly when a reaction can be used. After the active player has finished using their abilities for that phase, their opponent can use any "Enemy X Phase" abilities of their own. It's so *neat*!
