@@ -17,7 +17,6 @@ baseurl:             ""
 future:              false
 plugins:
   - jekyll-paginate
-  - jemoji
 
 # Assets
 #
