@@ -85,22 +85,6 @@ The regiment system is a nice idea... but it can create awkward situations when 
 
 Part of the issue is that it means almost every time you take a hero in your army, you're adding a drop. Which is only a problem because we live in a world where the player who finishes deployment first has priority, so they get to decide who takes the first turn, which is still extremely powerful -- in part because of issue #1. So you're incentivised towards low-drop armies, like 1- and 2-drops.
 
-# Issues
-
-These are changes or additions that are definitely misses.
-
-## #1: Double Turn
-
-I'm a long-time double-turn defender. It's dramatic because it's so powerful. You don't get a Battle Tactic -- so what? It may be impossible for you to score a Tactic this round anyway, and having more Tactics to choose from later in the game is an advantage. Breaking your opponent's back at the start of round 2 is still very possible and still very powerful.
-
-## Underdog
-
-This mechanic works well in Spearhead, where it is a bit more balanced. In Spearhead, you need to be several points below your opponent to become underdog. But in GHB you are underdog if you are even a single point below your opponent. In Spearhead, underdog bonuses are randomized from battle round to battle round by which twist card is drawn. In GHB each scenario has a different underdog bonuses, and some of them are really powerful. The underdog mechanic doesn't interact at all with the priority mechanic, so you can get a double turn *and* be underdog.
-
-## Manifestation Spam
-
-You can summon Manifestations in your opponent's turn for 1 Command Point and a contested dice roll. This can be absurdly powerful, far more so than Countercharge.
-
 ## Index Design
 
 ### Internal Balance
@@ -119,6 +103,24 @@ Some of the faction indices are just better (stronger *and* better designed) tha
 
 ## Legends
 
+
+
+# Issues
+
+These are changes or additions that are definitely misses.
+
+## #1: Double Turn
+
+I'm a long-time double-turn defender. It's dramatic because it's so powerful. You don't get a Battle Tactic -- so what? It may be impossible for you to score a Tactic this round anyway, and having more Tactics to choose from later in the game is an advantage. Breaking your opponent's back at the start of round 2 is still very possible and still very powerful.
+
+## Underdog
+
+This mechanic works well in Spearhead, where it is a bit more balanced. In Spearhead, you need to be several points below your opponent to become underdog. But in GHB you are underdog if you are even a single point below your opponent. In Spearhead, underdog bonuses are randomized from battle round to battle round by which twist card is drawn. In GHB each scenario has a different underdog bonuses, and some of them are really powerful. The underdog mechanic doesn't interact at all with the priority mechanic, so you can get a double turn *and* be underdog.
+
+## Manifestation Spam
+
+You can summon Manifestations in your opponent's turn for 1 Command Point and a contested dice roll. This can be absurdly powerful, far more so than Countercharge. I guess the fix is to disallow summoning when using Magical Intervention, but who knows which way the design team will swerve. 
+
 # Missed Opportunities
 
 These are things I wish they'd done.
@@ -135,10 +137,13 @@ Spearhead is great but there's still a gap between it and the 2000-point way the
 
 Doubles is a popular format to play Warhammer in but it's always been up to the community to support it.
 
-## Line of Sight
+## Visibility
 
 AoS still uses "true" LOS. We could have been done with it but they kept it in!
 
+![](/images/2024/09/AoS4-visibility.png)
+*Cast it into the fire! Destroy it!*
+
 # Conclusion
 
-This is the best AoS has been and yet problems still arise from the complex interplay of the parts which make up the game. Can the design team fix these issues and clean up these weird things? And will they continue to improve the game beyond that, or is it all downhill from here?
+This is the best AoS has been, I'm happy to say... yet problems still arise from the complex interplay of components. Can the design team fix these issues and clean up these weird things? And will they continue to improve the game beyond that, or is it all downhill from here?
