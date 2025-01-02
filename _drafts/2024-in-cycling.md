@@ -21,11 +21,15 @@ So I looked on the web, asked around, popped into Edinburgh's bike shops[^1], an
 
 I still have my old bike, which is a "hybrid", but not really, but sort of (my mechanic says it doesn't know what it wants to be), and I plan to keep it. Therefore I am in the novel and enviable position of owning two bicycles, one for commuting and nipping about town (the old one) and one for Adventures (the new one).
 
-![](/images/2024/12/bike.jpg)
+![A gravel bike, fully laden with gear.](/images/2025/01/2024-in-cycling/bike.jpg)
+*My new bike, Roheryn, ready for an adventure.*
 
 ## Bike Ride
 
 I could now go for rides on rougher terrain, so I did. In April, as soon as the weather and day-length allowed, Kara took me out for a night of camping in the Pentlands. This was my first night in a tent since I was wee. I didn't sleep much! It was too bright, I couldn't get comfy, and my ears were attentively listening to everything outside the tent. In subsequent camping trips I managed to sleep, having invested in a blindfold, an inflatable pillow to go with my inflatable mattress, and as for my ears... that just took practice. I'm not an earplug enjoyer.
+
+![An early-spring photo of a farmhouse in a narrow glen.](/images/2025/01/2024-in-cycling/the-saddle.jpg)
+*A picturesque valley in the Pentland Hills where we (rather hastily) made camp.*
 
 The intersection of biking and camping is called 'bikepacking'. People are very nerdy (and, of course, tediously opinionated[^2]) about it. You can spend a lot of time -- and money -- optimizing the weight and ergonomics of what you're carrying on the bike's frame. I had a few stressful pre-adventure days this year attempting to pack everything I needed on the bike, trying to find the right bags, straps, and so on, before cramming as much as I could onto the frame.
 
@@ -33,35 +37,57 @@ The intersection of biking and camping is called 'bikepacking'. People are very 
 
 It's not a challenge I enjoy, so I'm grateful for the experience I've gained and equipment I've gathered while figuring it all out which will hopefully make things smoother in the future. 
 
+Between day rides I went on three main multi-day adventures this year:
+
 ### The John Muir Way
 
-My next excursion was a three-day ride along the John Muir Way from Helensburgh to Dunbar, also with Kara. We were originally planning to camp the first night on this one, but covered too much ground on the first day and by the time we started thinking about setting up camp we were already in the north-of-Glasgow sprawl that begins about Lennoxtown[^2], where everything is either farmland, parkland, someone's house or someone's garden. We got the train back to Edinburgh from Croy and stayed at mine that night instead, then went back out in the morning to continue the route[^3]. Leg two of our journey took us from there back to Edinburgh, via the Falkirk Wheel, South Queensferry, and a rather nervewracking trip up and down Corstorphine Hill. Day three took us from Edinburgh to Dunbar. Most of the route as far as North Berwick was familiar, but the rest was uncharted territory for me. East Lothian a bit boring, but the route took us past some wee points of interest -- not that we were in any mood to stop and investigate them, being hours from completing the ride!
+My next excursion was a three-day ride along the [John Muir Way](https://johnmuirway.org/) from Helensburgh to Dunbar, also with Kara. We were originally planning to camp the first night on this one, but covered too much ground on the first day and by the time we started thinking about setting up camp we were already in the north-of-Glasgow sprawl that begins about Lennoxtown[^2], where everything is either farmland, parkland, someone's house or someone's garden. We got the train back to Edinburgh from Croy and stayed at mine that night instead, then returned in the morning to continue the route[^3]. 
 
-[^2]: My dad used to live northwest of Lennoxtown, so it was fun to cycle beneath the familiar Campsie Fells. I hope to get out there again for a proper nostalgic explore.
-[^3]: The day after we finished the ride, we discovered we'd left some of our camping equipment on one of the trains. A big disaster! Despite calls to lost property, we didn't get it back, which soured our memories of the trip somewhat. I keep wondering if we left it on the first train, and therefore would not have been able to camp on the first night anyway -- and wondering how we would have reacted to suddenly discovering our error while on the trail 😰
+Leg two of our journey took us from there back to Edinburgh, via the Falkirk Wheel, South Queensferry, and a rather nervewracking trip up and down Corstorphine Hill. Bombing downhill is fun but scary! Turns out disc brakes can get super hot and stop working as well.
+
+Day three took us from Edinburgh to Dunbar. Most of the route as far as North Berwick was familiar, but the rest was uncharted territory for me. East Lothian is a bit boring, but the route took us past some wee points of interest -- not that we were in any mood to stop and investigate them, being mere hours away from completing the ride!
+
+[^3]: My dad used to live northwest of Lennoxtown, so it was fun to cycle beneath the familiar Campsie Fells. I hope to get out there again for a proper nostalgic explore.
+[^4]: The day after we finished the ride, we discovered we'd left some of our camping equipment on one of the trains. A big disaster! Despite calls to lost property, we didn't get it back, which soured our memories of the trip somewhat. I keep wondering if we left it on the first train, and therefore would not have been able to camp on the first night anyway -- and wondering how we would have reacted to suddenly discovering our error while on the trail 😰
+
+![A photo of Kara, on her bike, in front of the Falkirk Wheel.](/images/2025/01/2024-in-cycling/kara-at-the-falkirk-wheel.jpg)
+*Kara enjoying the Falkirk Wheel.*
 
 ### Sisters in the Wild
 
-My third bike adventure took me to the Lake District to attend the Sisters in the Wild Summer Gathering, in which a hundred or so women and non-binary cyclists shared a campsite near Hawkshead. Two days of cycling up and down big hills, and two days either side of getting there and back. This is what finally did my right knee in. This was a surprise because it's normally my *left* knee that kicks up a fuss, and even then it has never done so because of cycling. 
+My third bike adventure took me to the Lake District to attend the [Sisters in the Wild](sitw) Summer Gathering, in which a hundred or so women and non-binary cyclists share a campsite near Hawkshead. Two days of cycling up and down big hills, and two days either side of those getting there and back. This is what finally did my right knee in, which was a surprise because it's normally my *left* knee that kicks up a fuss, and even then it has never done so because of cycling. 
 
-After hours of growing concern about the pain in it, towards the end of the first day I truly could not get any power through it at all, stopped at the side of the forestry track and had a little breakdown. Kara and some of the other riders kindly helped me get back on my bike for the crawl back to camp (which was, thankfully, mostly downhill), where the medic investigated and came to the same conclusion I had: inflammation somewhere in the joint caused by repetitive strain. Nothing broken, just angry. Perhaps my knee just wasn't used to doing so much work?
+[sitw]: https://sistersinthewild.com/
 
-On the second day, having rested well overnight, I took the shorter of the day's routes and went very slowly up the hills, doing my best not to aggravate the knee further. I quite enjoyed a slower pace anyway -- the Lakes and their surroundings are gorgeous scenery to take in. 
+Towards the end of the first day, after hours of growing concern about the pain in the knee, I truly could not get any power through it at all. I stopped at the side of the forestry track, dismounted ungracefully, and had a little breakdown. Kara and some of the other riders kindly helped me get back on my bike for the crawl back to camp (which was, thankfully, mostly downhill), where the medic investigated and came to the same conclusion I had: inflammation somewhere in the joint caused by repetitive strain. Nothing broken, just angry. Perhaps my knee just wasn't used to doing so much work?
+
+On the second day, well-rested and full of ibuprofen, I took the shorter of the day's routes and went very slowly up the hills, doing my best not to aggravate the knee further. I quite enjoyed a slower pace anyway -- the Lakes and their surroundings are gorgeous scenery to take in. 
 
 In spite of the knee issue this was one of my best weekends of the year and I'd love to do something similar in the future.
 
+![A photo of me striking a silly pose next to my bike while on the ferry across Lake Windermere.](/images/2025/01/2024-in-cycling/me-on-windermere.jpg "This shot is greatly elevated by the person in the background.")
+*Me being goofy on the ferry across Lake Windermere. It was wet but not too cold.*
+
 ### Innerleithen
 
-The third, and final, adventure took me to the Tweed Valley. This is a big mountain biking area, featuring the [Glentress](glentress) trails which occupy much of the hillside and are the focus of an entire local industry. Many people travel there every day to bomb down the courses on their MTBs, but we were there for more gravel cycling with members of the Edinburgh Queens of Pain bike club, sharing a nice lodge off the road between Peebles and Innerleithen.
+The third, and final, adventure took me to the Tweed Valley. This is a big mountain biking area, featuring the [Glentress](glentress) trails which occupy much of the hillside and are the focus of an entire local industry. Many people travel there every day to bomb down the courses on their MTBs, but we were there for more gravel cycling with members of the Edinburgh [Queens of Pain bike club](qop), sharing a nice lodge off the road between Peebles and Innerleithen.
 
 [glentress]: https://www.visitscotland.com/info/see-do/glentress-7stanes-p317561
+[qop]: https://www.instagram.com/queens.of.pain.cc/
 
-I had foolishly hoped that time and rest would have made my right knee better, but not far up the first ascent I realised it was starting to ache again. It wasn't a one-off injury, it was being caused by the bike. It was something to do with my riding posture. Nonetheless I had a lovely couple of days of cycling, managing to avoid hurting my knee as badly as I had in the Lake District by riding carefully. 
+I'd foolishly hoped that time and rest would have made my right knee better, but not far up the first ascent I realised it was starting to ache again. It wasn't a one-off injury; it was being caused by the bike, something to do with my riding posture. Nonetheless I had a lovely couple of days of cycling, managing to avoid hurting my knee as badly as I had in the Lake District by riding carefully. 
 
 Many thanks to the organisers of the club for a great weekend!
 
-Realising that I needed to address the knee issue I went in for a bike fitting at Biketrax, where we made some adjustments that overall have made the new bike more comfortable to ride[^4]. I'm not sure if the knee issue is 100% fixed however as I haven't done any really big rides with lots of climbing. I'll probably have to wait til Spring 2025 to find out.
+![A photo of a sunlit hillside forestry track with pine trees on either side and a blue sky above.](/images/2025/01/2024-in-cycling/tweed-valley-forestry-track.jpg)
+*One of many forestry tracks we rode along.*
 
-[^4]: It also means I now have a set of measurements to refer to if I ever get another bike.
+## The Perfidious Knee
+
+Realising that I needed to address the knee issue I went in for a bike fitting at Biketrax, where we made some adjustments, including to my SPD shoe cleats, that overall have made the new bike more comfortable to ride. It also means I now have a set of measurements to refer to if I ever get another bike. I'm not sure if the knee issue is 100% fixed as I haven't done any really big rides with lots of climbing -- I'll probably have to wait until Spring to find out.
+
+If there is one thing I wish I'd done differently this year, it's go for a fitting sooner!
+
+## Conclusion
 
 Overall my first year of recreational cycling has been a success, with lots of fun rides, beautiful scenery and learning experiences. I'm keen to go on more adventures in 2025.
