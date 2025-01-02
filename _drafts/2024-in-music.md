@@ -2,6 +2,7 @@
 title: 2024 in Music
 layout: post
 category: Music
+tags: [ Confidence Man, Magdalena Bay, Cassandra Jenkins, Book Club Radio ]
 ---
 
 Here are some things I enjoyed this year in the world of music:
