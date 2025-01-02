@@ -22,6 +22,7 @@ Mostly I hope to just follow the butterfly this year, as I'm happiest and most p
   - It's about time I played some full-size games of this silly old system. It won't take long to paint all the units I need to reach my target, as the models are very small. I just need to bite the bullet and place an order with a 3D printing place.
 - [ ] Scratch-build a fantasy tower out of a Pringles tube.
   - This is just one of those 'bucket list' king of things I gotta do before I die. 
+- [ ] Upload one hobby blog post each month of the year.
 
 Beyond those well-defined goals, I have other aspirations: 
 
