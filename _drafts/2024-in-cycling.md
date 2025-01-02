@@ -5,7 +5,7 @@ category: Cycling
 tags: [ Camping, Gravel Cycling, Bikepacking ]
 ---
 
-I did the most cycling I've ever done last year, and also camped for the first time since I was a child. 
+I did the most cycling I've ever done last year, and also camped for the first time since I was a child.
 
 ## Bike Get
 
@@ -27,6 +27,12 @@ I still have my old bike, which is a "hybrid", but not really, but sort of (my m
 
 I could now go for rides on rougher terrain, so I did. In April, as soon as the weather and day-length allowed, Kara took me out for a night of camping in the Pentlands. This was my first night in a tent since I was wee. I didn't sleep much! It was too bright, I couldn't get comfy, and my ears were attentively listening to everything outside the tent. In subsequent camping trips I managed to sleep, having invested in a blindfold, an inflatable pillow to go with my inflatable mattress, and as for my ears... that just took practice. I'm not an earplug enjoyer.
 
+The intersection of biking and camping is called 'bikepacking'. People are very nerdy (and, of course, tediously opinionated[^2]) about it. You can spend a lot of time -- and money -- optimizing the weight and ergonomics of what you're carrying on the bike's frame. I had a few stressful pre-adventure days this year attempting to pack everything I needed on the bike, trying to find the right bags, straps, and so on, before cramming as much as I could onto the frame.
+
+[^2]: By some definitions it's only 'bikepacking' if the bags are attached to the frame itself - pannier bags on a rack don't count. I reckon that idea can fuck right off.
+
+It's not a challenge I enjoy, so I'm grateful for the experience I've gained and equipment I've gathered while figuring it all out which will hopefully make things smoother in the future. 
+
 ### The John Muir Way
 
 My next excursion was a three-day ride along the John Muir Way from Helensburgh to Dunbar, also with Kara. We were originally planning to camp the first night on this one, but covered too much ground on the first day and by the time we started thinking about setting up camp we were already in the north-of-Glasgow sprawl that begins about Lennoxtown[^2], where everything is either farmland, parkland, someone's house or someone's garden. We got the train back to Edinburgh from Croy and stayed at mine that night instead, then went back out in the morning to continue the route[^3]. Leg two of our journey took us from there back to Edinburgh, via the Falkirk Wheel, South Queensferry, and a rather nervewracking trip up and down Corstorphine Hill. Day three took us from Edinburgh to Dunbar. Most of the route as far as North Berwick was familiar, but the rest was uncharted territory for me. East Lothian a bit boring, but the route took us past some wee points of interest -- not that we were in any mood to stop and investigate them, being hours from completing the ride!
@@ -36,19 +42,21 @@ My next excursion was a three-day ride along the John Muir Way from Helensburgh 
 
 ### Sisters in the Wild
 
-My third bike adventure took me to the Lake District to attend the Sisters in the Wild Summer Gathering, in which a hundred or so women and non-binary cyclists shared a campsite near Hawkshead. Two days of cycling up and down big hills, and two days either side of getting there and back. This is what finally did my right knee in. 
+My third bike adventure took me to the Lake District to attend the Sisters in the Wild Summer Gathering, in which a hundred or so women and non-binary cyclists shared a campsite near Hawkshead. Two days of cycling up and down big hills, and two days either side of getting there and back. This is what finally did my right knee in. This was a surprise because it's normally my *left* knee that kicks up a fuss, and even then it has never done so because of cycling. 
 
-After hours of growing concern about the pain in it, towards the end of the first day I truly could not get any power through it at all, stopped at the side of the forestry track and cried. Kara and some of the other riders kindly helped me get back on my bike for the crawl back to camp, where the medic investigated and came to the same conclusion I had: inflammation somewhere in the joint caused by repetitive strain. Perhaps my knee just wasn't used to doing so much work?
+After hours of growing concern about the pain in it, towards the end of the first day I truly could not get any power through it at all, stopped at the side of the forestry track and had a little breakdown. Kara and some of the other riders kindly helped me get back on my bike for the crawl back to camp (which was, thankfully, mostly downhill), where the medic investigated and came to the same conclusion I had: inflammation somewhere in the joint caused by repetitive strain. Nothing broken, just angry. Perhaps my knee just wasn't used to doing so much work?
 
 On the second day, having rested well overnight, I took the shorter of the day's routes and went very slowly up the hills, doing my best not to aggravate the knee further. I quite enjoyed a slower pace anyway -- the Lakes and their surroundings are gorgeous scenery to take in. 
 
-In spite of the knee issue this was one of my best weekends of the year. 
+In spite of the knee issue this was one of my best weekends of the year and I'd love to do something similar in the future.
 
 ### Innerleithen
 
-The third, and final, adventure took me to the Tweed Valley. This is a big mountain biking area, featuring the Glentress trails which occupy much of the hillside and are the focus of an entire local industry. Many people travel there every day to bomb down the courses on their MTBs, but we were there for more gravel cycling with members of the Edinburgh Queens of Pain bike club, sharing a nice lodge off the road between Peebles and Innerleithen.
+The third, and final, adventure took me to the Tweed Valley. This is a big mountain biking area, featuring the [Glentress](glentress) trails which occupy much of the hillside and are the focus of an entire local industry. Many people travel there every day to bomb down the courses on their MTBs, but we were there for more gravel cycling with members of the Edinburgh Queens of Pain bike club, sharing a nice lodge off the road between Peebles and Innerleithen.
 
-I had foolishly hoped that time and rest would have made my right knee better, but part of the way up the first ascent I realised it was starting to ache again. It wasn't a one-off injury, it was being caused by the bike. It was something to do with my riding posture. Nonetheless I had a lovely couple of days of cycling, managing to avoid hurting my knee as badly as I had in the Lake District by riding carefully. 
+[glentress]: https://www.visitscotland.com/info/see-do/glentress-7stanes-p317561
+
+I had foolishly hoped that time and rest would have made my right knee better, but not far up the first ascent I realised it was starting to ache again. It wasn't a one-off injury, it was being caused by the bike. It was something to do with my riding posture. Nonetheless I had a lovely couple of days of cycling, managing to avoid hurting my knee as badly as I had in the Lake District by riding carefully. 
 
 Many thanks to the organisers of the club for a great weekend!
 
@@ -57,5 +65,3 @@ Realising that I needed to address the knee issue I went in for a bike fitting a
 [^4]: It also means I now have a set of measurements to refer to if I ever get another bike.
 
 Overall my first year of recreational cycling has been a success, with lots of fun rides, beautiful scenery and learning experiences. I'm keen to go on more adventures in 2025.
-
-(I have forgotten to mention that strapping your camping gear to a bicycle is called "bikepacking" and seems to be a whole field in itself.)
