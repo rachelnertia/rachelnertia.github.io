@@ -17,11 +17,11 @@ I'll allow myself to share one pick from the album: REAL MOVE TOUCH.
 
 Banger.
 
-I was happy to confirm that they're still an excellent live act when I saw them for my third time in November at the wonderful Barrowland Ballroom in Glasgow, where they played a mix of new and old stuff. An absolute highlight of my year (despite being on a Sunday evening!).
+I was happy to confirm that they're still an excellent live act when I saw them for my third time in November at the wonderful Barrowland Ballroom in Glasgow, where they played a mix of new and old stuff. That was an absolute highlight of my year, despite being on a Sunday evening.
 
 ## Imaginal Disk
 
-The YouTube recommendation algorithm delivered hard on this one -- enchanting, starlight-saturated synthpop from American duo Magdalena Bay (Mica Tenenbaum and Matthew Lewin) -- and I've been listening to it start to finish weekly ever since.
+The YouTube recommendation algorithm delivered hard on this enchanting, starlight-saturated synthpop from American duo Magdalena Bay (Mica Tenenbaum and Matthew Lewin), and I've been listening to it start to finish weekly ever since.
 
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/OPe7tn_Hju4?si=ICdcV02S760_E_Iw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -33,10 +33,10 @@ New York singer-songwriter Cassandra Jenkins caught my interest a couple years a
 
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/K_O8zuijpBY?si=L1JkRla0FXc4wcAX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-The same weekend I went to see ConMan I also went to see Jenkins in Glasgow for a delightful Friday gig.
+I saw Jenkins in Glasgow for a delightful Friday performance in November, the same weekend I went to see ConMan. That was a busy week for gigs as I also attended a metal gig on the following Tuesday 😵‍💫
 
 ## Book Club Radio
 
-Finally, I've been continuing to enjoy the DJ sets performed by Tinzo and Jojo Lorenzo on their [YouTube channel](https://www.youtube.com/@bookclubradio). It's not likely they'll ever be in my area, but if they do I'll be windmill-slamming the buy button on those tickets before you can say "no phones on the dance floor".
+Finally, I'm not sure if I discovered them in 2024 or 2023, but I've been continuing to enjoy the DJ sets shared by Tinzo and Jojo Lorenzo on their [channel](https://www.youtube.com/@bookclubradio). It's not likely they'll ever be in my area, but if they do I'll be windmill-slamming the buy button on those tickets before you can say "no phones on the dance floor".
 
 <iframe width="100%" height="415" src="https://www.youtube.com/embed/ZiDqlUSf0tE?si=XZFJjAzmX0O4Oia6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
