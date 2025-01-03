@@ -6,7 +6,7 @@ tages: [ Warhammer, Age of Sigmar, Warhammer Underworlds, Kings of War, Magewind
 ---
 
 ![](/images/2024/04/hobby/tactical-fireteam.jpg)
-*A personal milestone: my first ever Space Marines, documented [here]({% post_url 2024/2024-04-11-marines-errant %})*
+*A personal milestone: my [first ever Space Marines]({% post_url 2024/2024-04-11-marines-errant %}).*
 
 2024 was a busy year for me in the world of miniature wargaming. I can't write about everything, but there are some things I want to call out before they slide out of memory forever, like posts in main.
 
@@ -18,33 +18,65 @@ tages: [ Warhammer, Age of Sigmar, Warhammer Underworlds, Kings of War, Magewind
 
 I [wrote about this]({% post_url 2024/2024-02-03-a-fools-trove-in-ulfenkarn %}), so I shant repeat myself here. TL;DR: A day of *Warcry* in January with three other players at my flat. 
 
-## Sheffield
-
-[Baccus](baccus)
-
-[baccus]: https://www.baccus6mm.com/
-
 ## Warhammer World
 
 ![](/images/2025/01/2024-in-hobby/warhammer-world.jpg)
+
+I went to Warhammer World for the first time for a Rollmodels meetup. It's a cool place I've wanted to visit since I was a kid, with a big shop, large gaming hall, nice restaurant and fascinating exhibition. I played my first ever game of *Middle Earth Strategy Battle Game* while there, which was neat. I'm keen to return.
+
+I also got to visit the King Billy pub in Nottingham, so that was two bucket list items in one weekend.
 
 ## Age of Sigmar, Fourth Edition
 
 ![](/images/2025/01/2024-in-hobby/angry-stormcast.jpg)
 
-*AoS* has never been this good. There are so many improvements I'd go mad trying to list them all here, from small quality-of-life upgrades like renaming Wounds to Health, to sweeping structural changes like recontextualising things players and models can do as capital-A Abilities. It's a massive step up. The new Spearhead game mode is a great addition, providing both a great entry point to the system and a way to get a quick fix of *AoS* on a busy timetable. 4th Edition has provided me with some of my favourite games of *AoS* already, and I'm keen to give it more opportunities to do so.
+*AoS* has never been this good. There are so many improvements I'd go mad trying to list them all here, from small quality-of-life upgrades like renaming Wounds to Health, to sweeping structural changes like recontextualising things players and models can do as capital-A Abilities. It's a massive step up. The new Spearhead game mode is a great addition, providing both an entry point to the system and a way to get a quick fix on a busy timetable. 4th Edition has provided me with some of my favourite games of *AoS* already, and I'm keen to give it more opportunities to do so.
 
-The world isn't perfect, of course. I'm still malding about the removal of Beasts of Chaos from the game -- I'm mad at the decision *and* how it was handled. I'm a bit anxious about what will happen to Cities of Sigmar this edition (will my dark aelves be squatted?) and would like answers soon even if they aren't answers I'm gonna like! I find the current iteration of manifestations fun but clunky. Spearhead is great, but there's still a missing link between it and full-fat 2000-point games I'd like to see them build. And I resent the end of free Warscrolls as Battletomes come out. In fact I resent the Battletome model generally and would like to see it evolve into something better rather than another 3 years of churn. 
+The world isn't perfect, of course. I'm still malding about the removal of Beasts of Chaos from the game -- I'm mad at the decision *and* how it was handled. I'm a bit anxious about what will happen to Cities of Sigmar this edition (Will my dark aelves be squatted? Will Cities become a humans-only faction?) and would like answers soon even if they aren't answers I'm gonna like! I find the current iteration of manifestations fun but clunky. Spearhead is great, but there's still a missing link between it and full-fat 2000-point games I'd like to see them build. And I resent the end of free Warscrolls as Battletomes come out. In fact I resent the Battletome model generally and would like to see it evolve into something better -- please, not another 3 years of churn 😩 
 
 Anyway. Good game.
+
+## Sheffield
+
+![](/images/2025/01/2024-in-hobby/6mm-mold.jpg)
+*A silicon mould used for spin-casting 6mm soldiers at Baccus Miniatures in Sheffield.*
+
+In July we visited friends in Sheffield to attend the Baccus Miniatures open day. [Baccus](baccus) are a tiny company based in Sheffield who specialise in producing models for 6mm-scale wargaming. Once a year they hold an open day where they give visitors a tour of their studio and workshop. We heard the story of Baccus' humble origins, saw how new models are designed and developed, gazed upon the racks of moulds, and received a slightly terrifying demonstration of the casting process[^1].
+
+[baccus]: https://www.baccus6mm.com/
+
+[^1]: I have decided molten metal is Not For Me.
+
+Baccus helps to run a local convention for 6mm wargaming called [The Joy of Six](six) on the same weekend, held at one of the city's universities. Across several large rooms were distributed dozens of demo games for different systems, epic playable dioramas (such as one of the Normandy landings spanning 4 or more long tables), and shops. I mostly just gawped at things, but I did buy a tiny elephant as a gift. Kara picked up a copy of [Emu War](emu) and played [Ogre](ogre).
+
+[six]: http://www.joysofsix.co.uk/
+[emu]: https://www.2d6wargaming.com/products/emu-war
+[ogre]: https://www.sjgames.com/ogre/
+
+While in Sheffield we also visited [The Outpost](outpost), a charming and well-run hobby and gaming shop, where we played some of the new edition of *Age of Sigmar* while a *Blood Bowl* tournament raged in the background. 
+
+Many thanks to [Roxin](https://bsky.app/profile/archaeonick.bsky.social) and his partner for letting Kara and I stay with them for the weekend ❤️
+
+## Leeds
+
+![](/images/2025/01/2024-in-hobby/tank-v-stonehorn.jpg)
+*Essentricia Geartong, in her Steam Tank 'Contrivance', battling Caelyn's Stonehorn. It didn't go well.*
+
+Another Rollmodels meetup took me to Leeds Wargaming Club, who are lucky enough to have their own entire building dedicated to them. I exclusively played the new edition of *AoS*, taking my Cities of Sigmar army for a very enjoyable spin. 
+
+I am envious of the wargaming club. In Edinburgh we have to do all our wargaming in a few shoebox-sized venues which are also used for other things.
 
 ## Kings of War
 
 ![](/images/2025/01/2024-in-hobby/kings-of-war.jpg)
 
-Early in the year I was added to the email chain (boomer communication medium alert!) for a local *KoW* escalation group. I met up with others from the group throughout the year at SESWC (South East Scotland Wargaming Club), returning each time with more Ogres. 
+Early in the year I was added to the email chain (boomer communication medium alert!) for a local *Kings of War* escalation group. I met up with others from the group throughout the year at [SESWC (South East Scotland Wargaming Club)](seswc), returning each time with more Ogres. 
 
-*Kings of War* is my favourite rank and flank game and it'll be difficult for anything to shift it from its place on the podium. So smooth and streamlined are its rules that I can play multiple games of it in one sitting without absolutely frying my brain, which is unusual for a mass battle game. I could definitely be tempted to a competitive *KoW* event.
+[seswc]: https://seswc.co.uk/
+
+[*Kings of War*](kow) is my favourite rank and flank game and it'll be difficult for anything to shift it from its place on the podium. So smooth and streamlined are its rules that I can play multiple games of it in one sitting without absolutely frying my brain, which is unusual for a mass battle game. I could definitely be tempted to a competitive *KoW* event.
+
+[kow]: https://www.manticgames.com/kings-of-war/?wmc-currency=GBP
 
 I didn't reach my goal of 2000 points of Ogres, sadly -- my hobby productivity fell off a cliff in the back half of the year.
 
@@ -54,29 +86,30 @@ I didn't reach my goal of 2000 points of Ogres, sadly -- my hobby productivity f
 
 The reason my hobby productivity fell off a cliff in the back half of the year is that I was preparing for the *Magewinds* Meetup I'd arranged in November, and that was sucking up all my creative time and energy. 
 
-I accomplished a lot, updating the rules, coding a system to automate producing new versions in printable PDF format as well as web format, and (right at the end, in a mad rush) painting up models to use. 
+I accomplished a lot, updating the rules, coding a system to automate producing new versions in printable PDF format, and (right at the end, in a mad rush) painting up models to use. 
 
 Nonetheless I felt well behind where I wanted to be -- but I have accepted that I always will feel that way about creative projects I embark on in my spare time. I work a full-time job that demands a lot from my brain and, outside of that, have responsibilities and interests that mean I can't devote everything left over to a thing as big as *Magewinds*. I just gotta be happy making do.
 
-And I am, in fact, very happy! The *Magewinds* Meetup was one of my favourite weekends of the year. I wrote about the gaming side of it [on the *Magewinds* blog](mwm), but that post doesn't mention the joy of having my home full of some of my best friends, sharing food with them, and visiting [Marionville Models](marionville) as a big group[^1].
+And I am, in fact, very happy! The *Magewinds* Meetup was one of my favourite weekends of the year. I wrote about the gaming side of it [on the *Magewinds* blog](mwm), but that post doesn't mention the joy of having my home full of some of my best friends, sharing food with them, and visiting [Marionville Models](marionville) as a big group[^2].
 
 [mwm]: https://www.magewinds.com/blog/2024/11/30/magewinds-meetup-post-mortem/
 [marionville]: https://www.marionvillemodels.com/
 
-[^1]: Where Rich very kindly gifted me the just-released *Warhammer Underworlds: Embergard* as a birthday present! 
+[^2]: Where [Rich](https://bsky.app/profile/richn.bsky.social) very kindly gifted me the just-released *Warhammer Underworlds: Embergard* as a birthday present! 
 
-I'm sure I'll have warm fuzzy feelings about the Magewinds Meetup for a long time to come.
+I'm sure I'll have warm fuzzy feelings about the *Magewinds* Meetup for a long time to come.
 
 ## Warhammer Underworlds
 
-I think the design studio at Games Workshop have done a stellar job refreshing *Underworlds*. The rules are greatly improved but still capture my imagination just like they did back when I played it in the Before Times. More importantly it's now a much more accessible product. I mean people can get into it and keep up with it without buying everything. I'm strongly considering getting the local *Underworlds* group back up and running...
+![Three partially-painted Stormcast Eternals.](/images/2025/01/2024-in-hobby/emberwatch.jpg)
+*The Emberwatch, the latest Stormcast Eternals warband for Underworlds, on my painting desk.* 
+
+I think the design studio at Games Workshop have done a stellar job refreshing *Underworlds*. The rules are greatly improved but still capture my imagination just like they did back when I played it in the Before Times. More importantly it's now a much more accessible product -- people can get into it and keep up with it without buying everything. I'm strongly considering getting the local *Underworlds* group back up and running...
 
 ## Tiny Plastic People
 
-I continued to appear on the [Tiny Plastic People Podcast](https://shows.acast.com/tinyplasicpeople). It's a privilege to get to ramble about whatever I'm hobbying (and say 'um' a lot).
+I continued to appear on the [Tiny Plastic People Podcast](https://shows.acast.com/tinyplasicpeople). It's a privilege to get to ramble about whatever I've been hobbying on recently (and say 'um' a lot).
 
 ## Closing Thoughts
 
 This hobby continues to absorb me to such an extent that I doubt I shall ever escape its grasp. I can't complain -- it's rewarded me with creative satisfaction, moments of gaming joy and flourishing friendships. 
-
-Looking back at my hobby plans for 2024, I'm glad
