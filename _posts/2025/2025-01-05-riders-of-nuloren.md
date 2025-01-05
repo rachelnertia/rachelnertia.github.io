@@ -28,7 +28,7 @@ I used transfers on the banner. I don't recall ever having used a transfer befor
 
 ![](/images/2025/01/riders-of-nuloren/dark-rider-banner.jpg)
 
-> Any enemies of Nuloren foolish enough to invade the Vardenfold in small numbers soon find themselves ambushed by of the city's Dark Rider patrols. These shadowy aelves strike with spear, blade and repeater crossbow from atop their black steeds, arriving and departing in a storm of silence broken only by the rustle of leaves falling in the patrol's wake. When called to battle, the Dark Riders act as scouts and outriders, protecting the army's flanks and harrying those of the enemy.
+> Any enemies of Nuloren foolish enough to invade the Vardenfold in small numbers soon find themselves ambushed by one of the city's Dark Rider patrols. These shadowy aelves strike with spear, blade and repeater crossbow from atop their black steeds, arriving and departing in a storm of silence broken only by the rustle of leaves falling in the patrol's wake. When called to battle, the Dark Riders act as scouts and outriders, protecting the army's flanks and harrying those of the enemy.
 
 ## Glade Riders
 
