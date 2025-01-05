@@ -8,6 +8,8 @@ comments: true
 
 Slowly, but surely, the army of Nuloren (my personal City of Sigmar) is growing. The latest addition are two units of light aelf cavalry, Shadowblade Dark Riders and Wanderer Glade Riders, the latter of which are a perfect proxy for the former.
 
+<!--more-->
+
 I had both built, primed and on the battlefield for a while before I got around to painting them. I don't normally play with unpainted models, but as my hobby output slows it is becoming more common.
 
 I painted the Dark Riders first.
