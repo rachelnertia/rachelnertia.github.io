@@ -54,6 +54,6 @@ As I mentioned at the beginning, the Glade Riders will be run as an additional u
 
 ![](/images/2025/01/riders-of-nuloren/sow-havoc.png)
 
-You can't plan on it going off, but likewise, you're opponent can't plan on it *not* going off -- if they fail to wipe the unit there's a 2/3 chance it'll do some mortal wounds and fuck off into their back line, where it will begin stealing objectives and scoring battle tactics. Extremely fun, and powerful.
+You can't plan on it going off, but likewise, your opponent can't plan on it *not* going off -- if they fail to wipe the unit there's a 2/3 chance it'll do some mortal wounds and fuck off into their back line, where it will begin stealing objectives and scoring battle tactics. Extremely fun and powerful.
 
 I have been daydreaming about picking up some Ellyrian Reavers, the High Elf cavalry archers, for even more havoc 😈
