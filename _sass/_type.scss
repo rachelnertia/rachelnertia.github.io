@@ -47,6 +47,10 @@ ul, ol, dl {
   list-style-position: outside; // Bullets separate from list item text.
 }
 
+.task-list-item {
+  list-style: none;
+}
+
 ol {
   margin-top: 0;
   margin-bottom: 1rem;
