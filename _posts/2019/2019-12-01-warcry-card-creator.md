@@ -12,7 +12,7 @@ I have been working on a little tool for making fighter cards for Warcry, GW's n
 
 Here is an example card I made for Grashrak:
 
-![](images/warcry-card-creator-example.png)
+![](/images/warcry-card-creator-example.png)
 
 There's still a bit of work to do.
 
