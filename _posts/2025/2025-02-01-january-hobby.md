@@ -2,6 +2,7 @@
 title: January Hobby
 layout: post
 category: Hobby
+tags: [ Warhammer, Age of Sigmar, Underworlds, Warcry, Warmaster, Magewinds ]
 ---
 
 In January I didn't do very much hobby or gaming for a very good reason -- a trip to Paris for non-holiday reasons. I may write about that in another post, because it was quite an experience, but for now I'd like to catch up on some blogging about what I did accomplish creatively in the past month.
@@ -22,7 +23,7 @@ I can provide photos of neither of these games because we are strictly no-photog
 
 ## Models Finished: 11
 
-`TODO: Photo`
+`TODO: Photos`
 
 I was in a bit of a hurry to get some painting done before the Paris trip so I bashed out quite a few things.
 
