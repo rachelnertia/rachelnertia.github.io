@@ -5,7 +5,7 @@ category: Hobby
 tags: [ Warhammer, Age of Sigmar, Underworlds, Warcry, Warmaster, Magewinds ]
 ---
 
-In January I didn't do very much hobby or gaming for a very good reason -- a trip to Paris for non-holiday reasons. I may write about that in another post, because it was quite an experience, but for now I'd like to catch up on some blogging about what I did accomplish creatively in the past month.
+In January I didn't do much hobby or gaming for a very good reason -- a trip to Paris for non-holiday purposes. I may write about that in another post, because it was quite an experience, but for now I'd like to catch up on some blogging about what I managed to accomplish creatively in spite of the disruption.
 
 <!--more-->
 
