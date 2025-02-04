@@ -5,7 +5,7 @@ category: Hobby
 tags: [ Warhammer, Age of Sigmar, Underworlds, Warcry, Warmaster, Magewinds ]
 ---
 
-In January I didn't do much hobby or gaming for a very good reason -- a trip to Paris for non-holiday purposes. I may write about that in another post, because it was quite an experience, but for now I'd like to catch up on some blogging about what I managed to accomplish creatively in spite of the disruption.
+In January I didn't do much hobby or gaming for a very good reason: a trip to Paris for non-holiday purposes. I may write about that in another post, as it was quite an experience, but for now I'd like to catch up on some blogging about what I managed to accomplish creatively in spite of the disruption.
 
 <!--more-->
 
@@ -23,8 +23,6 @@ I can provide photos of neither of these games because we are strictly no-photog
 
 ## Models Finished: 11
 
-`TODO: Photos`
-
 I was in a bit of a hurry to get some painting done before the Paris trip so I bashed out quite a few things.
 
 |      Project       | Number of Models |
@@ -34,11 +32,19 @@ I was in a bit of a hurry to get some painting done before the Paris trip so I b
 | Rockgut Troggoths  |        3         |
 |      Loonboss      |        1         |
 
+`TODO: Take a good photo of the Knights.`
+
 I began the year by quickly painting up 4 Drakespawn Knights. I then spent a little bit of time touching up my already-painted Drakespawn, of which there were 15 (one of them being a Dreadlord on Cold One who will be used as a champion of these 4). I doubt I'll ever run 20 Drakespawn Knights, but it's good to have the option.
 
-Next I felt like painting Stormcast Eternals so I grabbed the new warband from the latest Warhammer Underworlds box and got to work. I very much enjoyed painting these as I always enjoy painting Stormcast. It's fun to iterate on how I paint them -- some of my first painted models were Stormcast and so you can see a lot of evolution across the range I've painted over the years. Looking back at them I'm not sure I quite made the right colour choice on their furry shoulder bits. Perhaps I'll go back to those.
+![A photo showing three Stormcast Eternals.](/images/2025/02/january-hobby/emberwatch.jpg)
+
+Next I felt like painting Stormcast Eternals so I grabbed the new warband from the latest Warhammer Underworlds box and got to work. I very much enjoyed painting these as I always enjoy painting Stormcast. It's fun to iterate on how I paint them -- some of my first painted models were Stormcast and so you can see a lot of evolution across the range I've painted over the years. Looking back at them I'm not sure I quite made the right colour choice on their furry shoulder bits. Perhaps I'll go back to those. I'm also not sure about Ardorn's face, but maybe he's meant to be kinda ugly.
+
+![A photo showing three Rockgut Troggoths.](/images/2025/02/january-hobby/troggs.jpg)
 
 The Rockgut Troggoths have been waiting to be painted for *ages*. I originally wanted to make them all mossy, but opted for a quicker scheme instead. I'll do my second unit all mossy like. I'm very pleased with them anyway.
+
+![A photo showing a Loonboss standing atop some bioluminescent mushrooms.](/images/2025/02/january-hobby/loonboss.jpg)
 
 The Loonboss came out really well with some delightfully simple object source lighting (OSL) on the mushrooms on his base.
 
@@ -46,7 +52,7 @@ I'll hopefully circle back and write some more about how I painted these miniatu
 
 ## Purchases
 
-`TODO: Photo of the Fleetmaster`
+![A photo showing an assembled, but unpainted, Black Ark Fleetmaster. They have wicked hair.](/images/2025/02/january-hobby/fleetmaster.jpg)
 
 |       Purchase        |    Number of Models     |
 | :-------------------: | :---------------------: |
@@ -58,7 +64,7 @@ Having decided on some [hobby goals]({% post_url 2025/2025-01-04-2025-hobby-goal
 
 ## Works in Progress
 
-`TODO: Photos`
+![A photo showing a partially-painted Guardian for Magewinds, a mage with a glowy shield.](/images/2025/02/january-hobby/guardian.jpg)
 
 I have a half-painted Guardian on my desk, for Magewinds. They are a kitbash of a few North Star kits. After they're done I have a few more Magewinds models I'm hoping to paint up.
 
