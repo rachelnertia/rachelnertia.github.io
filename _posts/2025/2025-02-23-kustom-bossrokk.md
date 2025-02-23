@@ -50,6 +50,6 @@ I continued building up the head by adding more chunks of foam, adding texture t
 Finally, I gave the whole thing a coat of Mod Podge mixed with black paint -- my universal way of priming terrain. It's tough as hell.
 
 <img src="/images/2025/02/kustom-bossrokk/finished-front.jpg" width="49%" style="display:inline;">
-<img src="/images/2025/02/kustom-bossrokk/finished-side.jpg" width="50%" style="display:inline;">
+<img src="/images/2025/02/kustom-bossrokk/finished-side.jpg" width="49%" style="display:inline;">
 
 Before sending it off, I made a little [note](/images/2025/02/kustom-bossrokk/note.jpg) to go with the gift. When Rich paints up his Kustom Bossrokk I shall share his photos here.
