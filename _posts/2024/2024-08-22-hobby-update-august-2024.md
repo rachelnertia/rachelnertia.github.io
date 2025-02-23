@@ -41,4 +41,4 @@ Anyway, I'd better get back to it. I hope your hobby journey is going well!
 It's off topic, but I must share this nice picture I took of the River Findhorn while cycling near my aunt's house at the weekend:
 
 ![](/images/2024/08/river-findhorn.jpg)
-*One of the river's banks, viewed from high above upon Daltullich Bridge. The river has that delicious-looking coca-cola colour characteristic of Highland watercourses.
+*One of the river's banks, viewed from high above upon Daltullich Bridge. The river has that delicious-looking coca-cola colour characteristic of Highland watercourses.*
