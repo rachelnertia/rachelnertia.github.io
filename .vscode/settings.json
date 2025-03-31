@@ -8,9 +8,12 @@
         "colour",
         "Drakespawn",
         "Dreadlord",
+        "Droggz",
         "elven",
+        "Emberstone",
         "Emberwatch",
         "Fleetmaster",
+        "Freeguild",
         "Gitmob",
         "Gitz",
         "Gloomspite",
@@ -31,12 +34,15 @@
         "Sigmar",
         "Stormcast",
         "subfaction",
+        "Sunchompa",
         "teef",
         "Troggoths",
         "warband",
         "Warclans",
         "Warcrier",
         "Warhammer",
-        "Warmaster"
+        "Warmaster",
+        "Warpriest",
+        "Wildercorps"
     ]
 }
