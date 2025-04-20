@@ -50,6 +50,10 @@ I painted three models for Magewinds, pictured above. Left: a Wizard? Middle: a 
 
 The Emberstone Clusters were hastily made for the Path to Glory campaign. They are made of foam, cork and sand. They deserve a little more love (even just painting the rims of the bases...) but they look good enough to play with.
 
+**EDIT(20/04/25):** I forgot to mention the scaled-down Dark Fantastic Mills crab hut that I painted as part of a joint experiment with Kara. She shrunk down (to 10mm-ish scale) the STLs and printed off two huts in FDM, which we each took one of. Mine is the one on the left, in a moody, mossy style. Hers is the one on the right, in a punchy high-contrast scheme which she doesn't normally go for -- I hope she paints more minis like this!
+
+![Two small medieval houses with roofs made from the sells of giant horseshoe crabs.](/images/2025/03/march-hobby/crab-houses.jpg)
+
 ## Acquisitions
 
 - **Droggz da Sunchompa**
