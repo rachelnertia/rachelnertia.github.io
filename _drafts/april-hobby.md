@@ -19,7 +19,7 @@ This month contained a trip to [Salute](https://southlondonwarlords.co.uk/what-i
 | Kings of War: Champions |   1   |
 |      Age of Sigmar      |   3   |
 
-I had another game of Warcry in the office with my Wildercorps Hunters, in which I managed to eke out a jammy victory at the end.
+I had another game of Warcry in the office with my Wildercorps Hunters, in which I managed to eke out a jammy victory at the end with some cheeky canine maneuvers.
 
 At Salute, Kara and I played a quick demo game of [Kings of War: Champions](https://www.manticgames.com/kings-of-war-champions/), the new Spearhead-equivalent for Mantic's rank-and-flank game. It seems pretty good, but I think I'll hold off on buying any Champions stuff until the Ogre and Trident Realms companies are released. The Ogres because I already have an Ogre army and I'll be able to add the Champions stuff to it, and the Trident Realms because their Champion is a very cute axolotl character.
 
@@ -47,11 +47,12 @@ I'm thoroughly enjoying Ravaged Coast so far -- it isn't perfect (we're not sure
 - **Salute Napoleonic British Soldier Guy**
 - **Wizard** with Orb and Owl, by Black Scorpion Miniatures
 - **Ogre Berzerker Bully** and **Boomer Sergeant**
-- **Maleneth Witchblade**
+- **Maleneth Witchblade**. This is a "Commemorative Series" miniature based on a Black Library character introduced in the new Gotrek series. She was fairly cheap in Games Hub and packaged in an adorably tiny box. I couldn't say no! I've really enjoyed the character in her Black Library outings so far and am excited to paint her up. Perhaps while listening to her first standalone novel at the same time...
 
 ## Works in Progress
 
 - **Warmaster Wood Elves**
 
+I'm away for 6 days at the beginning of May and I'll be absolutely gaggin to do some hobby when I return. Fortunately I (as always) have plenty lined up in the form of 10mm Forest Dragon Wood Elves, printed very nicely by Mighty Minis UK and my friend Rich. I'm going to start with the most exciting model -- the Forest Dragon, ridden by the Sisters of Twilight -- before moving onto the low-hanging fruit: the forest spirits, who I've already done 75% of the work on by airbrushing them brown.
 
-I am away for 6 days at the beginning of May so I 
+![](/images/2025/04/april-hobby/dragon.jpg)
