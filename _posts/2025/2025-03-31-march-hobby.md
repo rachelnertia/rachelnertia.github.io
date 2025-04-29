@@ -2,7 +2,7 @@
 title: March Hobby
 layout: post
 category: Hobby
-tags: []
+tags: [ Magewinds, Warhammer, Age of Sigmar, Warcry, Gloomspite Gitz, Cities of Sigmar ]
 comments: true
 ---
 
