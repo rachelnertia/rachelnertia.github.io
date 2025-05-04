@@ -98,4 +98,8 @@ I'm away for 6 days at the beginning of May and I'll be absolutely gaggin to do 
 
 Onwards, to May!
 
+## Addendum (4/5/25): Salute
+
+Salute was an interesting experience but not a great one. If I hadn't happened to be in London on the day of it I wouldn't have gone, and I don't think I'll go again unless a similar coincidence occurs. There were so many cool games, artists, designers, publishers, crafters, etc. all on display, selling their wares, running demos; all bustling. On the one hand, this was great to see. The industry is thriving! On the other hand, the noisiness and crowdedness of it all was hard to bear, and to top it off the lighting was abysmal -- not what you want for a day of peering at tiny objects! Conventions like Salute will always be like this for me, I suppose: diversions best kept short and sweet, rather than full-day events. These frustrations didn't matter anyway, because really I was there to spend time with friends, which I did to my great enjoyment.
+
 [^1]: I regret that immediately after taking this photo some paint chipped off her knife 😩 Metal models, eh?
