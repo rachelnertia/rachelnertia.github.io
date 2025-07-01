@@ -16,7 +16,7 @@ June was a very productive hobby month, featuring plenty of elfs.
 
 ## News
 
-Para Bellum announced that the [Weaver Courts](https://www.para-bellum.com/weaver-courts/) are coming to *Conquest*. This put me on notice that at some point in the next few months all other hobby projects will have to stand aside to make way for big bug-plant-elf hybrid models, so I've been carefully about how I want to spend the intervening hobby time. I can't wait for PB to reveal more.
+Para Bellum announced that the [Weaver Courts](https://www.para-bellum.com/weaver-courts/) are coming to *Conquest*. This put me on notice that at some point in the next few months all other hobby projects will have to stand aside to make way for big bug-plant-elf hybrid models, so I've been thinking carefully about how I want to spend the intervening hobby time. I can't wait for PB to reveal more.
 
 ## Games Played: 3
 
@@ -74,7 +74,7 @@ Looking at him now, I'm still not happy with the banner. I shall have to revisit
 
 ## Acquisitions
 
-I didn't get any new models this month (😇), but I picked up the new General's Handbook for *Age of Sigmar*, along with the new Spearhead battleback, *Sand and Bone*. They both seem good, and I'm itching to get stuck into them in July. Itching so much, in fact, that I've signed up for a Spearhead tournament at the end of the month. I hope I can get some practice before then!
+I didn't get any new models this month (😇)[^1], but I picked up the new General's Handbook for *Age of Sigmar*, along with the new Spearhead battleback, *Sand and Bone*. They both seem good, and I'm itching to get stuck into them in July. Itching so much, in fact, that I've signed up for a Spearhead tournament at the end of the month. I hope I can get some practice before then!
 
 ## Works in Progress
 
@@ -85,3 +85,5 @@ Right now I have 10 dark aelf **Bleakswords** on the go, reinforcements for Nulo
 It's quite possible I'll end up spending all my hobby time in July painting dark elves.
 
 I've also managed to get my Magewinds mojo back and am working on [an update](https://www.magewinds.com/blog/2025/06/11/magewinds-in-2025/).
+
+[^1]: With the exception of the terrain that comes with *Sand and Bone*.
