@@ -16,6 +16,8 @@ I feel like I did lots of hobby this month but I don't have much to show for it.
 
 This month I played my first game of the new General's Handbook for Age of Sigmar, and Spearhead. Lots of Spearhead.
 
+The GHB game went in my favour. I was able to fairly effectively swarm the Tzeentch castle, preventing them from scoring very much and wiping them out in Round 3. I've found my Spiderfang models to be decent enough in Path to Glory, but is it possible that they're actually okay in matched play too?
+
 ![](/images/2025/07/hobby/gitz-v-tzeentch.jpg)
 
 The day after we returned from [Arran]({% post_url 2025/2025-07-25-arran %}) I played a practice game against Callum's Seraphon.
