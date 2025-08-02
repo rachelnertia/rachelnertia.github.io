@@ -2,7 +2,7 @@
 title: Hammerhal Spearhead Tournament, Livingston, 27th July
 layout: post
 category: Gaming
-tags: [ Age of Sigmar, Spearhead, Stormcast Eternals, West Calder Wargames ]
+tags: [ Age of Sigmar, Spearhead, Stormcast Eternals, West Calder Wargamers ]
 ---
 
 ![](/images/2025/07/hobby/tournament-poster.png)
@@ -80,4 +80,4 @@ During the awards ceremony it turned out my army had been voted Best Painted! Wh
 ![](/images/2025/07/hobby/best-painted.jpg)
 *I hope this doesn't awaken anything in me...*
 
-All in all I had a great day. Big thanks to the members of West Calder Wargames who organised the event. They were all lovely to meet, knew how to run a good event, and seem to have a plan to grow the AoS scene in the Lothians. I spent the train ride back to Edinburgh chatting to another attendee about his own hobby experiences. I'm already planning to attend the next Spearhead tournament the club hosts in October -- the only question is what Spearhead to bring...
+All in all I had a great day. Big thanks to the members of West Calder Wargamers who organised the event. They were all lovely to meet, knew how to run a good event, and seem to have a plan to grow the AoS scene in the Lothians. I spent the train ride back to Edinburgh chatting to another attendee about his own hobby experiences. I'm already planning to attend the next Spearhead tournament the club hosts in October -- the only question is what Spearhead to bring...
