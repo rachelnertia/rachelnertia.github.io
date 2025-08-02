@@ -55,6 +55,8 @@ The Spider Riders kit you can still buy is actually slightly different from the 
 
 ![](/images/2025/07/hobby/spider-rider.jpg)
 
+Rich also sent me some miscellaneous old models he doesn't think he'll ever paint. I haven't included them in my acquisition count because I'm not sure I'll ever paint them either, but I haven't really sorted through them yet.
+
 ## Works in Progress
 
 You can see my current project at the top of the article: a Dark Aelf Executioner, one of a unit of 10. For these I'm inverting my usual Cities colour scheme, giving them red cloaks and green accents. I wanted them to be bold and ostentatious, as befits a mortal wound-dealing unit, so I also put a lot of gold on their armour.
