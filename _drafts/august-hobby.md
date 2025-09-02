@@ -10,11 +10,17 @@ August. Perfidious August. In August, Edinburgh goes mad. I go mad with it, and 
 
 ## Games Played: 1
 
-It's hard to get everyone together for anything in the summer months. Consequently Path to Glory day was delayed til the last day of August following a hiatus, and we mustered only three people for it. (Ed did drop by briefly following his triathlon though, which was nice!)
+It's hard to get everyone together for anything in the summer months. Consequently Path to Glory day was delayed til the last day of August following a hiatus, and we mustered only three people for it. (Ed did drop by briefly following his triathlon though, which was nice!) Dave and myself played Seize the Land Bridge and, when Dimitrios showed up, allowed his Stormcast to drop into the game in battle round 3. This made what had seemed like a sure victory for my spiders into a headlong rout -- all except one of my units was destroyed. But it gave the Stormcast a much-needed win which should help them catch up in the campaign.
+
+It still amazes me that 3+ player rules for Age of Sigmar are always an afterthought, something to be tacked on in the final months of an edition or in a quickly-forgotten White Dwarf supplement. Multiplayer games, be they team/doubles or free-for-all are super fun, possibly the best way to play, but they always have to be homebrewed.
 
 ## Models Finished: 10
 
+10 Executioners for my Cities of Sigmar army, finished early in the month.
+
 ## Acquisitions: 2
+
+
 
 Lord Aquilor, Treelord
 
