@@ -8,6 +8,8 @@ comments: true
 
 August. Perfidious August. In August, Edinburgh goes mad. I go mad with it, and either go along with it or try to escape from it. This year I attempted a half-hearted escape, attending very few Fringe shows but not leaving the city entirely. I could have spent a lot more time hobbying, but instead I spent most of two whole weekends working on Magewinds. I'll talk about that after talking about what I managed to get done hobby-wise.
 
+<!--more-->
+
 ## Claymore
 
 As is traditional, I visited South East Scotland Wargaming Club (SESWC)'s [annual convention](https://seswc.co.uk/category/claymore/) at the Edinburgh College campus in Granton. As is traditional, I wandered around for an hour or so and then figured I'd seen everything and left. I did buy some paintbrushes though.
