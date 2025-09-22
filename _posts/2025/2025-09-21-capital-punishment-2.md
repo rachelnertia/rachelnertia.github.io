@@ -89,6 +89,10 @@ We finished with 57 points to me and 63 to him. I'm not sure how it became so cl
 
 ## Conclusion
 
-I had a good day. Everyone was very welcoming and pleasant to play Warhammer with. I can see myself doing more Age of Sigmar tournaments in the future, but first I need to figure out what I'm doing with my Spiderfang spidergang. Options are: double down and keep trying with what I've got (perhaps I could try splitting up one or two of the Spider Rider units, for starters?), water them down by including other Gitz units (a couple big blocks of Stabbas worked quite well in a previous game; the army needs anvils) or drop 'em entirely and play something else (Nighthaunt? Cities? ...Stormcast?).
+At the awards ceremony, I was chosen as Best Painted by the painting judge! My prize was Anasta Malkorian, a limited edition vampire lord from a few years ago. I look forward to painting her up some day.
+
+I had a good time. Everyone was very welcoming and pleasant to play Warhammer with. Big thanks to the organizers and other contributors for making it all happen.
+
+I can see myself doing more Age of Sigmar tournaments in the future, but first I need to figure out what I'm doing with my Spiderfang spidergang. Options are: double down and keep trying with what I've got (perhaps I could try splitting up one or two of the Spider Rider units, for starters?), water them down by including other Gitz units (a couple big blocks of Stabbas worked quite well in a previous game; the army needs anvils) or drop 'em entirely and play something else (Nighthaunt? Cities? ...Stormcast?).
 
 Or I could just hope that GW buff spiders please?
