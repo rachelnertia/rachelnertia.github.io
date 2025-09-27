@@ -2,6 +2,8 @@
 title: September Hobby
 layout: post
 category: Hobby
+tags: [ Warhammer, Age of Sigmar, Gloomspite Gitz, Conquest, Weaver Courts, Goonhammer, Magewinds ]
+comments: true
 ---
 
 ![](/images/2025/09/oberon-finished.png)
