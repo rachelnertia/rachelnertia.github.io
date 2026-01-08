@@ -11,7 +11,7 @@ I'm currently unemployed and looking for opportunities.
 
 You can get my CV in PDF format [here](/files/Rachel%20Crawford%20CV.pdf).
 
-You can follow me on [Bluesky](https://www.instagram.com/rachelnertia/), where I am an intermittent poster.
+You can follow me on [Bluesky](https://bsky.app/profile/nershly.bsky.social), where I am an intermittent poster.
 
 I also have a (rather sparse) [itch.io page](http://inertia.itch.io/).
 
