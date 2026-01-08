@@ -5,13 +5,17 @@ title: Projects
 
 Here is a list of basically every project I've taken the time to document somewhat on this site. Includes personal projects, collaborative efforts and uni work. 
 
-# Ongoing
+# Ongoing Projects
+
+Things I just can't quit.
 
 ## Magewinds
 
-A tabletop miniature skirmish wargame in which everyone is a wizard. You can check it out and get all the rules on the game's [official website](http://www.magewinds.com/).
+A tabletop miniature skirmish wargame in which everyone is a mage. You can check it out and get all the rules on the game's [website](http://www.magewinds.com/).
 
-# Abandoned
+# Abandoned Projects
+
+Things I'm no longer touching.
 
 ## Games
 
