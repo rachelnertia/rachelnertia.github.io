@@ -19,11 +19,15 @@ This is my personal website, which I (try to) use to document my interests:
  
 Please look around! 
 
+___
+
 From **2016-2025** I worked as a **Network Programmer** (starting as a Junior and finishing as a Senior) on the **Network Code** team at [Rockstar North](https://www.rockstarnorth.com/), contributing to industry-leading titles including ***Grand Theft Auto V Online***, ***Red Dead Redemption II*** and the upcoming ***Grand Theft Auto VI***.
 
 Prior to that, from **2012-2016**, I studied [Computer Games Technology](http://www.abertay.ac.uk/courses//ug/comopgamestech/) at [Abertay University](http://www.abertay.ac.uk/) in bonny Dundee. 
 
-**I'm currently unemployed and looking for opportunities**, mostly in games but elsewhere also, that make use of my skillset, which includes:
+___
+
+**I'm currently unemployed and looking for opportunities**, within and outwith the games industry, that make use of my skills, which are:
 
 - C++ for game engine programming...
 - C# for scripting, including C++/C# interop, and server programming...
@@ -35,12 +39,16 @@ Prior to that, from **2012-2016**, I studied [Computer Games Technology](http://
 
 **HIRE MEEEE**
 
+___
+
 You can find and contact me at the following places:
 
 - [LinkedIn](https://www.linkedin.com/in/rachel-crawford-a26b34108/)
 - [Bluesky](https://bsky.app/profile/nershly.bsky.social)
 - [Instagram](https://www.instagram.com/rachelnertia/)
 - [itch.io](http://inertia.itch.io/)
+
+___
 
 This site is representative of my ongoing struggle to learn web stuff, powered by [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/). You can check out the [repository on GitHub](https://github.com/rachelnertia/rachelnertia.github.io) if you wish.
 
