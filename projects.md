@@ -11,6 +11,8 @@ Things I just can't quit.
 
 ## Magewinds
 
+![](/images/magewinds.jpg)
+
 A tabletop miniature skirmish wargame in which everyone is a mage. You can check it out and get all the rules on the game's [website](http://www.magewinds.com/).
 
 # Abandoned Projects
