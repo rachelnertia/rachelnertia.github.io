@@ -11,6 +11,10 @@ I discovered (or rediscovered?) today that I've lost a lot of my university proj
 - Some PlayStation Vita coursework. There were some cool ideas in there, like a 2D platformer where you made bubbles to walk across gaps.
 - My fourth-year Honours project, which took an idea I'd experimented with in an earlier module, voxel space rendering using a compute shader, and dived into it in depth.
 
+Also gone are various small extracurricular and game jam projects. 
+
+Alas.
+
 There's an odd kind of grief here, of nostalgia denied, of the past decomposing from recorded history into fuzzy memory. I'm not sure how to articulate it. I wanted to reflect on who I was before I started working at Rockstar, revisit some old projects, and perhaps mine them for experience, ideas, and resumé material -- but I can't.
 
 Try to back up your stuff, folks. Obviously don't go overboard with it, but you never know what you'll miss when it's gone.
