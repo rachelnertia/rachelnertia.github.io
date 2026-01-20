@@ -17,7 +17,7 @@ This is my personal website, which I (try to) use to document my interests:
 - liftin'
 - painting tiny people
  
-Please look around! 
+Please look around using the links at the top of every page 🗺️
 
 ___
 
