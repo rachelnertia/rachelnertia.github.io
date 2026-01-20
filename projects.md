@@ -5,6 +5,34 @@ title: Projects
 
 Here is a list of basically every project I've taken the time to document somewhat on this site. Includes personal projects, collaborative efforts and uni work. 
 
+# Professional Credits
+
+## Rockstar Games 2016-2025
+
+At Rockstar North in Edinburgh I was part of the Network Code team as a Network Programmer, contributing to updates for *Grand Theft Auto V* and its online mode...
+
+![](/images/gta-online.webp)
+
+*Red Dead Redemption II* and its multiplayer...
+
+![](/images/red-dead-online.jpg)
+
+And, of course, the upcoming *Grand Theft Auto VI*.
+
+![](/images/gta-vi.webp)
+
+I helped develop many aspects of networking across these projects, including but not limited to:
+
+- gameplay synchronization
+- sessioning
+- server architecture
+- communication with backend services
+- platform integration
+
+As I did so, I got to work closely with developers from other teams and departments, learning how the triple-A sausage is made in visceral, up-close detail.
+
+It was a pretty good time 😊
+
 # Ongoing Projects
 
 *Things I just can't quit.*
@@ -15,13 +43,13 @@ Here is a list of basically every project I've taken the time to document somewh
 
 A tabletop miniature skirmish wargame in which everyone is a mage. You can check it out and get all the rules on the game's [website](http://www.magewinds.com/).
 
-# Abandoned Projects
+# Old Projects
 
 *Things I'm no longer touching.*
 
 ## Game Development
 
-### Quiver
+### Quiver (2016-2019ish)
 
 Quiver is a cross-platform pseudo-3d game engine I was writing in my spare time in C++. It grew out of the Box2D raycasting experiment I wrote about [here]({% post_url 2016/2016-04-07-box2d-raycasting-test %}) and [here]({% post_url 2016/2016-04-27-box2d-raycasting-progress %}) and became quite a fruitful learning project. I even gave a [presentation at the local C++ meetup about it]({% post_url 2018/2018-01-10-quiver-presentation %}).
 
@@ -64,8 +92,7 @@ Typing-based *Flappy Bird* clone
 - Platforms: Windows, Web, Mac, Linux(?)
 - Download/Play on [itch.io](http://inertia.itch.io/flappy-word)
 - [Blog posts tagged 'Flappy Word'](/tag_index#Flappy Word)
-- [Full source](https://www.dropbox.com/s/72k769m5jr741sc/flappy-word-v1-0-src.zip?dl=0) 
-- [Repository](https://bitbucket.org/r_crawford/flappy-word)
+- [Full source](/files/flappy_word_src.zip)
 
 <br>
 
@@ -96,6 +123,12 @@ Endless runner with world-shifting mechanic.
 - [Ludum Dare page](http://ludumdare.com/compo/ludum-dare-30/?action=preview&uid=39966)
 - [itch.io page](http://rhythmlynx.itch.io/spirit-shift)
 
+### Other Games
+
+- **Applied Games Technology coursework (2016)** 
+  - Augmented reality PlayStation Vita game in which you must surveil a crowd of pedestrians to find and eliminate a target. 
+  - [Blog post]({% post_url 2016/2016-05-08-augmented-reality-ps-vita %}).
+
 ## Graphics Programming
 
 ### Water (2014)
@@ -103,7 +136,7 @@ Endless runner with world-shifting mechanic.
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/lz3jgA7NtzI" frameborder="0" allowfullscreen></iframe>
 
 - DirectX 11, C++
-- Part 1 of my Graphics Programming with Shaders coursework ([Download](https://www.dropbox.com/s/ug39wrjzturemor/graphics%20programming%20with%20shaders.zip?dl=0))
+- Part 1 of my Graphics Programming with Shaders coursework ([Download](/files/uni-coursework/graphics-programming-with-shaders.zip))
 - Water plane is tessellated. Waves formed by manipulating vertices in the domain shader. Normal map used to add some noisiness to the surface.
 - Water reflects the skybox cubemap
 - Bonus: full-screen pixelation effect (the easiest full-screen effect to write!)
@@ -115,10 +148,18 @@ Endless runner with world-shifting mechanic.
 More deets in the video description. Also [this](https://www.youtube.com/watch?v=c27ULJLitV8).
 
 - DirectX 11, C++
-- Part 2 of my Graphics Programming with Shaders coursework ([Download](https://www.dropbox.com/s/ug39wrjzturemor/graphics%20programming%20with%20shaders.zip?dl=0))
+- Part 2 of my Graphics Programming with Shaders coursework ([Download](/files/uni-coursework/graphics-programming-with-shaders.zip))
 - Compute shader port of the 'voxel space' rendering algorithm implementation on display at [Simulation Corner](http://simulationcorner.net/index.php?page=comanche)
 
+This went on to form the basis of my fourth-year Honours project, of which, unfortunately, I seem to have lost all records. (It was a stressful time.)
+
 ## Other Programming
+
+### Warcry Card Creator (2019)
+
+![](/images/warcry-card-creator-example.png)
+
+A little web tool for making custom fighter cards for Warcry, a skirmish game from Games Workshop. You can [try it out](http://rachelnertia.github.io/warcry-card-creator) and view the [source](https://github.com/rachelnertia/warcry-card-creator), but know that it has since been forked and vastly improved upon by the Warcry community, and you can find the most up-to-date version of it [here](https://barrysheppard.github.io/warcry-card-creator/index.html).
 
 ### Procedural Walker (2015)
 
