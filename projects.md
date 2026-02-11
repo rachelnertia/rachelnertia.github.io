@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---
 
-Here is a list of basically every project I've taken the time to document somewhat on this site. Includes personal projects, collaborative efforts and uni work. 
+Here is a list of some projects I've contributed to. It includes personal projects, collaborative efforts and uni work. 
 
 # Professional Credits
 
@@ -33,6 +33,8 @@ As I did so, I got to work closely with developers from other teams and departme
 
 It was a pretty good time 😊
 
+___
+
 # Ongoing Projects
 
 *Things I just can't quit.*
@@ -42,6 +44,8 @@ It was a pretty good time 😊
 ![](/images/magewinds.jpg)
 
 A tabletop miniature skirmish wargame in which everyone is a mage. You can check it out and get all the rules on the game's [website](http://www.magewinds.com/).
+
+___
 
 # Old Projects
 
