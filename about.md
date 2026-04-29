@@ -27,17 +27,7 @@ Prior to that, from **2012-2016**, I studied [Computer Games Technology](http://
 
 ___
 
-**I'm currently unemployed and looking for opportunities**, within and outwith the games industry, that make use of my skills, which are:
-
-- C++ for game engine programming...
-- C# for scripting, including C++/C# interop, and server programming...
-- networking, from gameplay synchronisation to sessioning to online services integration
-- Xbox, PlayStation, and Windows development...
-- source control systems including Perforce and Git...
-- Unity...
-- other stuff I can't think of right now, or haven't learned yet but would be very excited to pick up!
-
-**HIRE MEEEE**
+I'm currently waiting to begin a new job in mid-May. Exciting (and busy) times ahead!
 
 ___
 
