@@ -7,6 +7,7 @@ comments: true
 ---
 
 ![](/images/2026/05/zikkits-tunnelpack.jpg)
+*Left to Right: Rittak, Nitch, Zikkit, Krittatok and Tik-Tik.*
 
 Just painted up Zikkit's Tunnelpack from [Warhammer Underworlds: Embergard](https://www.warhammer.com/en-GB/shop/warhammer-underworlds-embergard-2024-eng). They're the first Skaven I've painted in about 7 years, the last being the original Skaven Underworlds warband, Spiteclaw's Swarm. Since then I've evolved a lot as a painter and gained access to new materials, like Contrast paints. 
 
@@ -35,6 +36,9 @@ Bronze:
 - Nihilakh Oxide for extra oxidation
 - VMeC Silver edge highlights
 
+![](/images/2026/05/zikkit-back.jpg)
+*Colour wheel courtesy of [HTML Color Codes](https://htmlcolorcodes.com/color-wheel/)*
+
 Wood:
 
 - Wyldwood
@@ -45,6 +49,9 @@ Warpstone, Fire and Tech:
 - Warp Lightning
 - Moot Green highlights
 - Flash Gitz Yellow peak highlights
+
+<img src="/images/2026/05/nitch.jpg" width="49%" style="display:inline;"/>
+<img src="/images/2026/05/nitch-back.jpg" width="49%" style="display:inline;"/>
 
 Skin and Tail:
 
@@ -60,7 +67,8 @@ Fur:
 - Druchii Violet wash
 - VMoC Light Grey highlights
 
-![](/images/2026/05/zikkit-back.jpg)
+<img src="/images/2026/05/krittatok.jpg" width="49%" style="display:inline;"/>
+<img src="/images/2026/05/krittatok-back.jpg" width="49%" style="display:inline;"/>
 
 Leather:
 
@@ -74,7 +82,6 @@ Cloth:
 - Ushabti Bone highlights, sometimes glazed back with Sigvald Burgundy or Magos Purple or Volupus Pink
 
 ![](/images/2026/05/wheel.jpg)
-*Colour wheel courtesy of [HTML Color Codes](https://htmlcolorcodes.com/color-wheel/)*
 
 I'll be going for ashy grey bases on the rest of my skaven, but the Tunnelpack's sculpted bases represent the mines beneath Embergard, in Aqshy, so I painted them with ruddy earth and sinister red Emberstone-infused puddles.
 
@@ -88,3 +95,5 @@ I'll be going for ashy grey bases on the rest of my skaven, but the Tunnelpack's
 - VMeC Silver edge highlights on metal
 
 I have an itch to play some more Underworlds, so hopefully these guys will see the table soon!
+
+![](/images/2026/05/wheel-back.jpg)
