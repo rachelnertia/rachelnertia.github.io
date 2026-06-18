@@ -27,7 +27,9 @@ Prior to that, from **2012-2016**, I studied [Computer Games Technology](http://
 
 ___
 
-I'm currently waiting to begin a new job in mid-May. Exciting (and busy) times ahead!
+As of May 2026 I am employed as a **Senior Network Programmer** by [Elsewhere Entertainment](https://www.activision.com/uk/en/elsewhere), working remotely.
+
+I am excited for the day when I can talk about it some more...
 
 ___
 
