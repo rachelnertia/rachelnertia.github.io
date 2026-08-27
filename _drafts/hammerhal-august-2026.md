@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hammerhal Spearhead Tournament August 2026
+title: Hammerhal Spearhead Tournament, Livingston, 23rd August
 category: Gaming
 tags: [ Warhammer, AoS, Spearhead, West Calder Wargamers, Livingston ]
 ---
