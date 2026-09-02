@@ -1,0 +1,71 @@
+---
+layout: post
+title: Hammerhal Spearhead Tournament, Livingston, 23rd August
+category: Gaming
+tags: [ Warhammer, AoS, Spearhead, West Calder Wargamers, Livingston ]
+comments: true
+---
+
+Last Sunday I took a trip to Livingston United Parish Church for my 2nd ever Spearhead tournament. [The first]({% post_url 2025/2025-08-02-hammerhal-spearhead-tournament %}) was at about the same time last year, in the same place, also hosted by West Calder Wargamers. It consisted of 4 games played over the course of the afternoon, with a break for pizza after the second round. I took *Crixxit's Kill-Pack*, the new Skaven Spearhead featuring all the new Clans Eshin models, which I got painted up earlier in the Summer. (I haven't hobby-blogged about them yet because of busyness, and getting used to my new phone's camera, but hopefully I'll get around to it soon.)
+
+## Round 1 
+
+![](/images/hammerhal5/round1.jpg)
+
+In round 1 I faced off against the **Sentinels of Embergard**, the latest Cities of Sigmar Spearhead, on the **City of Ash** board. Because I was playing Crixxit's Kill-Pack this meant we were playing the canonical City of Ash matchup!
+
+This battle felt a bit unfair unfortunately, in part due to an experience gap but also because I reckon the Sentinels of Embergard will always struggle against Crixxit's Kill-Pack. The Grenadiers can easily wipe a unit of rats in melee if they get to fight first, but it's easy for the Skaven to prevent them from doing so. Their shooting is weak, at least against this enemy, so there's no consolation there. The Gallants are paying a lot for their armour which is not useful against enemies who Crit (Mortal) in melee. The heroes didn't get to do much either. I'm sad the forces don't feel more balanced against each other because it means a lot of new players might have miserable, one-sided early games if the City of Ash box is their intro to Age of Sigmar.
+
+![](/images/hammerhal5/round1summary.png)
+
+## Round 2
+
+In round 2 my opponent was playing the **Starscale Warhost** (the Seraphon Spearhead with the Carnosaur in) on **Fire and Jade**.
+
+![](/images/hammerhal5/round2.jpg)
+
+I was most afraid of the Carnosaur because of its high Health. Fortunately Ali marched it right up into the middle in the first turn, allowing me to hit it with almost my whole army and kill it pretty quickly.
+
+After that I just kind of stayed away from the Kroxigor as best I could, feeling grateful that my opponent had deployed them on the flank, but eventually dealing with them in the final round. The Saurus Warriors were tough because of their friendly-territory ward but generally did not get much done.
+
+![](/images/hammerhal5/round2summary.png)
+
+## Round 3
+
+![](/images/hammerhal5/round3.jpg)
+
+Round 3 was versus the **Spitewing Flight** Sylvaneth Spearhead on **Sand and Bone**.
+
+This game was completely mad. We were hootin' and hollerin' throughout, and by the end a small crowd had gathered to watch the final moments. 
+
+The Sylvaneth are very, very fast. Keith went first and, despite my back-board deployment, was immediately in my face with the lance-wielding cavalry and Arch-Revenant in the middle, and scythe-wielding cavalry on the left flank. I popped my once-per-battle strikes-first ability on Crixxit along with a battle tactic to let him fight twice. He killed a cavalry model with his first fight, but then was killed before he could fight again. In revenge my Deathmaster, having teleported next to the Arch-Revenant, utterly overkilled the enemy hero. Another bug rider went down in to the combined attacks of the other rats.
+
+After that the game became very close-fought, with every roll mattering. At the beginning of round 3 there were a total of 3 models on the board. 
+
+In the final turn I was able to run a single Night-Runner across the board and teleport my Deathmaster onto the top-right objective, winning me the game by 2 points, BUT afterwards, as I was explaining it to another player and realised I'd gotten a rule wrong -- the teleport ability can only be used on units with 2 or more models, so my solo rat wasn't eligible. I ran back inside and explained to Keith. We re-wound the final moments of the game and determined that we'd actually drawn. I'm so glad I caught my error!
+
+![](/images/hammerhal5/round3summary.png)
+
+## Round 4
+
+![](/images/hammerhal5/round4.jpg)
+
+In the final round I fought the **Gnawfeast Clawpack** (the Skaven Spearhead containing models from the Skaventide box) on **City of Ash**. 
+
+Having drawn in the final round, there was no way I could now win overall, but I was still in it to podium. There were some things that didn't go my way in this game, but most things did. I was able to keep his respawning, recursing Clanrats hemmed into the middle of the board where their Control was wasted, while killing other stuff. The most problematic enemy unit, it turned out, was the Warlock-Engineer, who did a lot of extremely effective sniping, killing Crixxit two times over the course of the battle. Fun!
+
+![](/images/hammerhal5/round4summary.png)
+
+## Conclusion
+
+At the end I placed third, after Keith (who I drew with in round 2) and Michael, who I didn't get to play against. 
+
+![](/images/hammerhal5/placings.png)
+
+I won a huge 3D-printed bronze trophy that I do not know what to do with.
+
+![](/images/hammerhal5/trophy.jpg)
+
+I had such a great afternoon at the tournament. Thanks once again to the organisers, who are fantastic event runners. This year has been *insanely* stressful for a few reasons (but mainly one BIG reason) so good times like the afternoon I had in Livingston are much-needed and highly-appreciated. I recommend taking a Spearhead along to one of West Calder Wargamers' tournaments, which run quite frequently, the next one being in November. (Alas, I'm not likely to be able to attend that one.)
+
+I continue to find Spearhead to be a great game mode. And Crixxit's Kill-Pack are very good-good.
